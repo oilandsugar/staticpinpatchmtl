@@ -1,0 +1,32 @@
+{{ partial "header" . }}
+    {{ $.Scratch.Set "shareNav" true }}
+    {{ partial "navbar" . }}
+
+    <!-- Press page content -->
+
+    <section class="content big-padding-top">
+      <div class="wrap big-padding-top big-padding-bottom">
+        <div class="">
+          <h1 data-translatable class="blue medium-padding-bottom">
+            <span>Pin Patch Mtl in the press</span>
+            <span>Pin Patch Mtl dans les médias</span>
+          </h1>
+        </div>
+      </div>
+    </section>
+
+    <section class="content big-padding-bottom">
+      <div class="press-articles big-padding-bottom">
+        <div class="wrap">
+          <div id="press-container" class="flex-row flex-wrap">
+            {{ range $.Site.Data.press.articles }}
+              {{ partial "pressarticle.html" . }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- end Press page content -->
+
+{{ partial "footer" . }}

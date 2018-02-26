@@ -1,0 +1,18 @@
+<nav class="main-nav menu light-grey-back">
+  <div class="wrap">
+    <div class="menu-left">
+      {{ range .Site.Menus.main }}
+        <a class="menu-item" href="{{ .URL }}" data-translatable>
+          {{ .Name }}
+        </a>
+      {{ end }}
+    </div>
+    <div class="social">
+      <a href="https://www.instagram.com/pinpatchmtl/" target="_blank"><i class="fa fa-instagram"></i></a>
+      <a href="https://www.facebook.com/pinpatchmtl/" target="_blank"><i class="fa fa-facebook"></i></a>
+    </div>
+    <div class="lang-selector">
+      <a class="active" data-lang="en" id="en-link">EN</a>/<a data-lang="fr" id="fr-link">FR</a>
+    </div>
+  </div>
+</nav>
