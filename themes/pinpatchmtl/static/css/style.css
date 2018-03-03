@@ -370,6 +370,10 @@ body {
     margin-bottom: 30px;
 }
 
+.no-margin {
+  margin:0;
+}
+
 /* -------- COLORS ---------*/
 
 .light-grey-back {
@@ -452,12 +456,12 @@ h1 {
 
 h1.bar-top {
   border-top:6px solid;
-  padding-top:10px;
+  padding-top:30px;
 }
 
 h1.bar-bottom {
   border-bottom:6px solid;
-  padding-bottom:10px;
+  padding-bottom:30px;
 }
 
 h2 {
@@ -686,6 +690,11 @@ hr.light {
   color:#c90546;
 }
 
+.bar-bottom {
+  border-bottom: 6px solid #0000E2;
+  padding-bottom: 30px;
+}
+
 /* -------------------------------------
 //////////// NAVIGATION ////////////////
 --------------------------------------*/
@@ -856,7 +865,7 @@ small.note {
 }
 
 .top-sponsors .item {
-  /*max-width:150px; */
+  max-width:150px;
   text-align:center;
   padding:0 20px 0 0;
   font-size:14px;
@@ -1110,6 +1119,17 @@ small.note {
   font-size:12px;
 }
 
+.footer-menu  {
+  text-align:right;
+  width: 200px;
+  float:right;
+}
+
+.footer-menu a {
+  display:block;
+  font-weight:bold;
+}
+
 @media screen and (max-width:1068px) {
   .wrap {
     padding: 0 30px;
@@ -1127,7 +1147,25 @@ small.note {
 
 @media screen and (max-width:480px) {
   h1 {
-    font-size:45px;
+    font-size:35px;
+  }
+  h1.bar-bottom,
+  .bar-bottom {
+    border-bottom: 6px solid #0000E2;
+    padding-bottom: 20px;
+  }
+  h1.bar-top {
+      border-top: 6px solid;
+      padding-top: 20px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  .date-main {
+    font-size:25px;
+  }
+  .place-main {
+    font-size:14px;
   }
   #instafeed a.insta-post {
     max-width: calc(100% - 30px);
@@ -1140,6 +1178,9 @@ small.note {
   }
   .menu .wrap {
     width:1500px;
+  }
+  .menu {
+    z-index:1000;
   }
   .logo {
     max-width:150px;
@@ -1178,6 +1219,18 @@ small.note {
   .big-padding-bottom {
     padding-bottom: 30px;
   }
+  .medium-margin-bottom {
+    margin-bottom:20px;
+  }
+  .medium-padding-left {
+    padding-left:0;
+  }
+  .medium-padding-right {
+    padding-right:0;
+  }
+  .small-padding-left {
+    padding-left:0;
+  }
   .small-things {
     width:1000px;
     margin-left:-500px;
@@ -1213,5 +1266,13 @@ small.note {
   .preorder-pin {
     padding-left:30px;
     padding-right:30px;
+  }
+  .footer-menu {
+        margin-top: -132px;
+  }
+  .press-article {
+    min-width:100%;
+    max-width:100%;
+    margin: 0 0 30px 0;
   }
 }
