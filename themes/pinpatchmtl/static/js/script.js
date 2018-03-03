@@ -17,7 +17,7 @@ jQuery(function ($) {
        target: 'instafeed',
        userId: '5794830080',
        limit: "9",
-       accessToken: '5794830080.29936be.cd56a08f3b5342f698a9291cdab9d939',
+       accessToken: '5794830080.1677ed0.e4f7b9eefb4e405b9c19d7ffaa322f60',
        resolution: 'standard_resolution',
        template: '<a class="insta-post" target="_blank" href="{{link}}"><img src="{{image}}" /></a>'
    });
