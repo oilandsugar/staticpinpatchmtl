@@ -4,13 +4,13 @@ languageCode = "en-us"
 theme = "pinpatchmtl"
 title = "Pin Patch Mtl"
 [[menu.footer]]
-name = "Press // Presse"
-url = "/press"
-weight = 4
-[[menu.footer]]
 name = "Artists // Artistes"
 url = "/artists"
 weight = 3
+[[menu.footer]]
+name = "Press // Presse"
+url = "/press"
+weight = 4
 [[menu.footer]]
 name = "Apply // Appliquer"
 url = "/apply"
@@ -20,13 +20,13 @@ name = "Pin Patch Mtl"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Press // Presse"
-url = "/press"
-weight = 4
-[[menu.main]]
 name = "Artists // Artistes"
 url = "/artists"
 weight = 3
+[[menu.main]]
+name = "Press // Presse"
+url = "/press"
+weight = 4
 [[menu.main]]
 name = "Apply // Appliquer"
 url = "/apply"
