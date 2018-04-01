@@ -1,0 +1,10 @@
+<section class="content medium-padding-bottom big-padding-top">
+    <div class='wrap featured-artists artists'>
+      <h2 class="blue" data-translatable>Featured artists // Invités d'honneur</h3>
+      <div class="flex-row flex-wrap artist-container">
+        {{ range $.Site.Data.featured_artists.artists }}
+          {{ partial "featured_artist_card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  </section>

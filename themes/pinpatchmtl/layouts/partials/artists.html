@@ -1,0 +1,10 @@
+<section class="content big-padding-bottom medium-padding-top">
+    <div class='wrap artists '>
+      <h2 class="blue" data-translatable>Artists // Artistes</h3>
+        <div class="flex-row flex-wrap artist-container">
+          {{ range $.Site.Data.artists.artists }}
+            {{ partial "artist_card.html" . }}
+          {{ end }}
+        </div>
+    </div>
+  </section>
