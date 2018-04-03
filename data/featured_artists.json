@@ -4,14 +4,14 @@
       "name": "Weekender Supply ",
       "shopurl": "https://weekendersupply.co/",
       "instagram": "https://www.instagram.com/weekendersupply/",
-      "featured": "main_weekender.jpg",
+      "featured": "/img/main_weekender.jpg",
       "hometown": "Toronto"
     },
     {
       "name": "Stay Home Club",
       "shopurl": "https://stayhomeclub.com/",
       "instagram": "https://www.instagram.com/stayhomeclubofficial/",
-      "featured": "main_shc.jpg",
+      "featured": "/img/main_shc.jpg",
       "hometown": "Montreal"
     }
   ]
