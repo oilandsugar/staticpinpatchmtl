@@ -4,21 +4,21 @@
       "name": "Manière Noire",
       "shopurl": "http://manierenoireshop.com",
       "instagram": "https://www.instagram.com/manierenoireshop/",
-      "featured": "/img/main_mn.jpg",
+      "featured": "main_mn.jpg",
       "hometown": "Montreal"
     },
     {
       "name": "Badaboöm Studio ",
       "shopurl": "https://badaboom-studio.com/",
       "instagram": "https://www.instagram.com/badaboomprintshop/",
-      "featured": "main_badaboomprintshop.jpg",
+      "featured": "/img/main_badaboomprintshop.jpg",
       "hometown": "Toronto"
     },
     {
       "name": "Valérie Bastille",
       "shopurl": "http://valeriebastille.storenvy.com",
       "instagram": "https://www.instagram.com/valeriebastille/",
-      "featured": "main_valbas.jpg",
+      "featured": "/img/main_valbas.jpg",
       "hometown": "Montreal"
     },
     {
