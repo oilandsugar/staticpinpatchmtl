@@ -62,6 +62,34 @@
       "featured": "/uploads/2018/04/03/main_hoodrats.jpg",
       "hometown": "Montréal",
       "shopurl": "www.WeAreHoodRats.com"
+    },
+    {
+      "name": "Sweet Lou's Magasin Général",
+      "instagram": "https://www.instagram.com/sweetlousmagasingeneral/",
+      "featured": "/static/img/main_sweetL.jpg",
+      "hometown": "Montréal",
+      "shopurl": "http://sweetlousmagasingeneral.bigcartel.com/"
+    },
+    {
+      "name": "The 22nd",
+      "instagram": "https://www.instagram.com/teaness/",
+      "featured": "/static/img/main_the22nd.jpg",
+      "shopurl": "http://the22nd.tictail.com/",
+      "hometown": "Montréal"
+    },
+    {
+      "featured": "/static/img/main_jesshrycyk.jpg",
+      "hometown": "Toronto",
+      "name": "Jess Hrycyk",
+      "shopurl": "https://www.etsy.com/ca/shop/JessHrycyk",
+      "instagram": "https://www.instagram.com/jesshrycyk/"
+    },
+    {
+      "featured": "/static/img/main_sasha_hanse.jpg",
+      "hometown": "Montréal",
+      "name": "Sasha Hansé",
+      "shopurl": "https://www.etsy.com/ca/shop/SashaHanse?",
+      "instagram": "https://www.instagram.com/sasha_hanse/"
     }
   ]
 }
