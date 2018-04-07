@@ -104,6 +104,13 @@
       "instagram": "https://www.instagram.com/vagabondheartco",
       "featured": "/static/img/main_vagabond.jpg",
       "hometown": "Montréal"
+    },
+    {
+      "name": "Laracaille",
+      "featured": "/static/img/main_laracailletattoo.jpg",
+      "hometown": "Montréal",
+      "instagram": "https://www.instagram.com/laracailletattoo/",
+      "shopurl": "https://www.etsy.com/shop/laracaille"
     }
   ]
 }
