@@ -99,11 +99,11 @@
       "shopurl": "http://thelostattic.storenvy.com"
     },
     {
-      "name": "",
-      "shopurl": "",
-      "instagram": "",
-      "featured": "",
-      "hometown": ""
+      "name": "Vagabond Heart",
+      "shopurl": "http://www.vagabondheart.co",
+      "instagram": "https://www.instagram.com/vagabondheartco",
+      "featured": "/static/img/main_vagabond.jpg",
+      "hometown": "Montréal"
     }
   ]
 }
