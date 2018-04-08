@@ -1,116 +1,114 @@
-{
-  "artists": [
-    {
-      "name": "Manière Noire",
-      "shopurl": "http://manierenoireshop.com",
-      "instagram": "https://www.instagram.com/manierenoireshop/",
-      "featured": "/img/main_mn.jpg",
-      "hometown": "Montreal"
-    },
-    {
-      "name": "Badaboöm Studio ",
-      "shopurl": "https://badaboom-studio.com/",
-      "instagram": "https://www.instagram.com/badaboomprintshop/",
-      "featured": "/img/main_badaboomprintshop.jpg",
-      "hometown": "Toronto"
-    },
-    {
-      "name": "Valérie Bastille",
-      "shopurl": "http://valeriebastille.storenvy.com",
-      "instagram": "https://www.instagram.com/valeriebastille/",
-      "featured": "/img/main_valbas.jpg",
-      "hometown": "Montreal"
-    },
-    {
-      "name": "House of Pink Art",
-      "shopurl": "https://www.etsy.com/ca/shop/HouseofPinkArt",
-      "instagram": "https://www.instagram.com/houseofpinkart/",
-      "featured": "/img/main_houseofpink.png",
-      "hometown": "Montreal"
-    },
-    {
-      "name": "Lovestruck Prints",
-      "shopurl": "https://www.etsy.com/ca/shop/lovestruckprints",
-      "instagram": "https://www.instagram.com/lovestruckprints/",
-      "featured": "/img/main_lsp.jpg",
-      "hometown": "Montreal"
-    },
-    {
-      "name": "La Pimbêche",
-      "shopurl": "https://www.etsy.com/shop/Lapimbeche",
-      "instagram": "https://www.instagram.com/la_pimbeche/",
-      "featured": "/img/Main_Lapimbeche.jpg",
-      "hometown": "Montreal"
-    },
-    {
-      "shopurl": "www.etsy.com/shop/ambivalentlyyours",
-      "featured": "/img/main_ambivalent.JPG",
-      "hometown": "Montréal",
-      "name": "Ambivalently Yours",
-      "instagram": "www.instagram.com/ambivalentlyyours/"
-    },
-    {
-      "name": "Lady No Brow",
-      "instagram": "https://www.instagram.com/ladynobrow/",
-      "featured": "/img/main_ladynobrow.jpg",
-      "shopurl": "ladynobrow.com",
-      "hometown": "Montréal"
-    },
-    {
-      "name": "Hood Rats",
-      "instagram": "https://www.instagram.com/hoodrats.co/",
-      "featured": "/img/main_hoodrats.jpg",
-      "hometown": "Montréal",
-      "shopurl": "http://www.WeAreHoodRats.com"
-    },
-    {
-      "name": "Sweet Lou's Magasin Général",
-      "instagram": "https://www.instagram.com/sweetlousmagasingeneral/",
-      "featured": "/img/main_sweetL.jpg",
-      "hometown": "Montréal",
-      "shopurl": "http://sweetlousmagasingeneral.bigcartel.com/"
-    },
-    {
-      "name": "The 22nd",
-      "instagram": "https://www.instagram.com/teaness/",
-      "featured": "/img/main_the22nd.jpg",
-      "shopurl": "http://the22nd.tictail.com/",
-      "hometown": "Montréal"
-    },
-    {
-      "featured": "/img/main_jesshrycyk.jpg",
-      "hometown": "Toronto",
-      "name": "Jess Hrycyk",
-      "shopurl": "https://www.etsy.com/ca/shop/JessHrycyk",
-      "instagram": "https://www.instagram.com/jesshrycyk/"
-    },
-    {
-      "featured": "/img/main_sasha_hanse.jpg",
-      "hometown": "Montréal",
-      "name": "Sasha Hansé",
-      "shopurl": "https://www.etsy.com/ca/shop/SashaHanse?",
-      "instagram": "https://www.instagram.com/sasha_hanse/"
-    },
-    {
-      "instagram": "https://www.instagram.com/findthelostattic/",
-      "featured": "",
-      "hometown": "Montreal",
-      "name": "The Lost Attic",
-      "shopurl": "http://thelostattic.storenvy.com"
-    },
-    {
-      "name": "Vagabond Heart",
-      "shopurl": "http://www.vagabondheart.co",
-      "instagram": "https://www.instagram.com/vagabondheartco",
-      "featured": "/img/main_vagabond.jpg",
-      "hometown": "Montréal"
-    },
-    {
-      "name": "Laracaille",
-      "featured": "/img/main_laracailletattoo.jpg",
-      "hometown": "Montréal",
-      "instagram": "https://www.instagram.com/laracailletattoo/",
-      "shopurl": "https://www.etsy.com/shop/laracaille"
-    }
-  ]
-}
+[
+  {
+    "name": "Manière Noire",
+    "shopurl": "http://manierenoireshop.com",
+    "instagram": "https://www.instagram.com/manierenoireshop/",
+    "featured": "/img/main_mn.jpg",
+    "hometown": "Montreal"
+  },
+  {
+    "name": "Badaboöm Studio ",
+    "shopurl": "https://badaboom-studio.com/",
+    "instagram": "https://www.instagram.com/badaboomprintshop/",
+    "featured": "/img/main_badaboomprintshop.jpg",
+    "hometown": "Toronto"
+  },
+  {
+    "name": "Valérie Bastille",
+    "shopurl": "http://valeriebastille.storenvy.com",
+    "instagram": "https://www.instagram.com/valeriebastille/",
+    "featured": "/img/main_valbas.jpg",
+    "hometown": "Montreal"
+  },
+  {
+    "name": "House of Pink Art",
+    "shopurl": "https://www.etsy.com/ca/shop/HouseofPinkArt",
+    "instagram": "https://www.instagram.com/houseofpinkart/",
+    "featured": "/img/main_houseofpink.png",
+    "hometown": "Montreal"
+  },
+  {
+    "name": "Lovestruck Prints",
+    "shopurl": "https://www.etsy.com/ca/shop/lovestruckprints",
+    "instagram": "https://www.instagram.com/lovestruckprints/",
+    "featured": "/img/main_lsp.jpg",
+    "hometown": "Montreal"
+  },
+  {
+    "name": "La Pimbêche",
+    "shopurl": "https://www.etsy.com/shop/Lapimbeche",
+    "instagram": "https://www.instagram.com/la_pimbeche/",
+    "featured": "/img/Main_Lapimbeche.jpg",
+    "hometown": "Montreal"
+  },
+  {
+    "shopurl": "www.etsy.com/shop/ambivalentlyyours",
+    "featured": "/img/main_ambivalent.JPG",
+    "hometown": "Montréal",
+    "name": "Ambivalently Yours",
+    "instagram": "www.instagram.com/ambivalentlyyours/"
+  },
+  {
+    "name": "Lady No Brow",
+    "instagram": "https://www.instagram.com/ladynobrow/",
+    "featured": "/img/main_ladynobrow.jpg",
+    "shopurl": "ladynobrow.com",
+    "hometown": "Montréal"
+  },
+  {
+    "name": "Hood Rats",
+    "instagram": "https://www.instagram.com/hoodrats.co/",
+    "featured": "/img/main_hoodrats.jpg",
+    "hometown": "Montréal",
+    "shopurl": "http://www.WeAreHoodRats.com"
+  },
+  {
+    "name": "Sweet Lou's Magasin Général",
+    "instagram": "https://www.instagram.com/sweetlousmagasingeneral/",
+    "featured": "/img/main_sweetL.jpg",
+    "hometown": "Montréal",
+    "shopurl": "http://sweetlousmagasingeneral.bigcartel.com/"
+  },
+  {
+    "name": "The 22nd",
+    "instagram": "https://www.instagram.com/teaness/",
+    "featured": "/img/main_the22nd.jpg",
+    "shopurl": "http://the22nd.tictail.com/",
+    "hometown": "Montréal"
+  },
+  {
+    "featured": "/img/main_jesshrycyk.jpg",
+    "hometown": "Toronto",
+    "name": "Jess Hrycyk",
+    "shopurl": "https://www.etsy.com/ca/shop/JessHrycyk",
+    "instagram": "https://www.instagram.com/jesshrycyk/"
+  },
+  {
+    "featured": "/img/main_sasha_hanse.jpg",
+    "hometown": "Montréal",
+    "name": "Sasha Hansé",
+    "shopurl": "https://www.etsy.com/ca/shop/SashaHanse?",
+    "instagram": "https://www.instagram.com/sasha_hanse/"
+  },
+  {
+    "instagram": "https://www.instagram.com/findthelostattic/",
+    "featured": "",
+    "hometown": "Montreal",
+    "name": "The Lost Attic",
+    "shopurl": "http://thelostattic.storenvy.com"
+  },
+  {
+    "name": "Vagabond Heart",
+    "shopurl": "http://www.vagabondheart.co",
+    "instagram": "https://www.instagram.com/vagabondheartco",
+    "featured": "/img/main_vagabond.jpg",
+    "hometown": "Montréal"
+  },
+  {
+    "name": "Laracaille",
+    "featured": "/img/main_laracailletattoo.jpg",
+    "hometown": "Montréal",
+    "instagram": "https://www.instagram.com/laracailletattoo/",
+    "shopurl": "https://www.etsy.com/shop/laracaille"
+  }
+]
