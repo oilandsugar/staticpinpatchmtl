@@ -43,7 +43,7 @@
   },
   {
     "shopurl": "www.etsy.com/shop/ambivalentlyyours",
-    "featured": "/uploads/2018/04/03/main_ambivalent.JPG",
+    "featured": "/img/main_ambivalent.JPG",
     "hometown": "Montréal",
     "name": "Ambivalently Yours",
     "instagram": "www.instagram.com/ambivalentlyyours/"
@@ -51,7 +51,7 @@
   {
     "name": "Lady No Brow",
     "instagram": "https://www.instagram.com/ladynobrow/",
-    "featured": "/uploads/2018/04/03/main_ladynobrow.jpg",
+    "featured": "/img/main_ladynobrow.jpg",
     "shopurl": "ladynobrow.com",
     "hometown": "Montréal"
   },
@@ -65,26 +65,26 @@
   {
     "name": "Sweet Lou's Magasin Général",
     "instagram": "https://www.instagram.com/sweetlousmagasingeneral/",
-    "featured": "/static/img/main_sweetL.jpg",
+    "featured": "/img/main_sweetL.jpg",
     "hometown": "Montréal",
     "shopurl": "http://sweetlousmagasingeneral.bigcartel.com/"
   },
   {
     "name": "The 22nd",
     "instagram": "https://www.instagram.com/teaness/",
-    "featured": "/static/img/main_the22nd.jpg",
+    "featured": "/img/main_the22nd.jpg",
     "shopurl": "http://the22nd.tictail.com/",
     "hometown": "Montréal"
   },
   {
-    "featured": "/static/img/main_jesshrycyk.jpg",
+    "featured": "/img/main_jesshrycyk.jpg",
     "hometown": "Toronto",
     "name": "Jess Hrycyk",
     "shopurl": "https://www.etsy.com/ca/shop/JessHrycyk",
     "instagram": "https://www.instagram.com/jesshrycyk/"
   },
   {
-    "featured": "/static/img/main_sasha_hanse.jpg",
+    "featured": "/img/main_sasha_hanse.jpg",
     "hometown": "Montréal",
     "name": "Sasha Hansé",
     "shopurl": "https://www.etsy.com/ca/shop/SashaHanse?",
@@ -101,12 +101,12 @@
     "name": "Vagabond Heart",
     "shopurl": "http://www.vagabondheart.co",
     "instagram": "https://www.instagram.com/vagabondheartco",
-    "featured": "/static/img/main_vagabond.jpg",
+    "featured": "/img/main_vagabond.jpg",
     "hometown": "Montréal"
   },
   {
     "name": "Laracaille",
-    "featured": "/static/img/main_laracailletattoo.jpg",
+    "featured": "/img/main_laracailletattoo.jpg",
     "hometown": "Montréal",
     "instagram": "https://www.instagram.com/laracailletattoo/",
     "shopurl": "https://www.etsy.com/shop/laracaille"
