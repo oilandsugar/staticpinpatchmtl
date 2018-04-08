@@ -15,13 +15,21 @@
     </section>
 
     <section class="content big-padding-bottom">
-      <div class="press-articles big-padding-bottom">
+      <div class="press-articles medium-padding-bottom">
         <div class="wrap">
           <div id="press-container" class="flex-row flex-wrap">
             {{ range $.Site.Data.press.articles }}
               {{ partial "pressarticle.html" . }}
             {{ end }}
           </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="content big-padding-bottom">
+      <div class="press-kit big-padding-bottom">
+        <div class="wrap">
+          <a class="button bigger" href="https://l.messenger.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1wKOv4LEoj3JjYpT8gmgWU8ZhOAv_SIY-&h=ATM7bqJr7_yWri9zY3Eoi-hjLYpoyvin7LmNZ6uVu-D-NufxxikesrCYW_bO0VjwJD5VP4neeM2OYAnbr8Gz8q4e4NdtMXhnCIzMDA6vV5l_x5y4iE8hQYSm0uU" target="blank" data-translatable>Download Press Kit // Télécharger notre dossier de presse</a>
         </div>
       </div>
     </section>
