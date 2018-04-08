@@ -44,7 +44,7 @@
     },
     {
       "shopurl": "www.etsy.com/shop/ambivalentlyyours",
-      "featured": "/img/main_ambivalent.JPG",
+      "featured": "/uploads/2018/04/03/main_ambivalent.JPG",
       "hometown": "Montréal",
       "name": "Ambivalently Yours",
       "instagram": "www.instagram.com/ambivalentlyyours/"
@@ -52,40 +52,40 @@
     {
       "name": "Lady No Brow",
       "instagram": "https://www.instagram.com/ladynobrow/",
-      "featured": "/img/main_ladynobrow.jpg",
+      "featured": "/uploads/2018/04/03/main_ladynobrow.jpg",
       "shopurl": "ladynobrow.com",
       "hometown": "Montréal"
     },
     {
       "name": "Hood Rats",
       "instagram": "https://www.instagram.com/hoodrats.co/",
-      "featured": "/img/main_hoodrats.jpg",
+      "featured": "/img/main_hoodrats-2.jpg",
       "hometown": "Montréal",
       "shopurl": "http://www.WeAreHoodRats.com"
     },
     {
       "name": "Sweet Lou's Magasin Général",
       "instagram": "https://www.instagram.com/sweetlousmagasingeneral/",
-      "featured": "/img/main_sweetL.jpg",
+      "featured": "/static/img/main_sweetL.jpg",
       "hometown": "Montréal",
       "shopurl": "http://sweetlousmagasingeneral.bigcartel.com/"
     },
     {
       "name": "The 22nd",
       "instagram": "https://www.instagram.com/teaness/",
-      "featured": "/img/main_the22nd.jpg",
+      "featured": "/static/img/main_the22nd.jpg",
       "shopurl": "http://the22nd.tictail.com/",
       "hometown": "Montréal"
     },
     {
-      "featured": "/img/main_jesshrycyk.jpg",
+      "featured": "/static/img/main_jesshrycyk.jpg",
       "hometown": "Toronto",
       "name": "Jess Hrycyk",
       "shopurl": "https://www.etsy.com/ca/shop/JessHrycyk",
       "instagram": "https://www.instagram.com/jesshrycyk/"
     },
     {
-      "featured": "/img/main_sasha_hanse.jpg",
+      "featured": "/static/img/main_sasha_hanse.jpg",
       "hometown": "Montréal",
       "name": "Sasha Hansé",
       "shopurl": "https://www.etsy.com/ca/shop/SashaHanse?",
@@ -93,8 +93,8 @@
     },
     {
       "instagram": "https://www.instagram.com/findthelostattic/",
-      "featured": "",
-      "hometown": "Montreal",
+      "featured": "/img/lostattic.png",
+      "hometown": "Montréal",
       "name": "The Lost Attic",
       "shopurl": "http://thelostattic.storenvy.com"
     },
@@ -102,12 +102,12 @@
       "name": "Vagabond Heart",
       "shopurl": "http://www.vagabondheart.co",
       "instagram": "https://www.instagram.com/vagabondheartco",
-      "featured": "/img/main_vagabond.jpg",
+      "featured": "/static/img/main_vagabond.jpg",
       "hometown": "Montréal"
     },
     {
       "name": "Laracaille",
-      "featured": "/img/main_laracailletattoo.jpg",
+      "featured": "/static/img/main_laracailletattoo.jpg",
       "hometown": "Montréal",
       "instagram": "https://www.instagram.com/laracailletattoo/",
       "shopurl": "https://www.etsy.com/shop/laracaille"
