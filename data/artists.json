@@ -1,5 +1,12 @@
 [
   {
+    "instagram": "https://www.instagram.com/pinpatchmtl",
+    "featured": "/img/main_pinpatchmtl.jpg",
+    "hometown": "Montreal",
+    "name": "Pin Patch Mtl",
+    "shopurl": "http://www.pinpatchmtl.com"
+  },
+  {
     "name": "Manière Noire",
     "shopurl": "http://manierenoireshop.com",
     "instagram": "https://www.instagram.com/manierenoireshop/",
@@ -124,13 +131,6 @@
     "hometown": "Kitchener, ON",
     "name": "BRFC/Bearface Design",
     "shopurl": "http://www.brfc.etsy.com"
-  },
-  {
-    "instagram": "https://www.instagram.com/pinpatchmtl",
-    "featured": "/img/main_pinpatchmtl.jpg",
-    "hometown": "Montreal",
-    "name": "Pin Patch Mtl",
-    "shopurl": "http://www.pinpatchmtl.com"
   },
   {
     "instagram": "https://www.instagram.com/this_bloody_sabbath",
