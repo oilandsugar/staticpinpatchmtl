@@ -49,17 +49,17 @@
     "hometown": "Montreal"
   },
   {
-    "shopurl": "www.etsy.com/shop/ambivalentlyyours",
+    "shopurl": "https://www.etsy.com/shop/ambivalentlyyours",
     "featured": "/img/main_ambivalent.JPG",
     "hometown": "Montréal",
     "name": "Ambivalently Yours",
-    "instagram": "www.instagram.com/ambivalentlyyours/"
+    "instagram": "https://www.instagram.com/ambivalentlyyours/"
   },
   {
     "name": "Lady No Brow",
     "instagram": "https://www.instagram.com/ladynobrow/",
     "featured": "/img/main_ladynobrow.jpg",
-    "shopurl": "ladynobrow.com",
+    "shopurl": "http://ladynobrow.com",
     "hometown": "Montréal"
   },
   {
@@ -138,5 +138,12 @@
     "hometown": "Chertsey, QC",
     "name": "This Bloody Sabbath",
     "shopurl": "https://www.etsy.com/ca/shop/ThisBloodySabbath"
+  },
+  {
+    "instagram": "https://www.instagram.com/plushaday",
+    "featured": "/img/main_nathalie_t.jpg",
+    "hometown": "Montréal",
+    "name": "Nathalie T",
+    "shopurl": "https://www.etsy.com/shop/plushaday"
   }
 ]
