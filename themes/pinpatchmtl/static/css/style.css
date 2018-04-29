@@ -546,13 +546,18 @@ body {
 h1 {
   font-weight: 800;
   font-size: 60px;
-  line-height: 1em;
+  line-height: 1.1em;
   letter-spacing: 1px;
   font-family: "Open Sans", sans-serif;
 }
 
 h1.bar-top {
   border-top: 6px solid;
+  padding-top: 30px;
+}
+
+.bar-top {
+  border-top: 6px solid #0000e2;
   padding-top: 30px;
 }
 
@@ -570,10 +575,15 @@ h2 {
   font-family: "Open Sans", sans-serif;
 }
 
+h2.bold {
+  font-weight: 800;
+}
+
 h3 {
   font-size: 23px;
   font-weight: 400;
   margin-bottom: 20px;
+  line-height: 1em;
 }
 
 h4 {
@@ -1038,6 +1048,10 @@ small.note {
   color: #a7a7a7;
 }
 
+.concours {
+  margin-left: 30px;
+}
+
 /* ---------- EVENT PHOTOS ---------- */
 
 .event-photos .photo {
@@ -1374,6 +1388,13 @@ small.note {
   .addtocalendar {
     margin-left: 0;
     margin-top: 15px;
+    margin-bottom:30px;
+  }
+  .top-sponsors {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+    display: flex;
+    flex-direction: row;
   }
   .top-sponsors .item {
     padding: 0;
@@ -1404,5 +1425,9 @@ small.note {
     min-width: 100%;
     max-width: 100%;
     margin: 0 0 30px 0;
+  }
+  .concours {
+    margin:0;
+    padding-top:15px;
   }
 }
