@@ -1,149 +1,218 @@
 [
   {
+    "name": "Weekender Supply ",
+    "shopurl": "https://weekendersupply.co/",
+    "instagram": "https://www.instagram.com/weekendersupply/",
+    "featured": "/img/main_weekender.jpg",
+    "hometown": "Toronto",
+    "years": "pp-2018"
+  },
+  {
+    "name": "Stay Home Club",
+    "shopurl": "https://stayhomeclub.com/",
+    "instagram": "https://www.instagram.com/stayhomeclubofficial/",
+    "featured": "/img/main_shc.jpg",
+    "hometown": "Montreal",
+    "years": "pp-2017 pp-2018"
+  },
+  {
+    "name": "Annex Vintage",
+    "shopurl": "https://annexvintage.com/",
+    "instagram": "https://www.instagram.com/annexvintage/",
+    "featured": "/img/main_annex.jpg",
+    "hometown": "Montreal",
+    "years": "pp-2018"
+  },
+  {
     "instagram": "https://www.instagram.com/pinpatchmtl",
     "featured": "/img/main_pinpatchmtl.jpg",
     "hometown": "Montreal",
     "name": "Pin Patch Mtl",
-    "shopurl": "http://www.pinpatchmtl.com"
+    "shopurl": "http://www.pinpatchmtl.com",
+    "years": "pp-2018"
   },
   {
     "name": "Manière Noire",
     "shopurl": "http://manierenoireshop.com",
     "instagram": "https://www.instagram.com/manierenoireshop/",
     "featured": "/img/main_mn.jpg",
-    "hometown": "Montreal"
+    "hometown": "Montreal",
+    "years": "pp-2017 pp-2018"
   },
   {
     "name": "Badaboöm Studio ",
     "shopurl": "https://badaboom-studio.com/",
     "instagram": "https://www.instagram.com/badaboomprintshop/",
     "featured": "/img/main_badaboomprintshop.jpg",
-    "hometown": "Toronto"
+    "hometown": "Toronto",
+    "years": "pp-2017 pp-2018"
   },
   {
     "name": "Valérie Bastille",
     "shopurl": "http://valeriebastille.storenvy.com",
     "instagram": "https://www.instagram.com/valeriebastille/",
     "featured": "/img/main_valbas.jpg",
-    "hometown": "Montreal"
+    "hometown": "Montreal",
+    "years": "pp-2018"
   },
   {
     "name": "House of Pink Art",
     "shopurl": "https://www.etsy.com/ca/shop/HouseofPinkArt",
     "instagram": "https://www.instagram.com/houseofpinkart/",
     "featured": "/img/main_houseofpink.png",
-    "hometown": "Montreal"
+    "hometown": "Montreal",
+    "years": "pp-2018"
   },
   {
     "name": "Lovestruck Prints",
     "shopurl": "https://www.etsy.com/ca/shop/lovestruckprints",
     "instagram": "https://www.instagram.com/lovestruckprints/",
     "featured": "/img/main_lsp.jpg",
-    "hometown": "Montreal"
+    "hometown": "Montreal",
+    "years": "pp-2017 pp-2018"
   },
   {
     "name": "La Pimbêche",
     "shopurl": "https://www.etsy.com/shop/Lapimbeche",
     "instagram": "https://www.instagram.com/la_pimbeche/",
     "featured": "/img/Main_Lapimbeche.jpg",
-    "hometown": "Montreal"
+    "hometown": "Montreal",
+    "years": "pp-2017 pp-2018"
   },
   {
     "shopurl": "https://www.etsy.com/shop/ambivalentlyyours",
     "featured": "/img/main_ambivalent.JPG",
     "hometown": "Montréal",
     "name": "Ambivalently Yours",
-    "instagram": "https://www.instagram.com/ambivalentlyyours/"
+    "instagram": "https://www.instagram.com/ambivalentlyyours/",
+    "years": "pp-2017 pp-2018"
   },
   {
     "name": "Lady No Brow",
     "instagram": "https://www.instagram.com/ladynobrow/",
     "featured": "/img/main_ladynobrow.jpg",
     "shopurl": "http://ladynobrow.com",
-    "hometown": "Montréal"
+    "hometown": "Montréal",
+    "years": "pp-2017 pp-2018"
   },
   {
     "name": "Hood Rats",
     "instagram": "https://www.instagram.com/hoodrats.co/",
     "featured": "/img/main_hoodrats.jpg",
     "hometown": "Montréal",
-    "shopurl": "http://www.WeAreHoodRats.com"
+    "shopurl": "http://www.WeAreHoodRats.com",
+    "years": "pp-2018"
   },
   {
     "name": "Sweet Lou's Magasin Général",
     "instagram": "https://www.instagram.com/sweetlousmagasingeneral/",
     "featured": "/img/main_sweetL.jpg",
     "hometown": "Montréal",
-    "shopurl": "http://sweetlousmagasingeneral.bigcartel.com/"
+    "shopurl": "http://sweetlousmagasingeneral.bigcartel.com/",
+    "years": "pp-2018"
   },
   {
     "name": "The 22nd",
     "instagram": "https://www.instagram.com/teaness/",
     "featured": "/img/main_the22nd.jpg",
     "shopurl": "http://the22nd.tictail.com/",
-    "hometown": "Montréal"
+    "hometown": "Montréal",
+    "years": "pp-2018"
   },
   {
     "featured": "/img/main_jesshrycyk.jpg",
     "hometown": "Toronto",
     "name": "Jess Hrycyk",
     "shopurl": "https://www.etsy.com/ca/shop/JessHrycyk",
-    "instagram": "https://www.instagram.com/jesshrycyk/"
+    "instagram": "https://www.instagram.com/jesshrycyk/",
+    "years": "pp-2018"
   },
   {
     "featured": "/img/main_sasha_hanse.jpg",
     "hometown": "Montréal",
     "name": "Sasha Hansé",
     "shopurl": "https://www.etsy.com/ca/shop/SashaHanse?",
-    "instagram": "https://www.instagram.com/sasha_hanse/"
+    "instagram": "https://www.instagram.com/sasha_hanse/",
+    "years": "pp-2018"
   },
   {
     "instagram": "https://www.instagram.com/findthelostattic/",
     "featured": "/img/Main_TheLostAttic.jpg",
     "hometown": "Montréal",
     "name": "The Lost Attic",
-    "shopurl": "http://thelostattic.storenvy.com"
+    "shopurl": "http://thelostattic.storenvy.com",
+    "years": "pp-2018"
   },
   {
     "name": "Vagabond Heart",
     "shopurl": "http://www.vagabondheart.co",
     "instagram": "https://www.instagram.com/vagabondheartco",
     "featured": "/img/main_vagabond.jpg",
-    "hometown": "Montréal"
+    "hometown": "Montréal",
+    "years": "pp-2018"
   },
   {
     "name": "Laracaille",
     "featured": "/img/main_laracailletattoo.jpg",
     "hometown": "Montréal",
     "instagram": "https://www.instagram.com/laracailletattoo/",
-    "shopurl": "https://www.etsy.com/shop/laracaille"
+    "shopurl": "https://www.etsy.com/shop/laracaille",
+    "years": "pp-2017 pp-2018"
   },
   {
     "instagram": "https://www.instagram.com/reeeallyman/",
     "featured": "/img/main_reeeallyman.jpg",
     "hometown": "Toronto",
     "name": "Really, Man?",
-    "shopurl": "http://reallyman.storenvy.com/"
+    "shopurl": "http://reallyman.storenvy.com/",
+    "years": "pp-2018"
   },
   {
     "instagram": "https://www.instagram.com/brfc",
     "featured": "/img/main_bearface.jpg",
     "hometown": "Kitchener, ON",
     "name": "BRFC/Bearface Design",
-    "shopurl": "http://www.brfc.etsy.com"
+    "shopurl": "http://www.brfc.etsy.com",
+    "years": "pp-2018"
   },
   {
     "instagram": "https://www.instagram.com/this_bloody_sabbath",
     "featured": "/img/Main_this_bloody_sabbath.jpg",
     "hometown": "Chertsey, QC",
     "name": "This Bloody Sabbath",
-    "shopurl": "https://www.etsy.com/ca/shop/ThisBloodySabbath"
+    "shopurl": "https://www.etsy.com/ca/shop/ThisBloodySabbath",
+    "years": "pp-2018"
   },
   {
     "instagram": "https://www.instagram.com/plushaday",
     "featured": "/img/main_nathalie_t.jpg",
     "hometown": "Montréal",
-    "name": "Nathalie T",
-    "shopurl": "https://www.etsy.com/shop/plushaday"
+    "name": "Plushaday",
+    "shopurl": "https://www.etsy.com/shop/plushaday",
+    "years": "pp-2018"
+  },
+  {
+    "instagram": "https://www.instagram.com/lafacade/",
+    "featured": "/img/lafacade.jpg",
+    "hometown": "Montréal",
+    "name": "LaFacade",
+    "shopurl": "https://www.etsy.com/ca-fr/shop/LaFacade",
+    "years": "pp-2017"
+  },
+  {
+    "instagram": "https://www.instagram.com/lafacade/",
+    "featured": "/img/crywolf.jpg",
+    "hometown": "Toronto",
+    "name": "Crywolf",
+    "shopurl": "https://www.crywolfclothing.com/",
+    "years": "pp-2017"
+  },
+  {
+    "instagram": "http://instagram.com/alisha_lucia",
+    "featured": "/img/alisha.jpg",
+    "hometown": "Toronto",
+    "name": "Alisha Davidson",
+    "shopurl": "http://etsy.com/shop/alishalucia",
+    "years": "pp-2017"
   }
 ]

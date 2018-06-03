@@ -1,8 +1,7 @@
 <section class="content big-padding-bottom medium-padding-top">
     <div class='wrap artists '>
-      <h2 class="blue" data-translatable>Artists // Artistes</h3>
         <div class="flex-row flex-wrap artist-container">
-          {{ range $.Site.Data.artists }}
+          {{ range sort $.Site.Data.artists "name" "asc" }}
             {{ partial "artist_card.html" . }}
           {{ end }}
         </div>

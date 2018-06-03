@@ -97,7 +97,27 @@ jQuery(function($) {
 
     // draggable thingy
 
-    $("#applications-open").draggable()
-    $("#pin-popup").draggable()
+    $("#applications-open").draggable();
+    $("#pin-popup").draggable();
+
+
+    var artists = $('.artist-container');
+
+    artists.isotope({
+      // options
+      itemSelector: ".artist",
+      layoutMode: "fitRows",
+      transitionDuration: "0"
+    })
+
+    $(".filter-button").click(function(e) {
+      e.preventDefault()
+      var filter_value = String($(this).data("filter"));
+      console.log(filter_value);
+      artists.isotope({ filter: filter_value });
+      $(".filter-button").removeClass("active")
+      $(this).addClass("active")
+
+    })
   })
 })

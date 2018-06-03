@@ -1067,7 +1067,7 @@ small.note {
   max-width: 300px;
 }
 
-/* ------------ VENDORS ------------- */
+/* ------------ ARTISTS ------------- */
 
 .artist-container {
   margin: 0 -10px;
@@ -1100,6 +1100,21 @@ small.note {
   background-position: center;
   box-sizing: border-box;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+}
+
+.filter-button {
+  padding: 8px 16px;
+  background: #f1f1f1;
+  border-radius: 4px;
+  margin-right: 8px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.filter-button:hover,
+.filter-button.active {
+  background: #0000e2;
+  color: #fff;
 }
 
 /* ------------ PRESS ------------- */
@@ -1388,7 +1403,7 @@ small.note {
   .addtocalendar {
     margin-left: 0;
     margin-top: 15px;
-    margin-bottom:30px;
+    margin-bottom: 30px;
   }
   .top-sponsors {
     display: -webkit-flex;
@@ -1427,7 +1442,7 @@ small.note {
     margin: 0 0 30px 0;
   }
   .concours {
-    margin:0;
-    padding-top:15px;
+    margin: 0;
+    padding-top: 15px;
   }
 }

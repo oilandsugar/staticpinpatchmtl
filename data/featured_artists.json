@@ -1,25 +1,5 @@
 {
   "artists": [
-    {
-      "name": "Weekender Supply ",
-      "shopurl": "https://weekendersupply.co/",
-      "instagram": "https://www.instagram.com/weekendersupply/",
-      "featured": "/img/main_weekender.jpg",
-      "hometown": "Toronto"
-    },
-    {
-      "name": "Stay Home Club",
-      "shopurl": "https://stayhomeclub.com/",
-      "instagram": "https://www.instagram.com/stayhomeclubofficial/",
-      "featured": "/img/main_shc.jpg",
-      "hometown": "Montreal"
-    },
-    {
-      "name": "Annex Vintage",
-      "shopurl": "https://annexvintage.com/",
-      "instagram": "https://www.instagram.com/annexvintage/",
-      "featured": "/img/main_annex.jpg",
-      "hometown": "Montreal"
-    }
+
   ]
 }
