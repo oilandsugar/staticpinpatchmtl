@@ -1,0 +1,39 @@
+{{ partial "header" . }}
+    {{ partial "navbar" . }}
+
+    <!-- Single event page content -->
+
+    <section class="content big-padding-top">
+      <section class="content medium-padding-bottom medium-padding-top">
+        <div class='wrap mission'>
+            <h1 data-translatable class="blue medium-padding-bottom bar-top bar-bottom medium-margin-bottom">
+              {{ .Title }}
+            </h1>
+            <div class="flex-row">
+              <div class="flex-1">
+                <h3 data-translatable class="date-main blue">
+                  {{ .Date }}
+                </h3>
+                <h3 data-translatable class="date-main blue">
+                  {{ .Hours }}
+                </h3>
+                <p data-translatable class="medium-margin-bottom place-main">
+                  {{ .Location }}
+                </p>
+                <p data-translatable>
+                  {{ .Price }}
+                </p>
+              </div>
+              <div class="flex-1 medium-padding-left">
+                <h3 data-translatable class="no-margin blue">
+                  <span>Come start a new pin or patch collection (or grow your actual one) and support local artists from Montreal and Toronto at the second edition of Pin Patch Mtl</span><span>Venez commencer une nouvelle collection de pins ou de patches (ou en continuer une) et montrer votre support aux artistes locaux de Montréal et Toronto à la deuxième édition de Pin Patch Mtl</span>
+                </h3>
+              </div>
+            </div>
+        </div>
+      </section>
+    </section>
+
+    <!-- end Single event page content -->
+
+{{ partial "footer" . }}

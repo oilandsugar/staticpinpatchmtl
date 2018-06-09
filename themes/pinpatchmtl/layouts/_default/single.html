@@ -2,12 +2,14 @@
     {{ partial "navbar" . }}
     <!-- Main -->
     <div id="main">
-        <article class="post">
+      <section class="content big-padding-top">
+        <div class="wrap big-padding-top big-padding-bottom">
             {{ $.Scratch.Set "h1" true }}
             {{ .Render "header" }}
             <div id="content">
                 {{ .Content }}
             </div>
-        </article>
+        </div>
+      </section>
     </div>
 {{ partial "footer" . }}

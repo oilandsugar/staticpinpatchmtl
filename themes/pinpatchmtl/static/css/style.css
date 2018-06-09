@@ -1172,6 +1172,35 @@ small.note {
   line-height: 1em;
 }
 
+/* ------------ EVENTS ------------- */
+
+.event .infos {
+  padding-top:10px;
+}
+
+.events-container {
+  margin: 0 -10px;
+}
+
+.event hr {
+  border:0;
+  height:6px;
+  background:#0000e2;
+  width:100%;
+  opacity:1;
+}
+
+.event {
+  margin: 10px;
+  min-width: calc(50% - 20px);
+  max-width: calc(50% - 20px);
+}
+
+.event h2 {
+  margin-bottom:8px;
+  font-weight:bold;
+}
+
 /* ------------ INSTAGRAM ------------- */
 
 #instafeed a.insta-post {

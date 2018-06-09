@@ -16,6 +16,10 @@ name = "Pin Patch Mtl"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "Pin Patch Mtl"
+url = "/"
+weight = 1
+[[menu.main]]
 name = "Artists // Artistes"
 url = "/artists"
 weight = 2
@@ -23,7 +27,5 @@ weight = 2
 name = "Press // Presse"
 url = "/press"
 weight = 3
-[[menu.main]]
-name = "Pin Patch Mtl"
-url = "/"
-weight = 1
+[permalinks]
+post = "/:section/:title/"
