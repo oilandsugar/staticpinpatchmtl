@@ -4,6 +4,8 @@ auto_deploy: true
 admin_path: "/admin/"
 webhook_url: 
 sections:
+  event:
+    default_front_matter_template: events
   press:
     default_front_matter_template: press
 upload_dir: img
