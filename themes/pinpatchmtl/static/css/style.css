@@ -661,7 +661,7 @@ a {
 }
 
 a:hover {
-  color: #f2a4dc;
+  color: #4c7bff;
   text-decoration: none;
 }
 
@@ -708,7 +708,7 @@ input[type="submit"]:hover,
   padding: 0 10px;
   font-size: 1rem;
   min-width: 100px;
-  background: #e061c5;
+  background: #4c7bff;
   font-family: "helvetica", sans-serif;
   color: #fff;
   text-decoration: none;
@@ -1109,9 +1109,14 @@ small.note {
   margin-right: 8px;
   font-weight: 800;
   cursor: pointer;
+  transition: 0.5s;
 }
 
 .filter-button:hover,
+.filter-button.active:hover {
+  background: #4c7bff;
+  color:#fff;
+}
 .filter-button.active {
   background: #0000e2;
   color: #fff;

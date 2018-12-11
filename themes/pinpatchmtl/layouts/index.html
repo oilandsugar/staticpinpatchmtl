@@ -12,7 +12,7 @@
             <span>The unique Pin and Patch fair in Montreal</span>
             <span>L'unique foire d'épinglettes et de patches à Montréal</span>
           </h1>
-          <div class="flex-row">
+          <div class="flex-row display-none">
             <div class="flex-1">
               <h3 data-translatable class="date-main blue">
                 <span>May 19, 2018 at la Gare</span>
@@ -52,7 +52,7 @@
       </div>
     </section>
 
-    <div class="big-padding-bottom">
+    <div class="big-padding-bottom display-none">
       <div class="wrap flex-row">
         <div class="flex-1">
           <div class="top-sponsors flex-row">
@@ -80,10 +80,16 @@
     </div>
 
 
-    {{ partial "featured_artists" . }}
-    <div class="wrap big-padding-bottom">
+    <div class="display-none">
+      {{ partial "featured_artists" . }}
+    </div>
+    <div class="wrap big-padding-bottom text-center display-none">
       <a class="button bigger" href="/artists" data-translatable>See all artists // Voir tous les artistes</a>
     </div>
+    <div class="wrap big-padding-bottom text-center">
+      <a class="button bigger" href="/apply-illustrators" data-translatable>Apply to illustrate the next edition // Appliquez pour illustrer la prochaine edition</a>
+    </div>
+
     <a name="buy-pin"></a>
     {{ partial "pinpreorder" . }}
 
