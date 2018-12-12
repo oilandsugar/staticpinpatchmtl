@@ -14,7 +14,7 @@ jQuery(function($) {
     })
 
     // instafeed
-    if ($("body").hasClass("home")) {
+    if ($("#instafeed").length) {
       var feed = new Instafeed({
         get: "user",
         target: "instafeed",
