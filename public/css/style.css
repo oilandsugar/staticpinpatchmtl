@@ -536,7 +536,8 @@ body {
 
 @font-face {
   font-family: "basetwelve";
-  src: url("base12sascbi-webfont.woff2") format("woff2"), url("base12sascbi-webfont.woff") format("woff");
+  src: url("base12sascbi-webfont.woff2") format("woff2"),
+    url("base12sascbi-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -1115,7 +1116,7 @@ small.note {
 .filter-button:hover,
 .filter-button.active:hover {
   background: #4c7bff;
-  color:#fff;
+  color: #fff;
 }
 .filter-button.active {
   background: #0000e2;
@@ -1132,10 +1133,11 @@ small.note {
   margin: 10px;
   min-width: calc(33.333333% - 20px);
   max-width: calc(33.333333% - 20px);
+  min-height: 153px;
+  border-top: 6px solid #0000e2;
 }
 
 .article-title {
-  border-top: 6px solid;
   display: block;
 }
 
@@ -1144,6 +1146,10 @@ small.note {
   background-size: cover;
   background-position: center;
   box-sizing: border-box;
+}
+
+.press-article p {
+  margin-top:8px;
 }
 
 .press-article h3 {
@@ -1180,7 +1186,7 @@ small.note {
 /* ------------ EVENTS ------------- */
 
 .event .infos {
-  padding-top:10px;
+  padding-top: 10px;
 }
 
 .events-container {
@@ -1188,11 +1194,11 @@ small.note {
 }
 
 .event hr {
-  border:0;
-  height:6px;
-  background:#0000e2;
-  width:100%;
-  opacity:1;
+  border: 0;
+  height: 6px;
+  background: #0000e2;
+  width: 100%;
+  opacity: 1;
 }
 
 .event {
@@ -1202,8 +1208,8 @@ small.note {
 }
 
 .event h2 {
-  margin-bottom:8px;
-  font-weight:bold;
+  margin-bottom: 8px;
+  font-weight: bold;
 }
 
 /* ------------ INSTAGRAM ------------- */
