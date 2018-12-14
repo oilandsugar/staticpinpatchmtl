@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/shop/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/apply/</loc>
   </url>
   

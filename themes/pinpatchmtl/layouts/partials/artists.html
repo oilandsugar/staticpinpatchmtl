@@ -1,5 +1,5 @@
 <section class="content big-padding-bottom medium-padding-top">
-    <div class='wrap artists '>
+    <div class='big-wrap artists '>
         <div class="flex-row flex-wrap artist-container">
           {{ range sort $.Site.Data.artists "name" "asc" }}
             {{ partial "artist_card.html" . }}

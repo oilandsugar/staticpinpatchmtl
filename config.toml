@@ -4,6 +4,10 @@ languageCode = "en-us"
 theme = "pinpatchmtl"
 title = "Pin Patch Mtl"
 [[menu.footer]]
+name = "Pin Patch Mtl"
+url = "/"
+weight = 1
+[[menu.footer]]
 name = "Artists // Artistes"
 url = "/artists"
 weight = 2
@@ -12,9 +16,9 @@ name = "Press // Presse"
 url = "/press"
 weight = 3
 [[menu.footer]]
-name = "Pin Patch Mtl"
-url = "/"
-weight = 1
+name = "Shop // Boutique"
+url = "/shop"
+weight = 4
 [[menu.main]]
 name = "Pin Patch Mtl"
 url = "/"
@@ -27,5 +31,9 @@ weight = 2
 name = "Press // Presse"
 url = "/press"
 weight = 3
+[[menu.main]]
+name = "Shop // Boutique"
+url = "/shop"
+weight = 4
 [permalinks]
 post = "/:section/:title/"

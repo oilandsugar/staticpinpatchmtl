@@ -156,11 +156,169 @@ section {
 .aligncenter {
 }
 
+@font-face {
+    font-family: 'Aktiv Grotesk XBold';
+    src: url('AktivGroteskTrial-XBold.woff2') format('woff2'),
+        url('AktivGroteskTrial-XBold.woff') format('woff'),
+        url('AktivGroteskTrial-XBold.svg#AktivGroteskTrial-XBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-Medium.woff2') format('woff2'),
+        url('AktivGroteskTrial-Medium.woff') format('woff'),
+        url('AktivGroteskTrial-Medium.svg#AktivGroteskTrial-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk Hair';
+    src: url('AktivGroteskTrial-HairItalic.woff2') format('woff2'),
+        url('AktivGroteskTrial-HairItalic.woff') format('woff'),
+        url('AktivGroteskTrial-HairItalic.svg#AktivGroteskTrial-HairItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-ThinItalic.woff2') format('woff2'),
+        url('AktivGroteskTrial-ThinItalic.woff') format('woff'),
+        url('AktivGroteskTrial-ThinItalic.svg#AktivGroteskTrial-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-BoldItalic.woff2') format('woff2'),
+        url('AktivGroteskTrial-BoldItalic.woff') format('woff'),
+        url('AktivGroteskTrial-BoldItalic.svg#AktivGroteskTrial-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-Thin.woff2') format('woff2'),
+        url('AktivGroteskTrial-Thin.woff') format('woff'),
+        url('AktivGroteskTrial-Thin.svg#AktivGroteskTrial-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-Black.woff2') format('woff2'),
+        url('AktivGroteskTrial-Black.woff') format('woff'),
+        url('AktivGroteskTrial-Black.svg#AktivGroteskTrial-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-BlackItalic.woff2') format('woff2'),
+        url('AktivGroteskTrial-BlackItalic.woff') format('woff'),
+        url('AktivGroteskTrial-BlackItalic.svg#AktivGroteskTrial-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-LightItalic.woff2') format('woff2'),
+        url('AktivGroteskTrial-LightItalic.woff') format('woff'),
+        url('AktivGroteskTrial-LightItalic.svg#AktivGroteskTrial-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-Regular.woff2') format('woff2'),
+        url('AktivGroteskTrial-Regular.woff') format('woff'),
+        url('AktivGroteskTrial-Regular.svg#AktivGroteskTrial-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-Light.woff2') format('woff2'),
+        url('AktivGroteskTrial-Light.woff') format('woff'),
+        url('AktivGroteskTrial-Light.svg#AktivGroteskTrial-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('AktivGroteskTrial-MediumItalic.woff2') format('woff2'),
+        url('AktivGroteskTrial-MediumItalic.woff') format('woff'),
+        url('AktivGroteskTrial-MediumItalic.svg#AktivGroteskTrial-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk Trial';
+    src: url('AktivGroteskTrial-Italic.woff2') format('woff2'),
+        url('AktivGroteskTrial-Italic.woff') format('woff'),
+        url('AktivGroteskTrial-Italic.svg#AktivGroteskTrial-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk Trial XBold';
+    src: url('AktivGroteskTrial-XBoldItalic.woff2') format('woff2'),
+        url('AktivGroteskTrial-XBoldItalic.woff') format('woff'),
+        url('AktivGroteskTrial-XBoldItalic.svg#AktivGroteskTrial-XBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk Trial Hair';
+    src: url('AktivGroteskTrial-Hair.woff2') format('woff2'),
+        url('AktivGroteskTrial-Hair.woff') format('woff'),
+        url('AktivGroteskTrial-Hair.svg#AktivGroteskTrial-Hair') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aktiv Grotesk Trial';
+    src: url('AktivGroteskTrial-Bold.woff2') format('woff2'),
+        url('AktivGroteskTrial-Bold.woff') format('woff'),
+        url('AktivGroteskTrial-Bold.svg#AktivGroteskTrial-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+/* -------------------------------------
+////////// Variables //////////////
+--------------------------------------*/
+
+:root {
+--grey: #666984;
+--midgrey: #bbbdd4;
+--lightgrey:#e9eaf9;
+--blue: blue;
+--paleblue:#4c7bff;
+}
+
 /* -------------------------------------
 ////////// HELPER CLASSES //////////////
 --------------------------------------*/
 
-/*test */
+
 .clear {
   clear: both;
 }
@@ -266,11 +424,12 @@ html {
 
 body {
   font-size: 1em;
-  font-family: "Helvetica", sans-serif;
-  font-weight: 100;
+  font-family: 'Aktiv Grotesk', sans-serif;
+  font-weight: 500;
   min-height: 100%;
   height: 100%;
   line-height: 1.5em;
+  color:var(--grey);
 }
 
 #wrapper {
@@ -286,6 +445,11 @@ body {
 
 .wrap {
   max-width: 1000px;
+  margin: 0 auto;
+}
+
+.big-wrap {
+  max-width: 1600px;
   margin: 0 auto;
 }
 
@@ -475,7 +639,7 @@ body {
 /* -------- COLORS ---------*/
 
 .light-grey-back {
-  background-color: #f1f1f1;
+  background-color: var(--lightgrey);
 }
 
 .medium-grey-back {
@@ -483,7 +647,7 @@ body {
 }
 
 .grey-text {
-  color: #747474;
+  color: var(--grey);
 }
 
 .green {
@@ -549,7 +713,6 @@ h1 {
   font-size: 60px;
   line-height: 1.1em;
   letter-spacing: 1px;
-  font-family: "Open Sans", sans-serif;
 }
 
 h1.bar-top {
@@ -573,7 +736,6 @@ h2 {
   line-height: 1.3em;
   margin-bottom: 20px;
   letter-spacing: 1px;
-  font-family: "Open Sans", sans-serif;
 }
 
 h2.bold {
@@ -727,13 +889,13 @@ input[type="submit"] i {
 
 a.button.button-grey,
 span.button.button-grey {
-  background-color: #f1f1f1;
-  color: #0000e2;
+  background-color: var(--lightgrey);
+  color: var(--grey);
 }
 
 a.button.button-grey:hover,
 span.button.button-grey:hover {
-  background-color: #e061c5;
+  color:var(--blue);
 }
 
 /* -------------- ELSE -------------- */
@@ -811,7 +973,7 @@ hr.light {
 --------------------------------------*/
 
 .menu {
-  height: 70px;
+  height: 74px;
   position: fixed;
   left: 0;
   top: 0;
@@ -823,6 +985,9 @@ hr.light {
   box-sizing: border-box;
   z-index: 100;
   overflow: visible;
+  border-top:4px solid blue;
+  background:#fff;
+  box-shadow: 0 2px 4px #00000012;
 }
 
 .menu a {
@@ -838,6 +1003,7 @@ hr.light {
   -webkit-transition: 0.3s;
   font-size: 16px;
   cursor: pointer;
+  color:var(--grey);
 }
 
 .menu a.button {
@@ -847,6 +1013,7 @@ hr.light {
 .menu a:hover {
   text-decoration: none;
   font-size: 16px;
+  color:var(--blue);
 }
 
 .menu a.button {
@@ -869,8 +1036,14 @@ hr.light {
   margin-right: 15px;
 }
 
+.menu .lang-selector a {
+  color:var(--grey);
+}
+.menu .lang-selector a:hover {
+  color:var(--blue);
+}
 .menu .lang-selector a.active {
-  color: #e061c5;
+  color:var(--blue);
 }
 
 /* -------------------------------------
@@ -1055,9 +1228,41 @@ small.note {
 
 /* ---------- EVENT PHOTOS ---------- */
 
+.event-photos {
+  margin:0 -50px;
+}
+
 .event-photos .photo {
   max-width: 33.33333%;
   height: auto;
+  border: 16px solid #fff;
+  box-shadow: 0 10px 30px #00000038;
+  line-height:0;
+  margin:0 -20px;
+  border-radius:4px;
+  background:#fff;
+}
+
+.tilt-left {
+    transform: rotate(-5deg);
+}
+
+.tilt-right {
+    transform: rotate(5deg);
+    position: relative;
+    top: -39px;
+}
+
+.photo-credit {
+  text-align:center;
+}
+
+.photo-credit a {
+  color:var(--midgrey);
+  text-decoration:underline;
+}
+.photo-credit a:hover {
+  color:var(--grey);
 }
 
 /* ------------ MISSION ------------- */
@@ -1076,8 +1281,8 @@ small.note {
 
 .artist {
   margin: 10px;
-  min-width: calc(33.333333% - 20px);
-  max-width: calc(33.333333% - 20px);
+  min-width: calc(25% - 20px);
+  max-width: calc(25% - 20px);
 }
 
 .artist.featured-artist {
@@ -1108,7 +1313,6 @@ small.note {
   background: #f1f1f1;
   border-radius: 4px;
   margin-right: 8px;
-  font-weight: 800;
   cursor: pointer;
   transition: 0.5s;
 }
@@ -1338,6 +1542,22 @@ small.note {
 }
 
 @media screen and (max-width: 480px) {
+  .wrap,
+  .instagram .wrap {
+    max-width:100%;
+    padding:0 20px;
+  }
+  .event-photos .photo {
+    margin:0;
+    border:10px solid #fff;
+  }
+  .event-photos {
+    padding:20px;
+    margin:0;
+  }
+  .tilt-right {
+    top:0;
+  }
   h1 {
     font-size: 35px;
   }
@@ -1485,4 +1705,5 @@ small.note {
     margin: 0;
     padding-top: 15px;
   }
+
 }
