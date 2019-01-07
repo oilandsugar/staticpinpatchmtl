@@ -5,6 +5,12 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
+  path: data
+  label: Data
+  create: all
+  match: "**/*"
+  new_doc_ext: ".json"
+- type: directory
   path: content/apply-illustrators
   label: Apply illustrators
   create: all
