@@ -4,10 +4,47 @@ auto_deploy: true
 admin_path: "/admin/"
 webhook_url: 
 sections:
-  event:
-    default_front_matter_template: events
-  press:
-    default_front_matter_template: press
+- type: directory
+  path: data
+  label: Data
+  create: documents
+  match: "**/*"
+  new_doc_ext: json
+- type: directory
+  path: content/apply-illustrators
+  label: Apply illustrators
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/shop
+  label: Shop
+  create: all
+  match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/event
+  label: Event
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/artists
+  label: Artists
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/press
+  label: Press
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/apply
+  label: Apply
+  create: all
+  match: "**/*"
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
