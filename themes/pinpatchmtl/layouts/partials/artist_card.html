@@ -5,7 +5,7 @@
   <div class="flex-row">
     <div class="flex-4">
       <a href="{{ .shopurl }}" target="_blank"> <h3>{{ .name }}</h3></a>
-      <p><span data-translatable>from // de</span> {{ .hometown}}</p>
+      <p><span data-translatable>{{ .Params.from }}</span> {{ .hometown}}</p>
     </div>
     <div class="flex-1 insta-link">
       <a class="instagram-artist" href="{{ .instagram }}" target="_blank">

@@ -2,38 +2,78 @@ baseURL = "http://example.org/"
 enableEmoji = true
 languageCode = "en-us"
 theme = "pinpatchmtl"
+DefaultContentLanguage = "en"
 title = "Pin Patch Mtl"
-[[menu.footer]]
-name = "Pin Patch Mtl"
-url = "/"
-weight = 1
-[[menu.footer]]
-name = "Artists // Artistes"
-url = "/artists"
-weight = 2
-[[menu.footer]]
-name = "Press // Presse"
-url = "/press"
-weight = 3
-[[menu.footer]]
-name = "Shop // Boutique"
-url = "/shop"
-weight = 4
-[[menu.main]]
-name = "Pin Patch Mtl"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "Artists // Artistes"
-url = "/artists"
-weight = 2
-[[menu.main]]
-name = "Press // Presse"
-url = "/press"
-weight = 3
-[[menu.main]]
-name = "Shop // Boutique"
-url = "/shop"
-weight = 4
+
+
+[languages]
+  [languages.en]
+    [[languages.en.menu.footer]]
+    name = "Pin Patch Mtl"
+    url = "/"
+    weight = 1
+    [[languages.en.menu.footer]]
+    name = "Artists"
+    url = "/artists"
+    weight = 2
+    [[languages.en.menu.footer]]
+    name = "Press"
+    url = "/press"
+    weight = 3
+    [[languages.en.menu.footer]]
+    name = "Shop"
+    url = "/shop"
+    weight = 4
+    [[languages.en.menu.main]]
+    name = "Pin Patch Mtl"
+    url = "/"
+    weight = 1
+    [[languages.en.menu.main]]
+    name = "Artists"
+    url = "/artists"
+    weight = 2
+    [[languages.en.menu.main]]
+    name = "Press"
+    url = "/press"
+    weight = 3
+    [[languages.en.menu.main]]
+    name = "Shop"
+    url = "/shop"
+    weight = 4
+  [languages.fr]
+    [[languages.fr.menu.footer]]
+    name = "Pin Patch Mtl"
+    url = "/fr/"
+    weight = 1
+    [[languages.fr.menu.footer]]
+    name = "Artistes"
+    url = "/fr/artists"
+    weight = 2
+    [[languages.fr.menu.footer]]
+    name = "Presse"
+    url = "/fr/press"
+    weight = 3
+    [[languages.fr.menu.footer]]
+    name = "Boutique"
+    url = "/fr/shop"
+    weight = 4
+    [[languages.fr.menu.main]]
+    name = "Pin Patch Mtl"
+    url = "/fr/"
+    weight = 1
+    [[languages.fr.menu.main]]
+    name = "Artistes"
+    url = "/fr/artists"
+    weight = 2
+    [[languages.fr.menu.main]]
+    name = "Presse"
+    url = "/fr/press"
+    weight = 3
+    [[languages.fr.menu.main]]
+    name = "Boutique"
+    url = "/fr/shop"
+    weight = 4
+
+
 [permalinks]
 post = "/:section/:title/"

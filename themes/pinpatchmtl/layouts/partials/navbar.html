@@ -1,8 +1,9 @@
 <nav class="main-nav menu">
   <div class="wrap">
     <div class="menu-left">
+      {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
-        <a class="menu-item" href="{{ .URL }}" data-translatable>
+        <a class="menu-item" href="{{ .URL | absLangURL }}">
           {{ .Name }}
         </a>
       {{ end }}
