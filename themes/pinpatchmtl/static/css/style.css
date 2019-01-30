@@ -1175,7 +1175,7 @@ small.note {
   cursor: grab;
   cursor: -moz-grab;
   cursor: -webkit-grab;
-  display: none;
+  //display: none;
 }
 
 #applications-open .buttons-bar {

@@ -1,4 +1,22 @@
----
-title: L'unique foire d'épinglettes et de patches à Montréal
-type: page
----
++++
+title = "L'unique foire d'épinglettes et de patches à Montréal"
+type = "page"
+ApplyTitle = "Appliquez comme artiste!"
+ApplyCta = "Appliquer"
+eventDate = "2019-05-14"
+time = "11am to 8pm"
+placeName = "Decade building"
+place = "5333 Avenue Casgrain #102, Montréal"
+entry = "Entrée gratuite"
+photosBy = "Photos par"
+description = "Venez commencer une nouvelle collection de pins ou de patches (ou en continuer une) et montrer votre support aux artistes locaux de Montréal et Toronto à la deuxième édition de Pin Patch Mtl"
+newsletterTitle = "Ne manquez rien, inscrivez-vous à notre lettre de nouvelles"
+newsletterButton = "m'abonner"
+instagramTitle = "Suivez-nous sur instagram pour les dernières nouvelles!"
+whatTitle = "C'est quoi?"
+pinsSubtitle = "Épinglettes"
+pinsText = "C’est quoi une épinglette? On les voit partout sur Instagram, mais très peu encore dans les rues de Montréal. C’est un petit accessoire fashion immortalisant le design d’un artiste ou un élément de la culture populaire, un objet abordable qu’on adore collectionner. Elles peuvent représenter une blague, une illustration raffinée, un slogan féministe ou bien, à peu près tout ce que vous pourriez imaginer!"
+patchSubtitle = "Patches"
+patchText = "Les patches, parfois appelée écussons, sont très similaires en forme et fonction, mais sont généralement plus connues du public. Les deux ont leur propres possibilités."
+whatText = "Il y a des épinglettes et des patches pour tous les goûts et intérêts. On ose même dire qu’il doit en exister au moins 20 d’entres elles qui sont faites pour vous. Une fois qu’on commence une collection, on ne peut plus s’arrêter! Elles sont parfaites sur une veste, le collet de votre chemise ou bien simplement dans un joli cadre."
++++

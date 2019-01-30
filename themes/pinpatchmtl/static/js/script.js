@@ -42,6 +42,7 @@ jQuery(function($) {
       console.log("apply form sent")
     })
 
+/*
     var i18n = window.domI18n({
       selector: "[data-translatable]",
       separator: " // ",
@@ -50,8 +51,9 @@ jQuery(function($) {
       translatableAttr: "value"
     })
 
-    var userLang = null
 
+
+    var userLang = null
     if (navigator.language) {
       if (navigator.language.indexOf("en") !== -1) {
         userLang = "en"
@@ -80,9 +82,9 @@ jQuery(function($) {
 
     if (userLang) {
       i18n.changeLanguage(userLang)
-    }
+    }*/
 
-    $(".lang-selector")
+    /*$(".lang-selector")
       .find("a")
       .click(function(event) {
         event.preventDefault()
@@ -94,7 +96,7 @@ jQuery(function($) {
             .toggleClass("active")
         }
       })
-
+      */
     // draggable thingy
 
     $("#applications-open").draggable();

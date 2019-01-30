@@ -1,4 +1,22 @@
----
-title: The unique Pin and Patch fair in Montreal
-type: page
----
++++
+title = "The unique Pin and Patch fair in Montreal"
+type = "page"
+ApplyTitle = "Artists applications open!"
+ApplyCta = "Apply Now"
+photosBy = "Photos by"
+eventDate = "2019-05-14"
+time = "11am to 8pm"
+placeName = "Decade building"
+place = "5333 Avenue Casgrain #102, Montréal"
+entry = "Free entry"
+description = "Come start a new pin or patch collection (or grow your actual one) and support local artists from Montreal and Toronto at the second edition of Pin Patch Mtl"
+newsletterTitle = "Don't miss out, subscribe to our mailling list!"
+newsletterButton = "Subscribe"
+instagramTitle = "Follow our instagram account for the latest updates!"
+whatTitle = "What is it?"
+pinsSubtitle = "Pins"
+pinsText = "What are enamel pins? They are seen a lot on Instagram, but not enough on the streets of Montreal. They are fashionable, affordable and collectable accessories immortalizing an artist’s design and/or a pop culture element. They can be visual puns, intricate illustrations, feminist statements or whatever you want, really!"
+patchSubtitle = "Patches"
+patchText = "Patches are pretty similar in their form and function but more well known to the public. Each has it’s own possibilities."
+whatText = "There are pins and patches for every taste and interests. We dare say there’s at least 20 of them that are literally made for you. Once you start collecting, you’ll soon be addicted! They’re perfect for your jacket, shirt collar or simply for display in a nice frame."
++++

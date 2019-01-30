@@ -1,11 +1,8 @@
----
-title: Apply for Pin Patch Mtl
-description: The first pin and patch fair in Montreal
----
-
-# Apply as an artist to the Spring 2018 edition
-
-## May 19, 2018 at la Gare, 5333 Casgrain Avenue #102, Montreal
++++
+title = "Apply as an artist to the Spring 2018 edition"
+subtitle = "May 19, 2018 at la Gare, 5333 Casgrain Avenue #102, Montreal"
+airtableForm = "https://airtable.com/embed/shr1ZFR6wiPYUWnxE"
++++
 
 You need to have at least a 2 pins and/or patches to sell that you designed yourself in order to be selected, resellers are not accepted.
 

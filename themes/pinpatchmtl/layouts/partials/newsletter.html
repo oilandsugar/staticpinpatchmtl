@@ -1,6 +1,6 @@
 <section class="content big-padding-bottom big-padding-top">
     <div class='wrap newsletter text-center'>
-      <h3 data-translatable><span>Don't miss out, subscribe to our mailling list!</span><span>Ne manquez rien, inscrivez-vous à notre lettre de nouvelles</span></h3>
+      <h3>{{ .Params.newsletterTitle }}</h3>
 
       <!-- Begin MailChimp Signup Form -->
       <div id="mc_embed_signup">
@@ -9,7 +9,7 @@
 
       <div class="mc-field-group">
         <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email">
-        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+        <input type="submit" value="{{ .Params.newsletterButton }}" name="subscribe" id="mc-embedded-subscribe" class="button">
       </div>
         <div id="mce-responses" class="clear">
           <div class="response" id="mce-error-response" style="display:none"></div>
