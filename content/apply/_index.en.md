@@ -1,6 +1,6 @@
 +++
 airtableForm = "https://airtable.com/embed/shrJfDKAbQ63x7Ncm"
-subtitle = "May 19, 2018 at la Gare, 5333 Casgrain Avenue #102, Montreal"
+subtitle = "May 18, 2019 at the Decade Building, 6551 Durocher, Montreal"
 title = "Apply as an artist to the Spring 2019 edition"
 
 +++
