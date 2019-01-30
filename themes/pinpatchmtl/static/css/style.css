@@ -1248,15 +1248,18 @@ small.note {
 #applications-open .buttons-bar {
   overflow: hidden;
   position: relative;
-  top: 10px;
-  left: 10px;
+  padding: 10px;
+  top:0;
+  left:0;
+  background: #f3f3f3;
+  border-radius: 10px 10px 0 0;
 }
 
 #applications-open .buttons-bar .btn {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #f1f1f1;
+  background: #0000e6;
   float: left;
   margin-right: 5px;
 }
@@ -1796,5 +1799,5 @@ small.note {
   .small-newsletter-things {
     display:none;
   }
-  
+
 }

@@ -59,6 +59,34 @@ jQuery(function($) {
       $('.menu-content').toggleClass('hidden');
     });
 
+    // set active language
+    var url = window.location
+    if(url.pathname.includes('fr')) {
+      $(".lang-selector").find("a").removeClass('active');
+      $(".lang-selector").find("a[data-lang=fr]").addClass("active")
+    } else {
+      $(".lang-selector").find("a[data-lang=en]").addClass("active")
+    }
+
+    // toggle url language
+    $(".lang-selector")
+      .find("a")
+      .click(function(event) {
+        event.preventDefault();
+        var url = window.location;
+        var lang = $(this).data("lang");
+        var current_lang = url.pathname.includes('fr') ? "fr" : "en";
+        console.log(url)
+        console.log(lang)
+        if (lang == "fr" && current_lang !== "fr") {
+          var new_url = url.origin + "/fr" + url.pathname;
+          document.location.href = new_url;
+        } else if(lang == "en" && current_lang !== "en") {
+          var new_url = url.origin + url.pathname.substring(3);
+          document.location.href = new_url;
+        }
+    })
+
 /*
     var i18n = window.domI18n({
       selector: "[data-translatable]",
@@ -101,19 +129,7 @@ jQuery(function($) {
       i18n.changeLanguage(userLang)
     }*/
 
-    /*$(".lang-selector")
-      .find("a")
-      .click(function(event) {
-        event.preventDefault()
-        var lang = $(this).data("lang")
-        if (lang) {
-          i18n.changeLanguage(lang)
-          $(".lang-selector")
-            .find("a")
-            .toggleClass("active")
-        }
-      })
-      */
+
     // draggable thingy
 
     $("#applications-open").draggable();
