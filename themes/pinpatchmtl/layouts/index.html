@@ -3,7 +3,9 @@
 {{ partial "mobilemenu" . }}
 <!-- Main -->
 
-{{ partial "pincta" . }}
+<div class="display-none">
+  {{ partial "pincta" . }}
+</div>
 {{ partial "applicationscta" . }}
 {{ partial "logoheader" . }}
 
@@ -16,7 +18,7 @@
     <div class="flex-row">
       <div class="flex-1">
         <h3 class="date-main blue">
-          {{ .Params.eventDate }}
+          {{ .Params.moment }}
         </h3>
         <h3 class="date-main blue">
           {{ .Params.time }}
