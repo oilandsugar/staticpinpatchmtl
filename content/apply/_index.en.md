@@ -8,7 +8,7 @@ You need to have at least a 2 pins and/or patches to sell that you designed your
 
 Applications are free, the price of the tables will range between 55$ and 80$ depending on their size and features.
 
-The final selection of artists will be made based on the quality, diversity and quantity of pins and patches proposed. You have until March 1st to apply, selected artists will be contacted by email soon after.
+The final selection of artists will be made based on the quality, diversity and quantity of pins and patches proposed. You have until March 1st to apply. Selected artists will be contacted by email soon after.
 
 #### Notes:
 
