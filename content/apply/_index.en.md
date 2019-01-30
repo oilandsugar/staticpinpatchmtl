@@ -10,7 +10,8 @@ Applications are free, the price of the tables will range between 55$ and 80$ de
 
 The final selection of artists will be made based on the quality, diversity and quantity of pins and patches proposed. You have until March 1st to apply, selected artists will be contacted by email soon after.
 
-Notes:  
+#### Notes:
+
 1\. Yes, you can offer more than pins and patches. But they must be highlighted on your table.  
 2\. Handmade pins and patches are authorized, but the priority will be for manufactured items.  
 3\. You can apply even if your pins and patches are not yet produced, but you need to ensure they will be there in time for the event.
