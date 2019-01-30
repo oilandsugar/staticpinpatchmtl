@@ -2,7 +2,7 @@ jQuery(function($) {
   $(document).ready(function() {
     $(document).scroll(function() {
       var scrollPosition = $(this).scrollTop()
-      var value = scrollPosition / 5 + 200
+      var value = scrollPosition / 5 + 5
       $(".header")
         .find(".small-things")
         .animate(
