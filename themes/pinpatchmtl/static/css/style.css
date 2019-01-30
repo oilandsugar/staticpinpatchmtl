@@ -1046,6 +1046,54 @@ hr.light {
   color:var(--blue);
 }
 
+.mobile-menu {
+
+}
+
+.mobile-menu .menu-content {
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background:#fff;
+  z-index:10000;
+  padding:24px;
+}
+
+.mobile-menu .menu-content.hidden {
+  opacity:0;
+  pointer-events:none;
+}
+
+.mobile-menu .menu-content.visible {
+  opacity:1;
+  pointer-events: auto;
+}
+
+.mobile-menu .menu-content .top {
+  float:right;
+}
+
+.mobile-menu .menu-content a {
+  display:block;
+  font-size:25px;
+  font-weight: bold;
+}
+
+.mobile-menu .menu-content a h3 {
+  font-size:25px;
+  font-weight: bold;
+}
+
+.mobile-menu .menu-button {
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  font-size: 29px;
+  z-index:10000;
+}
+
 /* -------------------------------------
 /////////////// FORMS //////////////////
 --------------------------------------*/
@@ -1542,6 +1590,12 @@ small.note {
 }
 
 @media screen and (max-width: 480px) {
+  .desktop {
+    display:none;
+  }
+  .mobile {
+    display:block!important;
+  }
   .wrap,
   .instagram .wrap {
     max-width:100%;
@@ -1606,14 +1660,10 @@ small.note {
   .header {
     overflow: hidden;
     height: 212px;
-    padding-top: 60px;
+    padding-top: 0;
   }
   .artist-container {
     display: block;
-  }
-  .artist,
-  .artist.featured-artist {
-    max-width: 100%;
   }
   .artist .flex-row {
     display: -webkit-flex;
@@ -1633,7 +1683,7 @@ small.note {
     line-height: 60px;
   }
   .big-padding-top {
-    padding-top: 30px;
+    padding-top: 24px;
   }
   .big-padding-bottom {
     padding-bottom: 30px;
@@ -1705,5 +1755,17 @@ small.note {
     margin: 0;
     padding-top: 15px;
   }
-
+  .big-wrap {
+    padding:0 24px;
+  }
+  .artist-container {
+    flex-direction:column;
+  }
+  .artist, .artist.featured-artist {
+    min-width:calc(100% - 20px);
+    max-width:calc(100% - 20px);
+  }
+  #press-container {
+    margin:0;
+  }
 }

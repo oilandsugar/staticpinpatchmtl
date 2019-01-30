@@ -1,0 +1,13 @@
+<div class="mobile-menu flex-1 mobile">
+  <a class="menu-button"><i class="fa fa-bars"></i></a>
+  <div class="menu-content hidden">
+    <div class="top">
+      <h3 class="close">Close</h3>
+    </div>
+    {{ range .Site.Menus.main }}
+      <a class="menu-item" href="{{ .URL | absLangURL }}">
+        <h3>{{ .Name }}</h3>
+      </a>
+    {{ end }}
+  </div>
+</div>

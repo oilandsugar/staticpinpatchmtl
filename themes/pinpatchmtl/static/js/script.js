@@ -42,6 +42,23 @@ jQuery(function($) {
       console.log("apply form sent")
     })
 
+    // mobile menu
+
+    $('.menu-button').click(function() {
+      $('.menu-content').toggleClass('visible');
+      $('.menu-content').toggleClass('hidden');
+    });
+
+    $('.menu-content').find('.close').click(function() {
+      $('.menu-content').toggleClass('visible');
+      $('.menu-content').toggleClass('hidden');
+    });
+
+    $('.menu-content').find('a').click(function() {
+      $('.menu-content').toggleClass('visible');
+      $('.menu-content').toggleClass('hidden');
+    });
+
 /*
     var i18n = window.domI18n({
       selector: "[data-translatable]",
