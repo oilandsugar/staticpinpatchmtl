@@ -1079,6 +1079,8 @@ hr.light {
   display:block;
   font-size:25px;
   font-weight: bold;
+  border-bottom: 4px solid;
+  margin-bottom: 16px;
 }
 
 .mobile-menu .menu-content a h3 {
@@ -1306,15 +1308,18 @@ small.note {
   margin:0 -50px;
 }
 
-.event-photos .photo {
-  max-width: 33.33333%;
-  height: auto;
+.photo {
   border: 16px solid #fff;
   box-shadow: 0 10px 30px #00000038;
   line-height:0;
-  margin:0 -20px;
-  border-radius:4px;
   background:#fff;
+  border-radius:4px;
+}
+
+.event-photos .photo {
+  max-width: 33.33333%;
+  height: auto;
+  margin:0 -20px;
 }
 
 .tilt-left {
@@ -1654,12 +1659,19 @@ small.note {
   }
   h3 {
     font-size: 20px;
+    line-height:1.2em;
   }
   .date-main {
     font-size: 25px;
+    margin-bottom:0;
   }
   .place-main {
     font-size: 14px;
+    line-height:16px;
+    margin-top:16px;
+  }
+  .mission h1 {
+    padding-bottom:0;
   }
   #instafeed a.insta-post {
     max-width: calc(100% - 30px);
@@ -1684,9 +1696,10 @@ small.note {
   .footer .logo {
     width: 100px;
     margin-left: 0;
+    margin-top: 197px;
   }
   .header {
-    overflow: hidden;
+    overflow: visible;
     height: 212px;
     padding-top: 0;
   }
@@ -1728,13 +1741,6 @@ small.note {
   .small-padding-left {
     padding-left: 0;
   }
-  .small-things {
-    width: 1000px;
-    margin-left: -500px;
-  }
-  .footer .small-things {
-    display:none;
-  }
   .details .flex-row .flex-1:first-child {
     padding-bottom: 60px;
   }
@@ -1772,12 +1778,13 @@ small.note {
     padding-right: 30px;
   }
   .footer-menu {
-    margin-top: -132px;
+
   }
   .press-article {
     min-width: 100%;
     max-width: 100%;
     margin: 0 0 30px 0;
+    min-height:0;
   }
   .concours {
     margin: 0;
@@ -1796,8 +1803,33 @@ small.note {
   #press-container {
     margin:0;
   }
-  .small-newsletter-things {
-    display:none;
+  .header .small-things {
+    width: 100%;
+    margin-left: 0;
+    left: 0;
+    margin-top: -57px;
   }
-
+  .footer {
+    overflow:visible;
+    height:376px;
+  }
+  .footer .small-things {
+    left:0;
+    margin-left:0;
+    width:100%;
+    overflow:visible;
+  }
+  .footer .small-things img {
+    position: absolute;
+    bottom: 0;
+  }
+  .newsletter-wrapper {
+    overflow:visible;
+  }
+  .small-newsletter-things {
+    width:100%;
+    margin-left:0;
+    left:0;
+    top:-187px;
+  }
 }

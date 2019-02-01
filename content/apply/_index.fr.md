@@ -15,3 +15,7 @@ La sélection finale sera faite en fonction de la qualité, la diversité et la 
 1\. Oui, vous pouvez offrir autre chose que des épinglettes et des patches. Elles doivent par contre avoir une place importante sur votre table.  
 2\. Les épinglettes et patches faites à la mains sont autorisées, mais celles manufacturées auront la priorité.  
 3\. Vous pouvez appliquer même si vos épinglettes et patches ne sont pas encore produites, mais vous devez vous assurer de les obtenir à temps.
+
+<div class="photo tilt-right" style="position:relative;top:40px;">
+<img src="/img/decade.png"/>
+</div>
