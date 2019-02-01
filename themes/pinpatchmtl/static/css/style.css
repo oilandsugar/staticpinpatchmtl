@@ -1495,6 +1495,12 @@ small.note {
   font-weight: bold;
 }
 
+.place-logo {
+  max-width: 86px;
+display: block;
+margin-top: 16px;
+}
+
 /* ------------ INSTAGRAM ------------- */
 
 #instafeed a.insta-post {
