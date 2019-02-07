@@ -1,7 +1,7 @@
 +++
 date = ""
 draft = true
-title = ""
+title = "Informations aux participants"
 
 +++
 ## Votre Table
