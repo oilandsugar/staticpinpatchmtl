@@ -19,20 +19,28 @@ title = "Informations aux participants"
 **Les items pour les 25 sacs cadeaux doivent idéalement nous être envoyés par la poste le plus rapidement possible**. Si cela vous cause un problème, dîtes le nous.  
 Ex : autocollants, cartes postales, petits imprimés, pins, patches, coupons rabais, etc. Si vous voulez nous fournir des petits prints ou autre, gardez en tête que la taille maximale est de 7” x 4.75”.
 
-Nous organisons un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Toute contribution est grandement appréciée! 
+Nous organisons un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Toute contribution est grandement appréciée!
 
-**Addresse :**   
+**Addresse :**  
 Geneviève L Reid  
 107, 3e avenue, Verdun  
 Qc, Canada  
 H4G 2X1
 
-## Lunch FoodRelay
+## Lunch [FoodRelay](https://foodrelay.ca/)
 
-Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par un chef et livré à votre table au prix de 15$ par personne, n'oubliez pas les acheter sur notre site. Vous aurez plusieurs options (adaptés à toutes les diètes, allergies et restrictions alimentaires). Puisqu'il n'y a pas de restaurant à proximité, c'est une bonne option!
+Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par un chef et livré à votre table au prix de 15$ par personne, n'oubliez pas les acheter sur notre site \[lien à venir\]. Vous aurez plusieurs options (adaptés à toutes les diètes, allergies et restrictions alimentaires). Puisqu'il n'y a pas de restaurant à proximité, c'est une bonne option!
 
 ## Horaire
 
-s
+10h : Arrivées des vendeurs et installation  
+11h : Début de l'évènement  
+13h : Arrivée des lunchs FoodRelay  
+19h : Fin de l'événement et démontage  
+19h45 : Les tables sont ramassées  
+20h : Fermeture de l'espace
 
 ## Plan
+
+Voici le plan de l'espace ainsi que votre place assignée.  
+\[À venir\]
