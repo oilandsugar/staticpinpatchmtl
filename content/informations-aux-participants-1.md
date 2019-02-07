@@ -6,7 +6,7 @@ title = "Informations aux participants"
 +++
 ## Votre Table
 
-* s
+* Les épinglettes et les patches doivent être mises en valeur (idéalement le focus). Si vous voulez de l'inspiration pour bien les présenter, regardez les photos des années précédentes ici et ici ou bien ce dossier.
 * s
 * **Apportez une nappe.** Les tables ne sont pas toutes jolies, alors c'est très conseillé!
 
