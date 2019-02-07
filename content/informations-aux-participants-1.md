@@ -16,7 +16,16 @@ title = "Informations aux participants"
 
 ## Concours et sacs cadeaux
 
-s
+**Les items pour les 25 sacs cadeaux doivent idéalement nous être envoyés par la poste le plus rapidement possible**. Si cela vous cause un problème, dîtes le nous.  
+Ex : autocollants, cartes postales, petits imprimés, pins, patches, coupons rabais, etc. Si vous voulez nous fournir des petits prints ou autre, gardez en tête que la taille maximale est de 7” x 4.75”.
+
+Nous organisons un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Toute contribution est grandement appréciée! Chaque personne qui assiste à l’évènement aura un billet de participation gratuit (malheureusement les vendeurs ne seront pas admissibles).
+
+**Addresse :**   
+Geneviève L Reid  
+107, 3e avenue, Verdun  
+Qc, Canada  
+H4G 2X1
 
 ## Lunch FoodRelay
 
