@@ -19,7 +19,7 @@ title = "Informations aux participants"
 **Les items pour les 25 sacs cadeaux doivent idéalement nous être envoyés par la poste le plus rapidement possible**. Si cela vous cause un problème, dîtes le nous.  
 Ex : autocollants, cartes postales, petits imprimés, pins, patches, coupons rabais, etc. Si vous voulez nous fournir des petits prints ou autre, gardez en tête que la taille maximale est de 7” x 4.75”.
 
-Nous organisons un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Toute contribution est grandement appréciée! Chaque personne qui assiste à l’évènement aura un billet de participation gratuit (malheureusement les vendeurs ne seront pas admissibles).
+Nous organisons un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Toute contribution est grandement appréciée! 
 
 **Addresse :**   
 Geneviève L Reid  
@@ -29,7 +29,7 @@ H4G 2X1
 
 ## Lunch FoodRelay
 
-s
+Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par un chef et livré à votre table au prix de 15$ par personne, n'oubliez pas les acheter sur notre site. Vous aurez plusieurs options (adaptés à toutes les diètes, allergies et restrictions alimentaires). Puisqu'il n'y a pas de restaurant à proximité, c'est une bonne option!
 
 ## Horaire
 
