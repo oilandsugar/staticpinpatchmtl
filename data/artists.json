@@ -14,6 +14,8 @@
     "shopurl": "https://stayhomeclub.com/",
     "instagram": "https://www.instagram.com/stayhomeclubofficial/",
     "featured": "/img/main_shc.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montreal",
     "years": "pp-2017 pp-2018"
   },
@@ -22,6 +24,8 @@
     "shopurl": "https://annexvintage.com/",
     "instagram": "https://www.instagram.com/annexvintage/",
     "featured": "/img/main_annex.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montreal",
     "years": "pp-2018"
   },
@@ -38,6 +42,8 @@
     "shopurl": "http://manierenoireshop.com",
     "instagram": "https://www.instagram.com/manierenoireshop/",
     "featured": "/img/main_mn.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montreal",
     "years": "pp-2017 pp-2018"
   },
@@ -54,6 +60,8 @@
     "shopurl": "http://valeriebastille.storenvy.com",
     "instagram": "https://www.instagram.com/valeriebastille/",
     "featured": "/img/main_valbas.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montreal",
     "years": "pp-2018"
   },
@@ -62,6 +70,8 @@
     "shopurl": "https://www.etsy.com/ca/shop/HouseofPinkArt",
     "instagram": "https://www.instagram.com/houseofpinkart/",
     "featured": "/img/main_houseofpink.png",
+    "image2": null,
+    "image3": null,
     "hometown": "Montreal",
     "years": "pp-2018"
   },
@@ -70,6 +80,8 @@
     "shopurl": "https://www.etsy.com/ca/shop/lovestruckprints",
     "instagram": "https://www.instagram.com/lovestruckprints/",
     "featured": "/img/main_lsp.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montreal",
     "years": "pp-2017 pp-2018"
   },
@@ -78,12 +90,16 @@
     "shopurl": "https://www.etsy.com/shop/Lapimbeche",
     "instagram": "https://www.instagram.com/la_pimbeche/",
     "featured": "/img/Main_Lapimbeche.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montreal",
     "years": "pp-2017 pp-2018"
   },
   {
     "shopurl": "https://www.etsy.com/shop/ambivalentlyyours",
     "featured": "/img/main_ambivalent.JPG",
+    "image2": null,
+    "image3": null,
     "hometown": "Montréal",
     "name": "Ambivalently Yours",
     "instagram": "https://www.instagram.com/ambivalentlyyours/",
@@ -93,6 +109,8 @@
     "name": "Lady No Brow",
     "instagram": "https://www.instagram.com/ladynobrow/",
     "featured": "/img/main_ladynobrow.jpg",
+    "image2": null,
+    "image3": null,
     "shopurl": "http://ladynobrow.com",
     "hometown": "Montréal",
     "years": "pp-2017 pp-2018"
@@ -101,6 +119,8 @@
     "name": "Hood Rats",
     "instagram": "https://www.instagram.com/hoodrats.co/",
     "featured": "/img/main_hoodrats.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montréal",
     "shopurl": "http://www.WeAreHoodRats.com",
     "years": "pp-2018"
@@ -109,6 +129,8 @@
     "name": "Sweet Lou's Magasin Général",
     "instagram": "https://www.instagram.com/sweetlousmagasingeneral/",
     "featured": "/img/main_sweetL.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montréal",
     "shopurl": "http://sweetlousmagasingeneral.bigcartel.com/",
     "years": "pp-2018"
@@ -117,6 +139,8 @@
     "name": "The 22nd",
     "instagram": "https://www.instagram.com/teaness/",
     "featured": "/img/main_the22nd.jpg",
+    "image2": null,
+    "image3": null,
     "shopurl": "http://the22nd.tictail.com/",
     "hometown": "Montréal",
     "years": "pp-2018"
@@ -125,6 +149,8 @@
     "featured": "/img/main_jesshrycyk.jpg",
     "hometown": "Toronto",
     "name": "Jess Hrycyk",
+    "image2": null,
+    "image3": null,
     "shopurl": "https://www.etsy.com/ca/shop/JessHrycyk",
     "instagram": "https://www.instagram.com/jesshrycyk/",
     "years": "pp-2018"
@@ -133,6 +159,8 @@
     "featured": "/img/main_sasha_hanse.jpg",
     "hometown": "Montréal",
     "name": "Sasha Hansé",
+    "image2": null,
+    "image3": null,
     "shopurl": "https://www.etsy.com/ca/shop/SashaHanse?",
     "instagram": "https://www.instagram.com/sasha_hanse/",
     "years": "pp-2018"
@@ -140,6 +168,8 @@
   {
     "instagram": "https://www.instagram.com/findthelostattic/",
     "featured": "/img/Main_TheLostAttic.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montréal",
     "name": "The Lost Attic",
     "shopurl": "http://thelostattic.storenvy.com",
@@ -150,12 +180,16 @@
     "shopurl": "http://www.vagabondheart.co",
     "instagram": "https://www.instagram.com/vagabondheartco",
     "featured": "/img/main_vagabond.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montréal",
     "years": "pp-2018"
   },
   {
     "name": "Laracaille",
     "featured": "/img/main_laracailletattoo.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montréal",
     "instagram": "https://www.instagram.com/laracailletattoo/",
     "shopurl": "https://www.etsy.com/shop/laracaille",
@@ -164,6 +198,8 @@
   {
     "instagram": "https://www.instagram.com/reeeallyman/",
     "featured": "/img/main_reeeallyman.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Toronto",
     "name": "Really, Man?",
     "shopurl": "http://reallyman.storenvy.com/",
@@ -172,6 +208,8 @@
   {
     "instagram": "https://www.instagram.com/brfc",
     "featured": "/img/main_bearface.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Kitchener, ON",
     "name": "BRFC/Bearface Design",
     "shopurl": "http://www.brfc.etsy.com",
@@ -180,6 +218,8 @@
   {
     "instagram": "https://www.instagram.com/this_bloody_sabbath",
     "featured": "/img/Main_this_bloody_sabbath.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Chertsey, QC",
     "name": "This Bloody Sabbath",
     "shopurl": "https://www.etsy.com/ca/shop/ThisBloodySabbath",
@@ -188,6 +228,8 @@
   {
     "instagram": "https://www.instagram.com/plushaday",
     "featured": "/img/main_nathalie_t.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montréal",
     "name": "Plushaday",
     "shopurl": "https://www.etsy.com/shop/plushaday",
@@ -196,6 +238,8 @@
   {
     "instagram": "https://www.instagram.com/lafacade/",
     "featured": "/img/lafacade.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Montréal",
     "name": "LaFacade",
     "shopurl": "https://www.etsy.com/ca-fr/shop/LaFacade",
@@ -204,6 +248,8 @@
   {
     "instagram": "https://www.instagram.com/lafacade/",
     "featured": "/img/crywolf.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Toronto",
     "name": "Crywolf",
     "shopurl": "https://www.crywolfclothing.com/",
@@ -212,6 +258,8 @@
   {
     "instagram": "http://instagram.com/alisha_lucia",
     "featured": "/img/alisha.jpg",
+    "image2": null,
+    "image3": null,
     "hometown": "Toronto",
     "name": "Alisha Davidson",
     "shopurl": "http://etsy.com/shop/alishalucia",
