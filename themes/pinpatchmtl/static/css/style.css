@@ -1379,12 +1379,11 @@ small.note {
   padding-top: 10px;
 }
 
-.artist .img {
+.artist .images {
   min-height: 300px;
-  background-size: cover;
-  background-position: center;
   box-sizing: border-box;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+  position:relative;
 }
 
 .filter-button {
@@ -1404,6 +1403,83 @@ small.note {
 .filter-button.active {
   background: #0000e2;
   color: #fff;
+}
+
+.hover-slider {
+  overflow:hidden;
+  position:relative;
+}
+
+.hover-slider .indicator {
+  position:absolute;
+  bottom:8px;
+  left:8px;
+  width:calc(100% - 16px);
+  display:flex;
+  flex-direction:row;
+  z-index:1000;
+  opacity:0;
+  pointer-events: none;
+  transition:0.3s;
+}
+
+.hover-slider:hover .indicator {
+  opacity:1;
+}
+
+.hover-slider .indicator .bar {
+  flex:1;
+  margin: 0 4px;
+  height:3px;
+  border-radius:1.5px;
+  background:#000;
+  opacity:0.1;
+}
+
+.hover-slider .indicator .bar.active {
+  opacity:0.5;
+}
+
+.hover-slider .img {
+  width:100%;
+  background-size: cover;
+  background-position: center;
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:100;
+  opacity:1;
+  transition:0.3s;
+  height:100%;
+}
+
+.old-project .indicator .bar {
+  flex:1;
+  margin: 0 4px;
+  height:3px;
+  border-radius:1.5px;
+  background:#000;
+  opacity:0.1;
+}
+
+.old-project .indicator .bar.active {
+  opacity:0.5;
+}
+
+.hover-slider .images-container {
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  width:100%;
+  transition:0.4s;
+  animation-timing-function: ease-in-out;
+  background:var(--grey);
+}
+
+.images-container.not-loaded {
+  filter: blur(50px);
+  transform: scale(2);
 }
 
 /* ------------ PRESS ------------- */

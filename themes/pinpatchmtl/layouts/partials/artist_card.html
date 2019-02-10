@@ -1,6 +1,17 @@
 <div class="artist flex-1 {{ .years }}">
   <a href="{{ .shopurl }}" target="_blank">
-    <div class="img card light-grey-back" style="background-image: url('{{ .featured }}')"></div>
+    <div class="images hover-slider card light-grey-back">
+    <div class="images-container not-loaded">
+      <div class="img" id="image-1" style="background-image:url({{ .featured }});"></div>
+      {{ with .image2 }}
+        <div class="img" id="image-2" style="background-image:url({{ . }});"></div>
+      {{ end }}
+      {{ with .image3 }}
+        <div class="img" id="image-3" style="background-image:url({{ . }});"></div>
+      {{ end }}
+    </div>
+    <div class="indicator"></div>
+  </div>
   </a>
   <div class="flex-row">
     <div class="flex-4">
