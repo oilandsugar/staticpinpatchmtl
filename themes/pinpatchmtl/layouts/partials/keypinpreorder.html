@@ -1,0 +1,200 @@
+<section class="content medium-grey-back preorder-pin big-padding-top big-padding-bottom">
+  <div id='product-component-6ade2b4c254'></div>
+      <script type="text/javascript">
+      /*<![CDATA[*/
+
+      (function () {
+        var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+        if (window.ShopifyBuy) {
+          if (window.ShopifyBuy.UI) {
+            ShopifyBuyInit();
+          } else {
+            loadScript();
+          }
+        } else {
+          loadScript();
+        }
+
+        function loadScript() {
+          var script = document.createElement('script');
+          script.async = true;
+          script.src = scriptURL;
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+          script.onload = ShopifyBuyInit;
+        }
+
+        function ShopifyBuyInit() {
+          var client = ShopifyBuy.buildClient({
+            domain: 'maniere-noire.myshopify.com',
+            storefrontAccessToken: '4e56c0eb920f650d85b2909fb9c1ab78',
+          });
+
+          ShopifyBuy.UI.onReady(client).then(function (ui) {
+            ui.createComponent('product', {
+              id: [2403278454869],
+              node: document.getElementById('product-component-6ade2b4c254'),
+              moneyFormat: '%24%7B%7Bamount%7D%7D%20CAD',
+              options: {
+    "product": {
+      "layout": "horizontal",
+      "variantId": "all",
+      "width": "100%",
+      "contents": {
+        "img": false,
+        "imgWithCarousel": true,
+        "variantTitle": false,
+        "description": true,
+        "buttonWithQuantity": false,
+        "quantity": false
+      },
+      "styles": {
+        "product": {
+          "text-align": "left",
+          "@media (min-width: 601px)": {
+            "max-width": "100%",
+            "margin-left": "0",
+            "margin-bottom": "50px"
+          }
+        },
+        "button": {
+          "background-color": "#0000e2",
+          "font-size": "17px",
+          "padding-top": "16.5px",
+          "padding-bottom": "16.5px",
+          ":hover": {
+            "background-color": "#0000ff"
+          },
+          "border-radius": "4px",
+          ":focus": {
+            "background-color": "#0000ff"
+          },
+          "font-weight": "bold"
+        },
+        "variantTitle": {
+          "color": "#ffffff"
+        },
+        "title": {
+          "font-size": "26px",
+          "color": "#ffffff"
+        },
+        "description": {
+          "color": "#ffffff"
+        },
+        "price": {
+          "font-size": "18px",
+          "color": "#ffffff"
+        },
+        "quantityInput": {
+          "font-size": "17px",
+          "padding-top": "16.5px",
+          "padding-bottom": "16.5px"
+        },
+        "compareAt": {
+          "font-size": "15px",
+          "color": "#ffffff"
+        }
+      }
+    },
+    "cart": {
+      "contents": {
+        "button": true
+      },
+      "styles": {
+        "button": {
+          "background-color": "#0000e2",
+          "font-size": "17px",
+          "padding-top": "16.5px",
+          "padding-bottom": "16.5px",
+          ":hover": {
+            "background-color": "#0000ff"
+          },
+          "border-radius": "4px",
+          ":focus": {
+            "background-color": "#0000ff"
+          },
+          "font-weight": "bold"
+        },
+        "footer": {
+          "background-color": "#ffffff"
+        }
+      }
+    },
+    "modalProduct": {
+      "contents": {
+        "img": false,
+        "imgWithCarousel": true,
+        "variantTitle": false,
+        "buttonWithQuantity": true,
+        "button": false,
+        "quantity": false
+      },
+      "styles": {
+        "product": {
+          "@media (min-width: 601px)": {
+            "max-width": "100%",
+            "margin-left": "0px",
+            "margin-bottom": "0px"
+          }
+        },
+        "button": {
+          "background-color": "#0000e2",
+          "font-size": "17px",
+          "padding-top": "16.5px",
+          "padding-bottom": "16.5px",
+          ":hover": {
+            "background-color": "#0000ff"
+          },
+          "border-radius": "4px",
+          ":focus": {
+            "background-color": "#0000ff"
+          },
+          "font-weight": "bold"
+        },
+        "quantityInput": {
+          "font-size": "17px",
+          "padding-top": "16.5px",
+          "padding-bottom": "16.5px"
+        }
+      }
+    },
+    "toggle": {
+      "styles": {
+        "toggle": {
+          "background-color": "#0000e2",
+          ":hover": {
+            "background-color": "#0000ff"
+          },
+          ":focus": {
+            "background-color": "#0000ff"
+          },
+          "font-weight": "bold"
+        },
+        "count": {
+          "font-size": "17px",
+          "color": "#ffffff",
+          ":hover": {
+            "color": "#ffffff"
+          }
+        },
+        "iconPath": {
+          "fill": "#ffffff"
+        }
+      }
+    },
+    "productSet": {
+      "styles": {
+        "products": {
+          "@media (min-width: 601px)": {
+            "margin-left": "-20px"
+          }
+        }
+      }
+    }
+  }
+            });
+          });
+        }
+      })();
+      /*]]>*/
+      </script>
+    </section>
