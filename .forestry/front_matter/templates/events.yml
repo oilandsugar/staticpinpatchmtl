@@ -8,8 +8,24 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: type
   label: Type
   type: text
   hidden: false
   default: event
+- type: textarea
+  name: description
+  label: Description
+- type: datetime
+  name: event_date
+  label: Event date
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+- type: text
+  name: artists_link
+  label: Artists link
+  config:
+    required: true
