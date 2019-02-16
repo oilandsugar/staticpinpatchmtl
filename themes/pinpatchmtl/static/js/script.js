@@ -176,6 +176,38 @@ jQuery(function($) {
       $(".filter-button").removeClass("active")
       $(this).addClass("active")
 
-    })
+    });
+
+
+    if($('.artists').length > 0) {
+      // filter artists on page load
+      let url = window.location;
+      let url_pieces = url.search.split('=');
+      let year = url_pieces[url_pieces.length -1];
+      console.log(year)
+      let filter_value = ".pp-" + year;
+      if(url.search.length > 1) {
+        artists.isotope({ filter: filter_value });
+        $(".filter-button")
+          .removeClass("active")
+        $('a[data-filter="' + filter_value + '"]')
+          .addClass("active");
+      }
+
+      // filter artists on url change
+      $(window).bind('hashchange', function() {
+        let url = window.location;
+        let url_pieces = url.search.split('=');
+        let year = url_pieces[url_pieces.length -1];
+        if(url.search.length > 1) {
+          artists.isotope({ filter: filter_value });
+          $(".filter-button")
+            .removeClass("active")
+          $('a[data-filter="' + filter_value + '"]')
+            .addClass("active");
+        }
+      });
+    }
+
   })
 })
