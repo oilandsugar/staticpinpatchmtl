@@ -34,12 +34,16 @@ Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par 
 
 ## Horaire
 
-**10h :** Arrivées des vendeurs et installation  
-**11h :** Début de l'évènement  
-**13h :** Arrivée des lunchs FoodRelay  
-**19h :** Fin de l'événement et démontage  
-**19h45 :** Les tables sont ramassées  
-**20h :** Fermeture de l'espace
+{{% schedule %}}
+
+* **10h** Arrivée des vendeurs et installation
+* **11h** Début de l'événement
+* **13h**  Arrivée des lunchs FoodRelay
+* **19h** Fin de l'événement et démontage
+* **19h45** Les tables sont ramassées
+* **20h** Fermeture de l'espace
+
+{{% /schedule %}}
 
 Les deux premières heures sont les plus achalandées (du à la file d'attente qui se crée à l'entrée), donc arrivez à temps pour être prêt à la première vague!
 
@@ -47,3 +51,5 @@ Les deux premières heures sont les plus achalandées (du à la file d'attente q
 
 Voici le plan de l'espace ainsi que votre place assignée.  
 \[À venir\]
+
+
