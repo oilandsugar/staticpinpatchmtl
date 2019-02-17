@@ -5,22 +5,6 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
-  path: data
-  label: Data
-  create: documents
-  match: "**/*"
-  new_doc_ext: json
-- type: directory
-  path: content/shop
-  label: Shop
-  create: all
-  match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: content/events
   label: Events
   create: all
@@ -30,9 +14,22 @@ sections:
   label: Artists
   create: all
   match: "**/*"
+- type: document
+  path: data/artists.json
+  label: Artist data
+  match: "**/*"
 - type: directory
   path: content/press
   label: Press
+  create: all
+  match: "**/*"
+- type: document
+  path: data/press.json
+  label: Press Data
+  match: "**/*"
+- type: directory
+  path: content/shop
+  label: Shop
   create: all
   match: "**/*"
 - type: directory
@@ -40,6 +37,11 @@ sections:
   label: Apply
   create: all
   match: "**/*"
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
