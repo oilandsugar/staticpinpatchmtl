@@ -1337,6 +1337,12 @@ small.note {
   margin-left: 30px;
 }
 
+#main h1,
+#main h2,
+#main h3 {
+  color:var(--blue);
+}
+
 /* ---------- EVENT PHOTOS ---------- */
 
 .content {
