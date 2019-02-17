@@ -18,6 +18,3 @@ fields:
   type: boolean
   hidden: false
   default: true
-pages:
-- content/informations-for-participants.md
-- content/informations-aux-participants-1.md
