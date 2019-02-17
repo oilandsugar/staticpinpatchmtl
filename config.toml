@@ -18,7 +18,7 @@ title = "Pin Patch Mtl"
     weight = 2
     [[languages.en.menu.footer]]
     name = "Apply"
-    url = "/apply"
+    url = "/apply/artists"
     weight = 3
     [[languages.en.menu.footer]]
     name = "Artists"
@@ -38,7 +38,7 @@ title = "Pin Patch Mtl"
     weight = 2
     [[languages.en.menu.main]]
     name = "Apply"
-    url = "/apply"
+    url = "/apply/artists"
     weight = 3
     [[languages.en.menu.main]]
     name = "Artists"
@@ -59,7 +59,7 @@ title = "Pin Patch Mtl"
     weight = 2
     [[languages.fr.menu.footer]]
     name = "Appliquer"
-    url = "/fr/apply"
+    url = "/fr/apply/artists"
     weight = 3
     [[languages.fr.menu.footer]]
     name = "Artistes"
@@ -79,7 +79,7 @@ title = "Pin Patch Mtl"
     weight = 2
     [[languages.fr.menu.main]]
     name = "Appliquer"
-    url = "/fr/apply"
+    url = "/fr/apply/artists"
     weight = 3
     [[languages.fr.menu.main]]
     name = "Artistes"
