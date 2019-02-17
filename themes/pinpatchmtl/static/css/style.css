@@ -376,6 +376,19 @@ img {
 ////////////// SHORTCODES //////////////
 --------------------------------------*/
 
+/*---------- ROW -----------*/
+
+.row {
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  width:100%;
+}
+
+/*---------- COLUMN -----------*/
+
+
+
 /*---------- SCHEDULE -----------*/
 
 .schedule ul {
