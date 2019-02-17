@@ -11,11 +11,6 @@ sections:
   match: "**/*"
   new_doc_ext: json
 - type: directory
-  path: content/apply-illustrators
-  label: Apply illustrators
-  create: all
-  match: "**/*"
-- type: directory
   path: content/shop
   label: Shop
   create: all
