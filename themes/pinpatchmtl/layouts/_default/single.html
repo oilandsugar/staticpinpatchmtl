@@ -1,8 +1,10 @@
 {{ partial "header" . }}
-    {{ partial "navbar" . }}
+{{ partial "navbar" . }}
+{{ partial "mobilemenu" . }}
+
     <!-- Main -->
     <div id="main">
-      <section class="content big-padding-top">
+      <section class="content big-padding-top big-padding-bottom">
         <div class="wrap big-padding-top big-padding-bottom">
             {{ $.Scratch.Set "h1" true }}
             {{ .Render "header" }}
