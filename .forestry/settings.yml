@@ -36,6 +36,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/info
+  label: Info pages
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
