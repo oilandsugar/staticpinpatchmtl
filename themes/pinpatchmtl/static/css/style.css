@@ -372,6 +372,28 @@ img {
   display: none !important;
 }
 
+/* -------------------------------------
+////////////// SHORTCODES //////////////
+--------------------------------------*/
+
+/*---------- SCHEDULE -----------*/
+
+.schedule ul {
+  list-style:none;
+  border-top: 2px solid var(--midgrey);
+  margin-bottom:16px;
+}
+
+.schedule li {
+  padding: 4px 0;
+  border-bottom: 2px solid var(--midgrey);
+}
+
+.schedule li strong {
+  display:inline-block;
+  min-width:60px;
+}
+
 /*---------- ISOTOPE GRID (350px grid) -----------*/
 
 .isotope {
