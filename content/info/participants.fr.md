@@ -3,9 +3,6 @@ date = "2019-01-01"
 title = "Informations aux participants"
 
 +++
-{{% row %}}  
-
-{{% column flex="1" %}} 
 
 ## Votre Table
 
@@ -18,9 +15,6 @@ title = "Informations aux participants"
 
 **Il faut faire de la publicité pour l'événement!** Invitez tous vos amis à l’évènement sur Facebook, partagez-le sur votre page et votre instagram, faites une annonce sur votre site, etc. C’est une partie très importante à ne pas négliger. Nous avons fait un petit [dossier de presse](https://drive.google.com/open?id=115zCAZv-7cWTbR7-A2UWM4twfR22vWHK) avec des images que vous pouvez utiliser, mais vous pouvez également concocter la vôtre (utilisez quand même le logo officiel).
 
-{{% /column %}} 
-
-{{% column flex="1" %}} 
 
 ## Concours et sacs cadeaux
 
@@ -58,7 +52,3 @@ Les deux premières heures sont les plus achalandées (du à la file d'attente q
 
 Voici le plan de l'espace ainsi que votre place assignée.  
 \[À venir\]
-
-{{% /column %}} 
-
-{{% /row %}}
