@@ -383,11 +383,15 @@ img {
   flex-direction:row;
   flex-wrap:wrap;
   width:100%;
+  margin: 0 -16px;
 }
 
 /*---------- COLUMN -----------*/
 
-
+.column {
+  padding: 0 16px;
+  box-sizing: border-box;
+}
 
 /*---------- SCHEDULE -----------*/
 
