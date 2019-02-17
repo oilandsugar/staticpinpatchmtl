@@ -3,25 +3,23 @@ date = "2019-01-01"
 title = "Informations aux participants"
 
 +++
-
 ## Votre Table
 
 * **Les épinglettes et les patches doivent être mises en valeur** (idéalement le focus). Si vous voulez de l'inspiration pour bien les présenter, regardez les photos des années précédentes [ici](https://www.facebook.com/pg/pinpatchmtl/photos/?tab=album&album_id=1859504404379076) et [ici](https://drive.google.com/open?id=152D07kkYE9Yt6koKcjMH7sDB1pCxVtCC) ou bien [ce dossier](https://drive.google.com/open?id=1vNId0-vskRkUlqIJTUpTBmDPAEjKr6-d). PS: Les macarons ne sont pas des épinglettes et ne doivent pas prendre toute la place.
-* **Vous pouvez apporter autre chose que des pins et des patchs!** On veut mettre l’emphase sur ce qui est manufacturé (produit en série) versus artisanal (objet unique fait à la main), mais tous vos produits sont les bienvenus.
+* **Vous pouvez apporter autre chose que des pins et des patches!** On veut mettre l’emphase sur ce qui est manufacturé (produit en série) versus artisanal (objet unique fait à la main), mais tous vos produits sont les bienvenus.
 * **Apportez une nappe.** Les tables sont fournies mais ne sont pas toutes jolies, alors c'est très conseillé!
-* Pour ceux qui ont un **espace mural**, veuillez ne pas utiliser des clous ou autre méthode qui pourrait abimer le mur.
+* Pour ceux qui ont un **espace mural**, veuillez ne pas utiliser de clous ou autre méthodes d'accrochage qui pourrait abîmer le mur.
 
 ## Publicité
 
-**Il faut faire de la publicité pour l'événement!** Invitez tous vos amis à l’évènement sur Facebook, partagez-le sur votre page et votre instagram, faites une annonce sur votre site, etc. C’est une partie très importante à ne pas négliger. Nous avons fait un petit [dossier de presse](https://drive.google.com/open?id=115zCAZv-7cWTbR7-A2UWM4twfR22vWHK) avec des images que vous pouvez utiliser, mais vous pouvez également concocter la vôtre (utilisez quand même le logo officiel).
-
+**Il faut faire de la publicité pour l'événement!** Invitez tous vos amis à l’événement sur Facebook, partagez-le sur votre page et votre instagram, faites une annonce sur votre site, etc. C’est une partie très importante à ne pas négliger. Nous avons fait un petit [dossier de presse](https://drive.google.com/open?id=115zCAZv-7cWTbR7-A2UWM4twfR22vWHK) avec des images que vous pouvez utiliser, mais vous pouvez également concocter la vôtre (utilisez quand même le logo officiel).
 
 ## Concours et sacs cadeaux
 
 **Les items pour les 25 sacs cadeaux doivent idéalement nous être envoyés par la poste le plus rapidement possible**. Si cela vous cause un problème, dîtes le nous.  
 Ex : autocollants, cartes postales, petits imprimés, pins, patches, coupons rabais, etc. Si vous voulez nous fournir des petits prints ou autre, gardez en tête que la taille maximale est de 7” x 4.75”.
 
-Nous organisons un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Toute contribution est grandement appréciée!
+Nous organisons également un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Toute contribution est grandement appréciée!
 
 **Addresse :**  
 Geneviève L Reid  
