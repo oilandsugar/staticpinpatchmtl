@@ -1,6 +1,5 @@
 +++
 date = "2019-01-01"
-draft = true
 title = "Informations aux participants"
 
 +++
