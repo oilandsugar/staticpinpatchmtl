@@ -1122,6 +1122,16 @@ hr.light {
   margin-bottom: 16px;
 }
 
+.mobile-menu .menu-content .lang-selector a {
+  border-bottom:0;
+  display:inline-block;
+  padding:0 20px;
+}
+
+.mobile-menu .menu-content .lang-selector a:first-child {
+  padding-left:0;
+}
+
 .mobile-menu .menu-content a h3 {
   font-size:25px;
   font-weight: bold;

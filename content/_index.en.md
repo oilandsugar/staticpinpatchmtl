@@ -1,5 +1,6 @@
 +++
 ApplyCta = "Apply Now"
+ApplyLink = "/apply/artists/"
 ApplyTitle = "Artists applications open!"
 description = "Come start a new pin or patch collection (or grow your actual one) and support local artists from Montreal and Toronto at the second edition of Pin Patch Mtl"
 entry = "Free entry"
