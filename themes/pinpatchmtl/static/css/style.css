@@ -490,6 +490,7 @@ body {
 .big-wrap {
   max-width: 1600px;
   margin: 0 auto;
+  padding:0 30px;
 }
 
 /* -------- COLUMNS ---------*/
@@ -1401,6 +1402,12 @@ small.note {
 
 /* ------------ MISSION ------------- */
 
+.mission {
+  font-size: 30px;
+  line-height: 36px;
+  margin-bottom:60px;
+}
+
 /* ------------ ------------- */
 
 .address {
@@ -1417,6 +1424,7 @@ small.note {
   margin: 10px;
   min-width: calc(25% - 20px);
   max-width: calc(25% - 20px);
+  z-index:10;
 }
 
 .artist.featured-artist {

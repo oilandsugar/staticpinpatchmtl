@@ -20,5 +20,6 @@ title = "The unique Pin and Patch fair in Montreal"
 type = "page"
 whatText = "There are pins and patches for every taste and interests. We dare say there’s at least 20 of them that are literally made for you. Once you start collecting, you’ll soon be addicted! They’re perfect for your jacket, shirt collar or simply for display in a nice frame."
 whatTitle = "What is it?"
+mission = "Our mission is to promote artists and illustrators creating enamel pins and patches while bringing together fans of this vibrant, creative community."
 
 +++
