@@ -1,102 +1,94 @@
+DefaultContentLanguage = "en"
 baseURL = "http://pinpatchmtl.com/"
 enableEmoji = true
 languageCode = "en-us"
 theme = "pinpatchmtl"
-DefaultContentLanguage = "en"
 title = "Pin Patch Mtl"
-
-
-[languages]
-  [languages.en]
-    [[languages.en.menu.footer]]
-    name = "Pin Patch Mtl"
-    url = "/"
-    weight = 1
-    [[languages.en.menu.footer]]
-    name = "Shop"
-    url = "/shop"
-    weight = 2
-    [[languages.en.menu.footer]]
-    name = "Apply"
-    url = "/apply/artists"
-    weight = 3
-    [[languages.en.menu.footer]]
-    name = "Artists"
-    url = "/artists"
-    weight = 4
-    [[languages.en.menu.footer]]
-    name = "Press"
-    url = "/press"
-    weight = 5
-    [[languages.en.menu.main]]
-    name = "Pin Patch Mtl"
-    url = "/"
-    weight = 1
-    [[languages.en.menu.main]]
-    name = "Shop"
-    url = "/shop"
-    weight = 2
-    [[languages.en.menu.main]]
-    name = "Apply"
-    url = "/apply/artists"
-    weight = 3
-    [[languages.en.menu.main]]
-    name = "Artists"
-    url = "/artists"
-    weight = 4
-    [[languages.en.menu.main]]
-    name = "Press"
-    url = "/press"
-    weight = 5
-  [languages.fr]
-    [[languages.fr.menu.footer]]
-    name = "Pin Patch Mtl"
-    url = "/fr/"
-    weight = 1
-    [[languages.fr.menu.footer]]
-    name = "Boutique"
-    url = "/fr/shop"
-    weight = 2
-    [[languages.fr.menu.footer]]
-    name = "Appliquer"
-    url = "/fr/apply/artists"
-    weight = 3
-    [[languages.fr.menu.footer]]
-    name = "Artistes"
-    url = "/fr/artists"
-    weight = 4
-    [[languages.fr.menu.footer]]
-    name = "Presse"
-    url = "/fr/press"
-    weight = 5
-    [[languages.fr.menu.main]]
-    name = "Pin Patch Mtl"
-    url = "/fr/"
-    weight = 1
-    [[languages.fr.menu.main]]
-    name = "Boutique"
-    url = "/fr/shop"
-    weight = 2
-    [[languages.fr.menu.main]]
-    name = "Appliquer"
-    url = "/fr/apply/artists"
-    weight = 3
-    [[languages.fr.menu.main]]
-    name = "Artistes"
-    url = "/fr/artists"
-    weight = 4
-    [[languages.fr.menu.main]]
-    name = "Presse"
-    url = "/fr/press"
-    weight = 5
-
-
+[[languages.en.menu.footer]]
+name = "Pin Patch Mtl"
+url = "/"
+weight = 1
+[[languages.en.menu.footer]]
+name = "Shop"
+url = "/shop"
+weight = 2
+[[languages.en.menu.footer]]
+name = "Apply"
+url = "/apply/artists"
+weight = 3
+[[languages.en.menu.footer]]
+name = "Artists"
+url = "/artists"
+weight = 4
+[[languages.en.menu.footer]]
+name = "Press"
+url = "/press"
+weight = 5
+[[languages.en.menu.main]]
+name = "Pin Patch Mtl"
+url = "/"
+weight = 1
+[[languages.en.menu.main]]
+name = "Shop"
+url = "/shop"
+weight = 2
+[[languages.en.menu.main]]
+name = "Apply"
+url = "/apply/artists"
+weight = 3
+[[languages.en.menu.main]]
+name = "Artists"
+url = "/artists"
+weight = 4
+[[languages.en.menu.main]]
+name = "Press"
+url = "/press"
+weight = 5
+[[languages.fr.menu.footer]]
+name = "Pin Patch Mtl"
+url = "/fr/"
+weight = 1
+[[languages.fr.menu.footer]]
+name = "Boutique"
+url = "/fr/shop"
+weight = 2
+[[languages.fr.menu.footer]]
+name = "Appliquer"
+url = "/fr/apply/artists"
+weight = 3
+[[languages.fr.menu.footer]]
+name = "Artistes"
+url = "/fr/artists"
+weight = 4
+[[languages.fr.menu.footer]]
+name = "Presse"
+url = "/fr/press"
+weight = 5
+[[languages.fr.menu.main]]
+name = "Pin Patch Mtl"
+url = "/fr/"
+weight = 1
+[[languages.fr.menu.main]]
+name = "Boutique"
+url = "/fr/shop"
+weight = 2
+[[languages.fr.menu.main]]
+name = "Appliquer"
+url = "/fr/apply/artists"
+weight = 3
+[[languages.fr.menu.main]]
+name = "Artistes"
+url = "/fr/artists"
+weight = 4
+[[languages.fr.menu.main]]
+name = "Presse"
+url = "/fr/press"
+weight = 5
+[params]
+facebook = "https://www.facebook.com/pinpatchmtl/"
+image = "/uploads/cover-image-1.jpg"
+instagram = "https://www.instagram.com/pinpatchmtl/"
+showbuypincta = true
+showinscriptionscta = false
 [permalinks]
 post = "/:section/:title/"
-
-[params]
-showinscriptionscta = false
-showbuypincta = true
-image = "/uploads/cover-image-1.jpg"
-instagram = "https://www.instagram.com/pinpatchmyl/"
-facebook = "https://www.facebook.com/pinpatchmtl/"

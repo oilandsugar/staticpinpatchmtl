@@ -45,6 +45,9 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: document
+  path: config.toml
+  label: Settings
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
