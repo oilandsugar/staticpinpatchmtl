@@ -4,10 +4,6 @@ auto_deploy: true
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: document
-  path: config.toml
-  label: Settings
-  match: "**/*"
 - type: directory
   path: content/events
   label: Events
@@ -49,6 +45,10 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: document
+  path: config.toml
+  label: Settings
+  match: "**/*"
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
