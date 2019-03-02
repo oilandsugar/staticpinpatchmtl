@@ -3,10 +3,12 @@
 {{ partial "mobilemenu" . }}
 <!-- Main -->
 
-<div class="display-none">
+{{ if .Site.Params.showbuypincta }}
   {{ partial "pincta" . }}
-</div>
-{{ partial "applicationscta" . }}
+{{ end }}
+{{ if .Site.Params.showinscriptionscta }}
+  {{ partial "applicationscta" . }}
+{{ end }}
 {{ partial "logoheader" . }}
 
 <section class="content medium-padding-bottom medium-padding-top">

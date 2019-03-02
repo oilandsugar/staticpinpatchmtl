@@ -1317,17 +1317,36 @@ small.note {
 }
 
 #pin-popup {
-  width: 250px;
+  width: 300px;
   position: absolute;
-  top: 200px;
-  right: 500px;
+  top: 126px;
+  right: 420px;
   z-index: 1000;
   filter: drop-shadow(0 0 20px #00000035);
-  transform: rotate(10deg);
-  cursor: move; /* fallback if grab cursor is unsupported */
+  cursor: move;
   cursor: grab;
   cursor: -moz-grab;
   cursor: -webkit-grab;
+  animation: shake 5s cubic-bezier(.36,.07,.19,.97) both infinite;
+}
+
+@keyframes shake {
+
+  5%, 45%, 90% {
+    transform: rotate(-2deg);
+  }
+
+  10%, 40% {
+    transform: rotate(2deg);
+  }
+
+  15%, 25%, 35% {
+    transform: rotate(-4deg);
+  }
+
+  20%, 30% {
+    transform: rotate(4deg);
+  }
 }
 
 /* -------------------------------------

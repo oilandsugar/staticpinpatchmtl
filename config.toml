@@ -93,3 +93,10 @@ title = "Pin Patch Mtl"
 
 [permalinks]
 post = "/:section/:title/"
+
+[params]
+showinscriptionscta = false
+showbuypincta = true
+image = "/uploads/cover-image-1.jpg"
+instagram = "https://www.instagram.com/pinpatchmyl/"
+facebook = "https://www.facebook.com/pinpatchmtl/"
