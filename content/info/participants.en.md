@@ -5,14 +5,14 @@ title = "Informations for participants"
 +++
 ## Your Table
 
-* **Les épinglettes et les patches doivent être mises en valeur** (idéalement le focus). Si vous voulez de l'inspiration pour bien les présenter, regardez les photos des années précédentes [ici](https://www.facebook.com/pg/pinpatchmtl/photos/?tab=album&album_id=1859504404379076) et [ici](https://drive.google.com/open?id=152D07kkYE9Yt6koKcjMH7sDB1pCxVtCC) ou bien [ce dossier](https://drive.google.com/open?id=1vNId0-vskRkUlqIJTUpTBmDPAEjKr6-d). PS: Les macarons ne sont pas des épinglettes et ne doivent pas prendre toute la place.
-* **Vous pouvez apporter autre chose que des pins et des patchs!** On veut mettre l’emphase sur ce qui est manufacturé (produit en série) versus artisanal (objet unique fait à la main), mais tous vos produits sont les bienvenus.
-* **Apportez une nappe.** Les tables sont fournies mais ne sont pas toutes jolies, alors c'est très conseillé!
-* Pour ceux qui ont un **espace mural**, veuillez ne pas utiliser des clous ou autre méthode qui pourrait abimer le mur.
+* **Pins and patches need to be in the spotlight.** If you'd like some inspiration on how to put them well, you can check out the previous editions [here](https://www.facebook.com/pg/pinpatchmtl/photos/?tab=album&album_id=1859504404379076) and [here](https://drive.google.com/open?id=152D07kkYE9Yt6koKcjMH7sDB1pCxVtCC) or look at [this inspiration folder](https://drive.google.com/open?id=1vNId0-vskRkUlqIJTUpTBmDPAEjKr6-d). 
+* **You can bring something other than pins and patches!** We want an emphasis on  manufactured (made in series) versus crafted (unique hand made items), but all products are welcomed.
+* **Bring a tablecloth.** We provide tables but they aren't very pretty, so take that in consideration! 
+* For anyone that has a **wall space**, you cannot use nails or any method that could do damage to the wall. If you'd like some ideas on how you can display t shirts and other items that aren't print, you can check this [document](https://docs.google.com/document/d/1z1DlSCkk_Lb1aIFMlPsiGk5cKjUSxNqcExMiOZ4pRW0/edit?usp=sharing).
 
 ## Publicity
 
-**Il faut faire de la publicité pour l'événement!** Invitez tous vos amis à l’évènement sur Facebook, partagez-le sur votre page et votre instagram, faites une annonce sur votre site, etc. C’est une partie très importante à ne pas négliger. Nous avons fait un petit [dossier de presse](https://drive.google.com/open?id=115zCAZv-7cWTbR7-A2UWM4twfR22vWHK) avec des images que vous pouvez utiliser, mais vous pouvez également concocter la vôtre (utilisez quand même le logo officiel).
+**Let's make some  Il faut faire de la publicité pour l'événement!** Invitez tous vos amis à l’évènement sur Facebook, partagez-le sur votre page et votre instagram, faites une annonce sur votre site, etc. C’est une partie très importante à ne pas négliger. Nous avons fait un petit [dossier de presse](https://drive.google.com/open?id=115zCAZv-7cWTbR7-A2UWM4twfR22vWHK) avec des images que vous pouvez utiliser, mais vous pouvez également concocter la vôtre (utilisez quand même le logo officiel).
 
 ## Contest and gift bags
 
