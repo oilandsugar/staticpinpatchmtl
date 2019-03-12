@@ -541,9 +541,9 @@
   },
   {
     "instagram": "https://www.instagram.com/brfc",
-    "featured": "/img/main_bearface.jpg",
-    "image2": null,
-    "image3": null,
+    "featured": "/img/bfrc1.jpg",
+    "image2": "/img/bfrc2.jpg",
+    "image3": "/img/bfrc3.jpg",
     "logo": null,
     "hometown": "Kitchener, ON",
     "name": "BRFC/Bearface Design",
