@@ -517,9 +517,9 @@
   },
   {
     "name": "Laracaille",
-    "featured": "/img/main_laracailletattoo.jpg",
-    "image2": null,
-    "image3": null,
+    "featured": "/img/laracaille1.jpg",
+    "image2": "/img/laracaille2.jpg",
+    "image3": "/img/laracaille3.jpg",
     "logo": null,
     "hometown": "Montréal",
     "instagram": "https://www.instagram.com/laracailletattoo/",
