@@ -409,9 +409,9 @@
   },
   {
     "shopurl": "https://www.etsy.com/shop/ambivalentlyyours",
-    "featured": "/img/main_ambivalent.JPG",
-    "image2": null,
-    "image3": null,
+    "featured": "/img/ambi1.jpg",
+    "image2": "/img/ambi2.jpg",
+    "image3": "/img/ambi3.jpg",
     "logo": null,
     "hometown": "Montréal",
     "name": "Ambivalently Yours",
