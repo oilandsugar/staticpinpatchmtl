@@ -589,9 +589,9 @@
   },
   {
     "instagram": "https://www.instagram.com/lafacade/",
-    "featured": "/img/crywolf.jpg",
-    "image2": null,
-    "image3": null,
+    "featured": "/img/crywolf1.jpg",
+    "image2": "/img/crywolf2.jpg",
+    "image3": "/img/crywolf3.jpg",
     "logo": null,
     "hometown": "Toronto",
     "name": "Crywolf",
