@@ -434,9 +434,9 @@
   {
     "name": "Hood Rats",
     "instagram": "https://www.instagram.com/hoodrats.co/",
-    "featured": "/img/main_hoodrats.jpg",
-    "image2": null,
-    "image3": null,
+    "featured": "/img/hr1.jpg",
+    "image2": "/img/hr2.jpg",
+    "image3": "/img/hr3.jpg",
     "logo": null,
     "hometown": "Montréal",
     "shopurl": "http://www.WeAreHoodRats.com",
