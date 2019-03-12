@@ -351,11 +351,13 @@
     "name": "Badaboöm Studio ",
     "shopurl": "https://badaboom-studio.com/",
     "instagram": "https://www.instagram.com/badaboomprintshop/",
-    "featured": "/img/main_badaboomprintshop.jpg",
+    "featured": "/img/badaboom1.jpg",
     "logo": null,
     "hometown": "Toronto",
     "years": "pp-2017 pp-2018 pp-2019",
-    "description": ""
+    "description": "",
+    "image2": "/img/badaboom2.jpg",
+    "image3": "/img/badaboom3.jpg"
   },
   {
     "name": "Valérie Bastille",
