@@ -1,0 +1,58 @@
+{{ partial "header" . }}
+{{ partial "navbar" . }}
+{{ partial "mobilemenu" . }}
+
+<!-- Artist page content -->
+<div class="single-artist">
+
+<section class="content big-padding-top">
+  <div class="big-wrap big-padding-top big-padding-bottom">
+    <div class="artist-images">
+      <div class="img" id="image-1" style="background-image:url({{ .Params.featured }});"></div>
+      {{ with .Params.image2 }}
+        <div class="img" id="image-2" style="background-image:url({{ . }});"></div>
+      {{ end }}
+      {{ with .Params.image3 }}
+        <div class="img" id="image-3" style="background-image:url({{ . }});"></div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="content big-padding-bottom medium-padding-top">
+  <div class='wrap big-padding-bottom'>
+    <div class="row">
+      <div class="flex-2">
+        <h1 class="blue medium-padding-bottom">
+          {{ .Title}}
+        </h1>
+        <p class="from"><i class="fa fa-map-pin"></i>{{ .Params.hometown}}</p>
+        {{ if gt (len .Params.years) 0 }}
+          <p class="years">
+            Participated at Pin Patch Mtl
+            {{ range .Params.years }}
+              <a href="/artists/?year={{ . }}" class="year-link">
+                {{ . }}
+              </a>
+            {{ end }}
+          </p>
+        {{ end }}
+        <p class="description">
+          {{.Params.description}}
+        </p>
+        {{ .Content }}
+      </div>
+      <div class="flex-1 big-padding-left buttons">
+        <a class="button button-grey" href="{{ .Params.shopurl }}" target="_blank"><i class="fa fa-shopping-cart"></i>View shop</a>
+        <a class="button button-grey" href="{{ .Params.instagram }}" target="_blank"><i class="fa fa-instagram"></i>View instagram</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<!-- end Artist page content -->
+
+
+{{ partial "footer" . }}

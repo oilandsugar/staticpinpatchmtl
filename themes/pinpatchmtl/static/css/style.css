@@ -1453,6 +1453,7 @@ small.note {
 
 .artist h3 {
   margin: 10px 0 0 0;
+  font-weight:bold;
 }
 
 .artist .insta-link {
@@ -1561,7 +1562,59 @@ small.note {
 
 .images-container.not-loaded {
   filter: blur(50px);
-  transform: scale(2);
+  transform: scale(1.5);
+}
+
+/* ------------ SINGLE ARTISTS ------------- */
+
+.artist-images {
+  display:flex;
+  flex-direction:row;
+}
+
+.artist-images .img {
+  height:300px;
+  width: calc(33.3333% - 20px);
+  margin:10px;
+  box-sizing: border-box;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+  border-radius:4px;
+  background-size: cover;
+  background-position: center;
+}
+
+.single-artist .from i {
+  margin-right:10px;
+}
+
+.single-artist .year-link {
+  background: #0000e2;
+  border-radius:14px;
+  padding: 3px 8px;
+  font-size:14px;
+  color:#fff;
+  margin-left:10px;
+  transition:0.5s;
+}
+
+.single-artist .year-link:hover {
+      background: #4c7bff;
+}
+
+.single-artist .description {
+  font-size:24px;
+  line-height:30px;
+  padding-top:24px;
+}
+
+.single-artist .buttons {
+  text-align:right;
+}
+
+.single-artist .buttons a {
+  margin-left:10px;
+  display: inline-block;
+  margin-bottom: 10px;
 }
 
 /* ------------ PRESS ------------- */
@@ -1995,5 +2048,34 @@ margin-top: 16px;
     margin-left:0;
     left:0;
     top:-187px;
+  }
+  .artist-images {
+    border-radius:4px;
+    height:200px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+    overflow:hidden;
+  }
+  .artist-images .img {
+    box-shadow:none;
+    border-radius:0;
+    margin:0;
+    width:100%;
+  }
+  .single-artist {
+    padding-top:80px;
+  }
+  .single-artist .row {
+    margin:0;
+    flex-direction:column-reverse;
+  }
+  .single-artist .row .big-padding-left {
+    padding-left:0;
+    padding-bottom:20px;
+  }
+  .filters {
+    line-height:50px;
+  }
+  .single-artist .buttons {
+    text-align:left;
   }
 }

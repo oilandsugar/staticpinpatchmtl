@@ -17,7 +17,18 @@
 
     {{ partial "artist_filters" . }}
 
-    {{ partial "artists" . }}
+    <section class="content big-padding-bottom medium-padding-top">
+      <div class='big-wrap artists'>
+        <div class="flex-row flex-wrap artist-container">
+          {{ range .Site.Home.AllTranslations  }}
+            {{ range where .Pages "Type" "artists" }}
+              {{ partial "artist_card_page.html" . }}
+            {{ end }}
+          {{end}}
+        </div>
+      </div>
+    </section>
+
 
     <!-- end Press page content -->
 

@@ -1,0 +1,19 @@
+{
+  "name": "staticpinpatchmtl",
+  "version": "1.0.0",
+  "description": "Website for the Pin Patch Mtl Fair",
+  "main": "index.html",
+  "scripts": {
+    "start": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oilandsugar/staticpinpatchmtl.git"
+  },
+  "author": "Pin Patch Mtl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oilandsugar/staticpinpatchmtl/issues"
+  },
+  "homepage": "https://github.com/oilandsugar/staticpinpatchmtl#readme"
+}
