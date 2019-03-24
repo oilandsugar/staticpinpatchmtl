@@ -1,15 +1,13 @@
 +++
-
-title = "Alex Nash"
-type = "artists"
-shopurl = ""
-instagram = "https://www.instagram.com/nash.illustration"
+description = "Alex is graphic designer by trade, inspired by folklore, plants, witchcraft, taxidermy, gaming, and otaku culture."
 featured = "/img/alexnash1.jpg"
+hometown = "Gatineau"
 image2 = "/img/alexnash2.jpg"
 image3 = "/img/alexnash3.jpg"
+instagram = "https://www.instagram.com/nash.illustration"
 logo = ""
-hometown = "Gatineau"
+shopurl = ""
+title = "Alex Nash"
 years = ["2019"]
-description = "I'm a graphic designer by trade, working towards investing more time and TLC on my art. I'm inspired by folklore, plants, witchcraft, taxidermy, gaming and otaku culture. I've recently delved into the world of pin-making with my first (and happily successful) kickstarter event. I'm now hooked, and want to create more original pins and eventual patches."
 
 +++
