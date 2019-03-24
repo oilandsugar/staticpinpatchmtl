@@ -1,14 +1,14 @@
 +++
-description = "Alex is graphic designer by trade, inspired by folklore, plants, witchcraft, taxidermy, gaming, and otaku culture."
+description = "The Foragers Club is a project in which Kimberly makes pins and patches and prints to channel a strong enthusiasm for nature and plants. Keenly interested in herbalism, Kimberly loves to design pins of some favorite herbal pals."
 draft = true
-featured = "/img/alexnash1.jpg"
-hometown = "Gatineau"
-image2 = "/img/alexnash2.jpg"
-image3 = "/img/alexnash3.jpg"
-instagram = "https://www.instagram.com/nash.illustration"
+featured = "/img/foragers1.jpg"
+hometown = "Toronto"
+image2 = "/img/foragers.jpg"
+image3 = "/img/foragers3.jpg"
+instagram = "https://www.instagram.com/the.foragersclub"
 logo = ""
-shopurl = ""
-title = "Alex Nash"
+shopurl = "http://theforagers.club"
+title = "The Foragers Club"
 years = ["2019"]
 
 +++
