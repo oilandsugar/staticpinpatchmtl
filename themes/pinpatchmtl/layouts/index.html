@@ -11,71 +11,94 @@
 {{ end }}
 {{ partial "logoheader" . }}
 
-<section class="content medium-padding-bottom medium-padding-top">
-  <div class="wrap mission">
-    <h1
-      class="blue medium-padding-bottom medium-margin-bottom">
-      {{ .Params.title }}
-    </h1>
+<section class="top-info medium-padding-bottom medium-padding-top">
+  <div class="wrap">
     <div class="flex-row">
       <div class="flex-1">
-        <h3 class="date-main blue">
-          {{ .Params.moment }}
-        </h3>
-        <h3 class="date-main blue">
-          {{ .Params.time }}
-        </h3>
-        <p class="medium-margin-bottom place-main">
-          {{ .Params.placeName }}<br/>
-          {{ .Params.place }}
-          <img class="place-logo" src="/img/decade-logo.svg" />
-        </p>
-        <p>
-          {{ .Params.entry }}
-        </p>
-        <a
-          class="button display-none"
-          href="https://www.facebook.com/events/2084755461767868/"
-          target="_blank"
-          data-translatable>See the Facebook event // Voir l'événement Facebook</a>
-        <span class="addtocalendar display-none atc-style-blue">
-          <var class="atc_event">
-            <var class="atc_date_start">2017-09-30 11:00:00</var>
-            <var class="atc_date_end">2017-09-30 20:00:00</var>
-            <var class="atc_timezone">America/Toronto</var>
-            <var class="atc_title">Pin Patch Mtl Fair Spring 2018 edition</var>
-            <var class="atc_description"
-              >Montreal’s first enamel pin and patch creators fair</var>
-            <var class="atc_location"
-              >La Gare, 5333 Avenue Casgrain #102, Montréal, Qc, Canada</var>
-            <var class="atc_organizer">Manière Noire</var>
-            <var class="atc_organizer_email">reach@manierenoireshop.com</var>
-          </var>
-        </span>
-      </div>
-      <div class="flex-1 medium-padding-left">
+        <h1
+          class="blue medium-margin-bottom">
+          {{ .Params.title }}
+        </h1>
         <h3 class="no-margin blue">
           {{ .Params.description }}
         </h3>
       </div>
+      <div class="flex-1 big-padding-left">
+        <h3 class="date-main">
+          {{ .Params.moment }}
+        </h3>
+        <h4 >
+          {{ .Params.time }}
+        </h4>
+        <div class="medium-margin-bottom flex-row place">
+          <div class="flex-1 place-logo">
+            <img src="/img/decade-logo.svg" />
+          </div>
+          <div class="medium-padding-left flex-4">
+            <h4>{{ .Params.placeName }}</h4>
+            {{ .Params.place }}
+          </div>
+      </div>
+      <p class="entry">
+        <i class="fa fa-ticket"></i>{{ .Params.entry }}
+      </p>
+      <a
+        class="button display-none"
+        href="https://www.facebook.com/events/2084755461767868/"
+        target="_blank"
+        data-translatable>See the Facebook event // Voir l'événement Facebook</a>
+      <span class="addtocalendar atc-style-blue">
+        <var class="atc_event">
+          <var class="atc_date_start">2019-05-18 11:00:00</var>
+          <var class="atc_date_end">2019-05-18 19:00:00</var>
+          <var class="atc_timezone">America/Toronto</var>
+          <var class="atc_title">Pin Patch Mtl Fair Spring 2019 edition</var>
+          <var class="atc_description">Montreal’s unique enamel pin and patch creators fair -> http://pinpatchmtl.com</var>
+          <var class="atc_location">Decade building, 6551 Durocher, Montreal, Qc, Canada</var>
+          <var class="atc_organizer">Manière Noire</var>
+          <var class="atc_organizer_email">reach@manierenoireshop.com</var>
+        </var>
+      </span>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap big-padding-bottom">
+    <div class="top-sponsors flex-row">
+      <div class="item flex-1">
+        <p data-translatable>{{ .Params.organizedBy }}</p>
+        <a href="https://manierenoireshop.com/" target="_blank"><img src="{{"./img/maniere-noire.png" | relURL}}"/></a>
+      </div>
+      <div class="item flex-1">
+        <p data-translatable>{{ .Params.sponsoredBy }}</p>
+        <a href="https://annexvintage.com/" target="_blank"><img src="{{"./img/annex.svg" | relURL}}"/></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="home-artists big-padding-bottom">
+  <div class="wrap">
+    <h2 class="blue text-center">{{ .Params.artistsTitle }}</h2>
+    <div class="flex-row">
+      {{ range .Site.Home.AllTranslations }}
+        {{ $artists := where .Pages "Type" "artists"  | shuffle }}
+        {{ range $index, $page := $artists }}
+          {{ if (and (in .Params.years "2019") (le $index 6)) }}
+            {{ partial "artist_card_page.html" . }}
+          {{ end}}
+        {{ end }}
+      {{end}}
+    </div>
+    <div class="text-center">
+      <a class="button" href="/artists/?year=2019">{{ .Params.artistsCta }}</a>
     </div>
   </div>
 </section>
 
 <div class="big-padding-bottom display-none">
   <div class="wrap flex-row">
-    <div class="flex-1">
-      <div class="top-sponsors flex-row">
-        <div class="item flex-1">
-          <p data-translatable>Organized by // Organisé par</p>
-          <a href="https://manierenoireshop.com/" target="_blank"><img src="./img/maniere-noire.png"/></a>
-        </div>
-        <div class="item flex-1">
-          <p data-translatable>Presented by // Présenté par</p>
-          <a href="https://annexvintage.com/" target="_blank"><img src="./img/annex.svg"/></a>
-        </div>
-      </div>
-    </div>
     <div class="flex-1 bar-top concours">
       <h2 class="blue bold" data-translatable>
         <span>Contest!</span><span>Concours!</span>

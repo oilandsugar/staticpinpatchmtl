@@ -879,14 +879,14 @@ a.button,
 span.button,
 input[type="submit"],
 .atc-style-blue .atcb-link {
-  background: #0000e2;
+  background: var(--lightgrey);
   border: 0;
   outline: 0;
   font-size: 1rem;
   cursor: pointer;
   padding: 0 10px;
   min-width: 100px;
-  color: #fff;
+  color: var(--grey);
   display: inline-block;
   border-radius: 4px;
   overflow: hidden;
@@ -911,9 +911,9 @@ input[type="submit"]:hover,
   padding: 0 10px;
   font-size: 1rem;
   min-width: 100px;
-  background: #4c7bff;
+  background: var(--lightgrey);
   font-family: "helvetica", sans-serif;
-  color: #fff;
+  color: var(--blue);
   text-decoration: none;
 }
 
@@ -1251,7 +1251,7 @@ small.note {
 
 .small-things {
   position: absolute;
-  top: 15px;
+  top: 0;
   left: 50%;
   margin-left: -850px;
   min-height: 400px;
@@ -1359,8 +1359,12 @@ small.note {
   margin-bottom: 8px;
 }
 
-.place-main {
-  color: #a7a7a7;
+.place-logo {
+  max-width:60px;
+}
+
+.place h4 {
+  margin:0;
 }
 
 .concours {
@@ -1371,6 +1375,10 @@ small.note {
 #main h2,
 #main h3 {
   color:var(--blue);
+}
+
+.entry i {
+  margin-right:8px;
 }
 
 /* ---------- EVENT PHOTOS ---------- */
@@ -1426,7 +1434,6 @@ small.note {
   line-height: 36px;
   margin-bottom:60px;
 }
-
 /* ------------ ------------- */
 
 .address {
@@ -1565,6 +1572,15 @@ small.note {
   transform: scale(1.5);
 }
 
+.home-artists .flex-row {
+  flex-wrap:wrap;
+}
+
+.home-artists .artist {
+  min-width: calc(33.33333% - 20px);
+max-width: calc(33.33333% - 20px);
+}
+
 /* ------------ SINGLE ARTISTS ------------- */
 
 .artist-images {
@@ -1573,7 +1589,7 @@ small.note {
 }
 
 .artist-images .img {
-  height:300px;
+  height:350px;
   width: calc(33.3333% - 20px);
   margin:10px;
   box-sizing: border-box;
@@ -1706,11 +1722,6 @@ small.note {
   font-weight: bold;
 }
 
-.place-logo {
-  max-width: 86px;
-display: block;
-margin-top: 16px;
-}
 
 /* ------------ INSTAGRAM ------------- */
 
@@ -2077,5 +2088,13 @@ margin-top: 16px;
   }
   .single-artist .buttons {
     text-align:left;
+  }
+  .home-artists .artist {
+    min-width: calc(100% - 20px);
+    max-width: calc(100% - 20px);
+  }
+  .top-info .big-padding-left {
+    padding-left:0;
+    padding-top:24px;
   }
 }

@@ -21,6 +21,8 @@ type = "page"
 whatText = "Il y a des épinglettes et des patches pour tous les goûts et intérêts. On ose même dire qu’il doit en exister au moins 20 d’entres elles qui sont faites pour vous. Une fois qu’on commence une collection, on ne peut plus s’arrêter! Elles sont parfaites sur une veste, le collet de votre chemise ou bien simplement dans un joli cadre."
 whatTitle = "C'est quoi?"
 mission = "Notre mission est de promouvoir les artistes et illustrateurs(trices) qui créent des épinglettes tout en rassemblant les amateurs de cette communauté vibrante et créative."
-
-
+sponsoredBy = "Commandité par"
+organizedBy = "Organisé par"
+artistsTitle = "Découvrez les artistes"
+artistsCta = "Découvrez tous les artistes de l'édition 2019"
 +++

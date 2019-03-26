@@ -194,15 +194,13 @@ jQuery(function($) {
       let url = window.location;
       let url_pieces = url.search.split("=");
       let year = url_pieces[url_pieces.length - 1];
-      console.log(year);
       let filter_value = ".pp-" + year;
       if (url.search.length > 1) {
         artists.isotope({ filter: filter_value });
         $(".filter-button").removeClass("active");
         $('a[data-filter="' + filter_value + '"]').addClass("active");
       } else {
-        // temporarily filter 2019
-        artists.isotope({ filter: ".pp-2017, .pp-2018" });
+        artists.isotope({ filter: "*" });
       }
 
       // filter artists on url change
