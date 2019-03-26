@@ -83,7 +83,7 @@
     <h2 class="blue text-center">{{ .Params.artistsTitle }}</h2>
     <div class="flex-row">
       {{ range .Site.Home.AllTranslations }}
-        {{ $artists := where .Pages "Type" "artists"  | shuffle }}
+        {{ $artists := where .Pages "Type" "artists" }}
         {{ range $index, $page := $artists }}
           {{ if (and (in .Params.years "2019") (le $index 6)) }}
             {{ partial "artist_card_page.html" . }}
