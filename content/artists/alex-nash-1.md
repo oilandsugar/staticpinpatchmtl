@@ -1,14 +1,14 @@
 +++
-description = "Alex is graphic designer by trade, inspired by folklore, plants, witchcraft, taxidermy, gaming, and otaku culture."
+description = "Astropuke is a space babe fueled by queer magic, a semi-permanent existential crisis, and the fine line between radical acceptance and self-deprecating humor."
 draft = true
-featured = "/img/alexnash1.jpg"
-hometown = "Gatineau"
-image2 = "/img/alexnash2.jpg"
-image3 = "/img/alexnash3.jpg"
-instagram = "https://www.instagram.com/nash.illustration"
+featured = "/img/astropuke1.jpg"
+hometown = "Montréal"
+image2 = "/img/astropuke2.jpg"
+image3 = "/img/astropuke3.jpg"
+instagram = "https://www.instagram.com/astropuke"
 logo = ""
-shopurl = ""
-title = "Alex Nash"
+shopurl = "https://www.etsy.com/shop/astropuke"
+title = "Astropuke"
 years = ["2019"]
 
 +++
