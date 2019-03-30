@@ -25,4 +25,5 @@ sponsoredBy = "Commandité par"
 organizedBy = "Organisé par"
 artistsTitle = "Découvrez les artistes"
 artistsCta = "Découvrez tous les artistes de l'édition 2019"
+facebookEvent = "Voir l'événement facebook"
 +++

@@ -25,4 +25,5 @@ sponsoredBy = "Sponsored by"
 organizedBy = "Organized by"
 artistsTitle = "Meet the artists"
 artistsCta = "See all artists of the 2019 edition"
+facebookEvent = "See the facebook event"
 +++

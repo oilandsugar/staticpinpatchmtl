@@ -879,7 +879,7 @@ a.button,
 span.button,
 input[type="submit"],
 .atc-style-blue .atcb-link {
-  background: var(--lightgrey);
+  background: var(--lightgrey)!important;
   border: 0;
   outline: 0;
   font-size: 1rem;
@@ -1427,6 +1427,10 @@ small.note {
   color:var(--grey);
 }
 
+.buttons a {
+  margin-right:16px;
+}
+
 /* ------------ MISSION ------------- */
 
 .mission {
@@ -1669,10 +1673,6 @@ max-width: calc(33.33333% - 20px);
 .card {
   border-radius: 4px;
   overflow: hidden;
-}
-
-.buttons {
-  text-align: center;
 }
 
 .info-tagline {
