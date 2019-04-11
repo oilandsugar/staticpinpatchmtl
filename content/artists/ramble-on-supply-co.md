@@ -1,15 +1,13 @@
 +++
-
-title = "Ramble On Supply Co"
-type = "artists"
-shopurl = "http://rambleonsupplyco.etsy.com"
-instagram = "https://www.instagram.com/rambleonsupply"
+description = "Ramble On Supply Co is inspired by the Canadian wilderness and nights with friends by the fire."
 featured = "/img/rambleon1.jpg"
+hometown = "Flesherton"
 image2 = "/img/rambleon2.jpg"
 image3 = "/img/rambleon3.jpg"
+instagram = "https://www.instagram.com/rambleonsupply"
 logo = ""
-hometown = "Flesherton"
+shopurl = "http://rambleonsupplyco.etsy.com"
+title = "Ramble On Supply Co"
 years = ["2019"]
-description = "Hi there! I’m the owner/designer of Ramble On Supply Co, which is inspired by the Canadian wilderness and nights with friends by the fire. I would love to be able to participate as a vendor at the Montreal pin and patch show. I have lots of previous vending experience, including at the Toronto pin and patch show. Thank you for your consideration!"
 
 +++
