@@ -44,7 +44,7 @@ If you’d like to receive a personalized lunch cooked in the morning by a chef 
 **19h45 :** Les tables sont ramassées  
 **20h :** Closing of the space
 
-{{% schedule %}}
+{{% /schedule %}}
 
 The first two hours have the most traffic (due to the line outside), so be sure to arrive on time to be ready!
 
