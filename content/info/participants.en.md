@@ -16,8 +16,8 @@ title = "Informations for participants"
 
 ## Contest and gift bags
 
-**The items for the gift bags should ideally be mailed to us before the event.** If it’s a problem for you, just contact us! We need up to 25 items (or more), but a few will be okay.  
-Ex: stickers, postcards, small prints, pins, patches, coupons, etc. Note that **the maximum size is 7” x 4.75”**.
+**The items for the gift bags should ideally be mailed to us before the event.** If it’s a problem for you, just contact us to let us know! We need up to 25 items (or more), but a few will be okay.  
+Ex: stickers, postcards, small prints, pins, patches, coupons, etc. Note that **the maximum size for the items is 7” x 4.75”**.
 
 We are also organizing **a contest** for which we would need a pin and/or a patch from you. It’s voluntary but all contributions are really appreciated! Please send them at the same time as the gift items, but identify them clearly.
 
