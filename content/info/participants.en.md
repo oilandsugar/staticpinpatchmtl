@@ -19,9 +19,9 @@ title = "Informations for participants"
 **The items for the gift bags should ideally be mailed to us before the event.** If it’s a problem for you, just contact us! We need up to 25 items (or more), but a few will be okay.  
 Ex: stickers, postcards, small prints, pins, patches, coupons, etc. Note that **the maximum size is 7” x 4.75”**.
 
-We are also organizing **a contest** for which we would need a pin and/or a patch from you. It’s voluntary but all contributions are appreciated! Please send them at the same time as the gift items, but identify them clearly.
+We are also organizing **a contest** for which we would need a pin and/or a patch from you. It’s voluntary but all contributions are really appreciated! Please send them at the same time as the gift items, but identify them clearly.
 
-**Addresse :**  
+**Address :**  
 Geneviève L Reid  
 107, 3e avenue, Verdun  
 Qc, Canada  
@@ -29,12 +29,12 @@ H4G 2X1
 
 ## Lunch [FoodRelay](https://foodrelay.ca/)
 
-Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par un chef et livré à votre table au prix de 15$ par personne, n'oubliez pas les acheter sur notre site \[lien à venir\]. Vous aurez plusieurs options (adaptés à toutes les diètes, allergies et restrictions alimentaires). Puisqu'il n'y a pas de restaurant à proximité, c'est une bonne option!
+If you’d like to receive a personalized lunch cooked in the morning by a chef and delivered to your table for 15$ per person, please contact us! You will be offered many options (adapted to all sorts of diets, allergies, and restrictions). Since there aren’t many restaurants near the venue, it’s a good idea!
 
-## Horaire
+## Schedule
 
-**10h :** Arrivées des vendeurs et installation  
-**11h :** Début de l'évènement  
+**10h :** Arrival of vendors and installation  
+**11h :** Start of the event  
 **13h :** Arrivée des lunchs FoodRelay  
 **19h :** Fin de l'événement et démontage  
 **19h45 :** Les tables sont ramassées  
