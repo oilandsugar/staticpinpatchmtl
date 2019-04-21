@@ -19,7 +19,7 @@ title = "Informations aux participants"
 **Les items pour les sacs cadeaux doivent idéalement nous être envoyés par la poste avant l'évènement**. Si cela vous cause un problème, avertissez-nous. Il faudra nous fournir jusqu'à 25 items ou plus mais quelques un peuvent suffire.  
 Ex : autocollants, cartes postales, petits imprimés, pins, patches, coupons rabais, etc. Gardez en tête que **la taille maximale est de 7” x 4.75”**.
 
-Nous organisons également un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Envoyez les en même temps, mais identifiez les bien. Toute contribution est grandement appréciée!
+Nous organisons également un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Envoyez les en même temps, mais identifiez les bien. Ceci est sure une base volontaire mais toute contribution est grandement appréciée!
 
 **Addresse :**  
 Geneviève L Reid  
