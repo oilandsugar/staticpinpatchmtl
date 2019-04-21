@@ -31,6 +31,8 @@ H4G 2X1
 
 Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par un chef et livré à votre table au prix de 15$ par personne, contactez-nous. Vous aurez plusieurs options (adaptés à toutes sorte de diètes, allergies et restrictions alimentaires). Puisqu'il n'y a pas vraiment de restaurant à proximité, c'est une bonne option!
 
+![](/img/foodrelay_modifie.png)
+
 ## Horaire
 
 {{% schedule %}}
