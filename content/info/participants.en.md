@@ -5,21 +5,21 @@ title = "Informations for participants"
 +++
 ## Your Table
 
-* **Pins and patches need to be in the spotlight.** If you'd like some inspiration on how to put them well, you can check out the previous editions [here](https://www.facebook.com/pg/pinpatchmtl/photos/?tab=album&album_id=1859504404379076) and [here](https://drive.google.com/open?id=152D07kkYE9Yt6koKcjMH7sDB1pCxVtCC) or look at [this inspiration folder](https://drive.google.com/open?id=1vNId0-vskRkUlqIJTUpTBmDPAEjKr6-d). 
-* **You can bring something other than pins and patches!** We want an emphasis on  manufactured (made in series) versus crafted (unique hand made items), but all products are welcomed.
-* **Bring a tablecloth.** We provide tables but they aren't very pretty, so take that in consideration! 
-* For anyone that has a **wall space**, you cannot use nails or any method that could do damage to the wall. If you'd like some ideas on how you can display t shirts and other items that aren't print, you can check this [document](https://docs.google.com/document/d/1z1DlSCkk_Lb1aIFMlPsiGk5cKjUSxNqcExMiOZ4pRW0/edit?usp=sharing).
+* **Pins and patches need to be in the spotlight.** If you'd like some inspiration on how to put them well, you can check out the previous editions [here](https://www.facebook.com/pg/pinpatchmtl/photos/?tab=album&album_id=1859504404379076) and [here](https://drive.google.com/open?id=152D07kkYE9Yt6koKcjMH7sDB1pCxVtCC) or look at [this inspiration folder](https://drive.google.com/open?id=1vNId0-vskRkUlqIJTUpTBmDPAEjKr6-d).
+* **You can bring something other than pins and patches!** We want an emphasis on  manufactured/made in series versus crafted (unique hand made items), but all products are welcomed.
+* **Bring a tablecloth.** We provide tables but they aren't very pretty, so take that in consideration!
+* For anyone that has a **wall space**, you can use push pins, tape or small nails. We will have some to share with you.
 
 ## Publicity
 
-**Let's make some  Il faut faire de la publicité pour l'événement!** Invitez tous vos amis à l’évènement sur Facebook, partagez-le sur votre page et votre instagram, faites une annonce sur votre site, etc. C’est une partie très importante à ne pas négliger. Nous avons fait un petit [dossier de presse](https://drive.google.com/open?id=115zCAZv-7cWTbR7-A2UWM4twfR22vWHK) avec des images que vous pouvez utiliser, mais vous pouvez également concocter la vôtre (utilisez quand même le logo officiel).
+**Let’s advertise your presence at the even! Il faut faire de la publicité pour l'événement!** Invite all your friends to the [Facebook event](https://www.facebook.com/events/596660647518312/), share it on your page and your instagram, make an announcement on your website, etc. This part is really important! We also have a small [press kit](https://drive.google.com/open?id=115zCAZv-7cWTbR7-A2UWM4twfR22vWHK) with images you can use, but you can make you own (as long as you use the official logo).
 
 ## Contest and gift bags
 
-**Les items pour les 25 sacs cadeaux doivent idéalement nous être envoyés par la poste le plus rapidement possible**. Si cela vous cause un problème, dîtes le nous.  
-Ex : autocollants, cartes postales, petits imprimés, pins, patches, coupons rabais, etc. Si vous voulez nous fournir des petits prints ou autre, gardez en tête que la taille maximale est de 7” x 4.75”.
+**The items for the gift bags should ideally be mailed to us before the event.** If it’s a problem for you, just contact us! We need up to 25 items (or more), but a few will be okay.  
+Ex: stickers, postcards, small prints, pins, patches, coupons, etc. Note that **the maximum size is 7” x 4.75”**.
 
-Nous organisons un **concours** pour lequel nous aurions besoin d'une pin et/ou d'une patch. Toute contribution est grandement appréciée!
+We are also organizing **a contest** for which we would need a pin and/or a patch from you. It’s voluntary but all contributions are appreciated!
 
 **Addresse :**  
 Geneviève L Reid  
