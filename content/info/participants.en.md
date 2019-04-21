@@ -37,12 +37,12 @@ If you’d like to receive a personalized lunch cooked in the morning by a chef 
 
 ## Schedule
 
-**10h :** Arrival of vendors and installation  
-**11h :** Start of the event  
-**13h :** Arrival of FoodRelay lunches  
-**19h :** End of event and disassembly  
-**19h45 :** Les tables sont ramassées  
-**20h :** Closing of the space
+* **10h :** Arrival of vendors and installation
+* **11h :** Start of the event
+* **13h :** Arrival of FoodRelay lunches
+* **19h :** End of event and disassembly
+* **19h45 :** Les tables sont ramassées
+* **20h :** Closing of the space
 
 {{% /schedule %}}
 
