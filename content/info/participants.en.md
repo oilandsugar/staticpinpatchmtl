@@ -31,6 +31,8 @@ H4G 2X1
 
 If you’d like to receive a personalized lunch cooked in the morning by a chef and delivered to your table for 15$ per person, please contact us! You will be offered many options (adapted to all sorts of diets, allergies, and restrictions). Since there aren’t many restaurants near the venue, it’s a good idea!
 
+![](/img/foodrelay_modifie.png)
+
 ## Schedule
 
 **10h :** Arrival of vendors and installation  
