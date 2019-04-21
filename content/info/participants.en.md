@@ -35,14 +35,14 @@ If you’d like to receive a personalized lunch cooked in the morning by a chef 
 
 **10h :** Arrival of vendors and installation  
 **11h :** Start of the event  
-**13h :** Arrivée des lunchs FoodRelay  
-**19h :** Fin de l'événement et démontage  
+**13h :** Arrival of FoodRelay lunches  
+**19h :** End of event and disassembly  
 **19h45 :** Les tables sont ramassées  
-**20h :** Fermeture de l'espace
+**20h :** Closing of the space
 
-Les deux premières heures sont les plus achalandées (du à la file d'attente qui se crée à l'entrée), donc arrivez à temps pour être prêt à la première vague!
+The first two hours have the most traffic (due to the line outside), so be sure to arrive on time to be ready!
 
 ## Plan
 
-Voici le plan de l'espace ainsi que votre place assignée.  
-\[À venir\]
+Here is the plan and your place.  
+\[To Come\]
