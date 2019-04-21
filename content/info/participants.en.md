@@ -10,8 +10,6 @@ title = "Informations for participants"
 * **Bring a tablecloth.** We provide tables but they aren't very pretty, so take that in consideration!
 * For anyone that has a **wall space**, you can use push pins, tape or small nails. We will have some to share with you.
 
-   
-
 ## Publicity
 
 **Let’s advertise your presence at the even! Il faut faire de la publicité pour l'événement!** Invite all your friends to the [Facebook event](https://www.facebook.com/events/596660647518312/), share it on your page and your instagram, make an announcement on your website, etc. This part is really important! We also have a small [press kit](https://drive.google.com/open?id=115zCAZv-7cWTbR7-A2UWM4twfR22vWHK) with images you can use, but you can make you own (as long as you use the official logo).
@@ -35,6 +33,8 @@ If you’d like to receive a personalized lunch cooked in the morning by a chef 
 
 ![](/img/foodrelay_modifie.png)
 
+{{% schedule %}}
+
 ## Schedule
 
 **10h :** Arrival of vendors and installation  
@@ -43,6 +43,8 @@ If you’d like to receive a personalized lunch cooked in the morning by a chef 
 **19h :** End of event and disassembly  
 **19h45 :** Les tables sont ramassées  
 **20h :** Closing of the space
+
+{{% schedule %}}
 
 The first two hours have the most traffic (due to the line outside), so be sure to arrive on time to be ready!
 
