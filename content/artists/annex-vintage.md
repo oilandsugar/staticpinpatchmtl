@@ -1,5 +1,5 @@
 +++
-description = "Annex Vintage is our sponsor. It is a vintage clothing and independent design shop in Montreal’s Mile End district. They are home to the largest collection of artist pins and patches in the city, in addition to an always changing selection of 90's vintage, artist t-shirts, socks, stationery, jewellery and local apothecary products."
+description = "Annex Vintage is our sponsor. It is a vintage clothing and independent design shop in Montreal’s Mile End district. They are home to the largest collection of artist pins and patches in the city, in addition to an always changing selection of 90's vintage, artist t-shirts, socks, stationery, jewelry, and local apothecary products."
 featured = "/img/main_annex.jpg"
 hometown = "Montreal"
 image2 = "/img/annex2.jpg"
