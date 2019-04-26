@@ -1,5 +1,5 @@
 +++
-description = "For the damned who give a damn 🖤🥀🔪Witchy, feminist, vegan angry patches, pins & apparel."
+description = "This Bloody Sabbath is a one lady racket based in the dark woods of Chertsey. Occult intersectional feminist & bookworm apparel & talismans for the damned who give a damn."
 featured = "/img/tbs1.jpg"
 hometown = "Chertsey, QC"
 image2 = "/img/tbs4.jpg"
