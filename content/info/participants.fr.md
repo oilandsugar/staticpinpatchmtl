@@ -51,4 +51,4 @@ Les deux premières heures sont les plus achalandées (du à la file d'attente q
 ## Plan
 
 Voici le plan de l'espace ainsi que votre place assignée.  
-\[À venir\]
+![](/img/plan_artists_newversion.jpg)
