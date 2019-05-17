@@ -33,6 +33,8 @@ If you’d like to receive a personalized lunch cooked in the morning by a chef 
 
 ![](/img/foodrelay_modifie.png)
 
+I**MPORTANT NOTE:** If you bought a lunch, you have until **FRIDAY 10 AM** to select it.
+
 {{% schedule %}}
 
 ## Schedule
@@ -51,4 +53,6 @@ The first two hours have the most traffic (due to the line outside), so be sure 
 ## Plan
 
 Here is the plan and your place.  
-\[To Come\]
+PS: The vendors with the half tables cannot use the wall behind them.
+
+![](/img/plan_artists_newversion.jpg)
