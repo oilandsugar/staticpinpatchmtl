@@ -45,7 +45,7 @@ I**MPORTANT NOTE:** If you bought a lunch, you have until **FRIDAY 10 AM** to se
 * **11h :** Start of the event
 * **13h :** Arrival of FoodRelay lunches
 * **19h :** End of event and disassembly
-* **19h45 :** Les tables sont ramassées
+* **19h45 :** Tables are picked up
 * **20h :** Closing of the space
 
 {{% /schedule %}}
