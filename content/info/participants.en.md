@@ -50,6 +50,10 @@ I**MPORTANT NOTE:** If you bought a lunch, you have until **FRIDAY 10 AM** to se
 
 The first two hours have the most traffic (due to the line outside), so be sure to arrive on time to be ready!
 
+## Contact
+
+In case you need help or have a question on the day of the event, you can reach the organizer Geneviève here : **514-206-1959**. Please only call if it's an emergency, we prefer text messages!
+
 ## Plan
 
 Here is the plan and your place.  
