@@ -33,6 +33,8 @@ Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par 
 
 ![](/img/foodrelay_modifie.png)
 
+**IMPORTANT** : Si vous avez sélectionné un lunch, vous avez jusqu'à **vendredi 10 AM** pour le choisir.
+
 ## Horaire
 
 {{% schedule %}}
@@ -50,5 +52,6 @@ Les deux premières heures sont les plus achalandées (du à la file d'attente q
 
 ## Plan
 
-Voici le plan de l'espace ainsi que votre place assignée.  
+Voici le plan de l'espace ainsi que votre place assignée.   
+PS : Les gens installés aux demi-tables ne pourront pas utiliser les murs.  
 ![](/img/plan_artists_newversion.jpg)
