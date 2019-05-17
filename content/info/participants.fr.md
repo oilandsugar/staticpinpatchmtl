@@ -27,6 +27,8 @@ Geneviève L Reid
 Qc, Canada  
 H4G 2X1
 
+**La journée de l'évènement :** Une personne fera le tour pour ramasser les items du concours et une autre pour les sacs cadeaux. Vos items doivent être prêts peu après votre arrivée, alors ne les serrez pas trop loin dans vos bagages!
+
 ## Lunch [FoodRelay](https://foodrelay.ca/)
 
 Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par un chef et livré à votre table au prix de 15$ par personne, contactez-nous. Vous aurez plusieurs options (adaptés à toutes sorte de diètes, allergies et restrictions alimentaires). Puisqu'il n'y a pas vraiment de restaurant à proximité, c'est une bonne option!
