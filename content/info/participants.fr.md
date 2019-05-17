@@ -50,8 +50,12 @@ Si vous souhaitez recevoir un dîner personnalisé, cuisiné le matin même par 
 
 Les deux premières heures sont les plus achalandées (du à la file d'attente qui se crée à l'entrée), donc arrivez à temps pour être prêt à la première vague!
 
+## Contact
+
+Au besoin, vous pouvez contacter Geneviève à se numéro le jour de l'évènement : **514-206-1959**. Appelez seulement en cas d'urgence, on préfère les textos! 
+
 ## Plan
 
-Voici le plan de l'espace ainsi que votre place assignée.   
+Voici le plan de l'espace ainsi que votre place assignée.  
 PS : Les gens installés aux demi-tables ne pourront pas utiliser les murs.  
 ![](/img/plan_artists_newversion.jpg)
