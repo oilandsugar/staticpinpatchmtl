@@ -1,21 +1,17 @@
-{{ partial "header" . }}
-{{ partial "navbar" . }}
-{{ partial "mobilemenu" . }}
+{{ partial "header" . }} {{ partial "navbar" . }} {{ partial "mobilemenu" . }}
 
-    <!-- Shop page content -->
+<!-- Shop page content -->
 
-    <section class="content shop medium-grey-back big-padding-top">
-      <div class="big-wrap big-padding-top big-padding-bottom">
-        <div class="">
-          <h1 class="white medium-padding-bottom">
-            {{ .Params.title }}
-          </h1>
-        </div>
-      </div>
-    </section>
+<section class="content shop big-padding-top">
+  <div class="big-wrap big-padding-top big-padding-bottom">
+    <div class="">
+      <h1 class="medium-padding-bottom">{{ .Params.title }}</h1>
+    </div>
+  </div>
+</section>
 
-    {{ partial "products" . }}
+{{ partial "products" . }}
 
-    <!-- end Shop page content -->
+<!-- end Shop page content -->
 
 {{ partial "footer" . }}

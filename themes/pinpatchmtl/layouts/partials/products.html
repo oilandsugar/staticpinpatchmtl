@@ -1,4 +1,224 @@
-<section class="content big-padding-bottom">
-  {{ partial "keypinpreorder" . }}
-  {{ partial "pinpreorder" . }}
+<section class="content">
+  <div class="big-wrap big-padding-top big-padding-bottom">
+    <div id='collection-component-6fd043d78f2'></div>
+      <script type="text/javascript">
+      /*<![CDATA[*/
+
+      (function () {
+        var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+        if (window.ShopifyBuy) {
+          if (window.ShopifyBuy.UI) {
+            ShopifyBuyInit();
+          } else {
+            loadScript();
+          }
+        } else {
+          loadScript();
+        }
+
+        function loadScript() {
+          var script = document.createElement('script');
+          script.async = true;
+          script.src = scriptURL;
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+          script.onload = ShopifyBuyInit;
+        }
+
+        function ShopifyBuyInit() {
+          var client = ShopifyBuy.buildClient({
+            domain: 'maniere-noire.myshopify.com',
+            storefrontAccessToken: '4e56c0eb920f650d85b2909fb9c1ab78',
+          });
+
+          ShopifyBuy.UI.onReady(client).then(function (ui) {
+            ui.createComponent('collection', {
+              id: 90709885013,
+              node: document.getElementById('collection-component-6fd043d78f2'),
+              moneyFormat: '%24%7B%7Bamount%7D%7D%20CAD',
+              options: {
+    "product": {
+      "variantId": "all",
+      "contents": {
+        "imgWithCarousel": false,
+        "variantTitle": false,
+        "description": false,
+        "buttonWithQuantity": true,
+        "button": false,
+        "quantity": false
+      },
+      "styles": {
+        "product": {
+          "text-align": "left",
+          "@media (min-width: 601px)": {
+            "max-width": "calc(33.33333% - 30px)",
+            "margin-left": "30px",
+            "margin-bottom": "50px",
+            "width": "calc(33.33333% - 30px)"
+          }
+        },
+        "button": {
+          "background-color": "#0000e2",
+          ":hover": {
+            "background-color": "#0000ff"
+          },
+          "border-radius": "4px",
+          ":focus": {
+            "background-color": "#0000ff"
+          },
+          "font-weight": "bold"
+        },
+        "title": {
+          "font-size": "20px",
+          "color": "#666984"
+        },
+        "price": {
+          "font-size": "16px",
+          "color": "#666984"
+        },
+        "compareAt": {
+          "color": "#666984",
+          "font-size": "13.6px"
+        }
+      }
+    },
+    "cart": {
+      "contents": {
+        "button": true
+      },
+      "styles": {
+        "button": {
+          "background-color": "#0000e2",
+          ":hover": {
+            "background-color": "#0000ff"
+          },
+          "border-radius": "4px",
+          ":focus": {
+            "background-color": "#0000ff"
+          },
+          "font-weight": "bold"
+        },
+        "title": {
+          "color": "#666984"
+        },
+        "footer": {
+          "background-color": "#ffffff"
+        },
+        "header": {
+          "color": "#666984"
+        },
+        "lineItems": {
+          "color": "#666984"
+        },
+        "subtotalText": {
+          "color": "#666984"
+        },
+        "subtotal": {
+          "color": "#666984"
+        },
+        "notice": {
+          "color": "#666984"
+        },
+        "currency": {
+          "color": "#666984"
+        },
+        "close": {
+          ":hover": {
+            "color": "#666984"
+          },
+          "color": "#666984"
+        },
+        "emptyCart": {
+          "color": "#666984"
+        }
+      }
+    },
+    "modalProduct": {
+      "contents": {
+        "img": false,
+        "imgWithCarousel": true,
+        "variantTitle": false,
+        "buttonWithQuantity": true,
+        "button": false,
+        "quantity": false
+      },
+      "styles": {
+        "product": {
+          "@media (min-width: 601px)": {
+            "max-width": "100%",
+            "margin-left": "0px",
+            "margin-bottom": "0px"
+          }
+        },
+        "button": {
+          "background-color": "#0000e2",
+          ":hover": {
+            "background-color": "#0000ff"
+          },
+          "border-radius": "4px",
+          ":focus": {
+            "background-color": "#0000ff"
+          },
+          "font-weight": "bold"
+        }
+      }
+    },
+    "toggle": {
+      "styles": {
+        "toggle": {
+          "background-color": "#0000e2",
+          ":hover": {
+            "background-color": "#0000ff"
+          },
+          ":focus": {
+            "background-color": "#0000ff"
+          },
+          "font-weight": "bold"
+        }
+      }
+    },
+    "productSet": {
+      "styles": {
+        "products": {
+          "@media (min-width: 601px)": {
+            "margin-left": "-30px"
+          }
+        }
+      }
+    },
+    "lineItem": {
+      "styles": {
+        "variantTitle": {
+          "color": "#666984"
+        },
+        "title": {
+          "color": "#666984"
+        },
+        "price": {
+          "color": "#666984"
+        },
+        "quantity": {
+          "color": "#666984"
+        },
+        "quantityIncrement": {
+          "color": "#666984",
+          "border-color": "#666984"
+        },
+        "quantityDecrement": {
+          "color": "#666984",
+          "border-color": "#666984"
+        },
+        "quantityInput": {
+          "color": "#666984",
+          "border-color": "#666984"
+        }
+      }
+    }
+  }
+            });
+          });
+        }
+      })();
+      /*]]>*/
+      </script>
+  </div>
 </section>
