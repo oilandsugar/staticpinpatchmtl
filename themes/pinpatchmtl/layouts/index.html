@@ -23,6 +23,7 @@
           {{ .Params.description }}
         </h3>
       </div>
+      {{ if .Site.Params.eventMode }}
       <div class="flex-1 big-padding-left">
         <h3 class="date-main">
           {{ .Params.moment }}
@@ -60,6 +61,8 @@
             <var class="atc_organizer_email">reach@manierenoireshop.com</var>
           </var>
         </span>
+        </div>
+        {{ end }}
       </div>
 
     </div>

@@ -74,5 +74,6 @@ image = "/uploads/cover-image-1.jpg"
 instagram = "https://www.instagram.com/pinpatchmtl/"
 showbuypincta = true
 showinscriptionscta = false
+eventMode = false
 [permalinks]
 post = "/:section/:title/"
