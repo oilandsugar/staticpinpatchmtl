@@ -1,15 +1,13 @@
 +++
-
-title = "koyamori"
-type = "artists"
-shopurl = "http://koyamori.ca"
-instagram = "https://www.instagram.com/maruti_bitamin"
+description = "Watercolour artist in Toronto who delves into making pins and apparel."
 featured = "/img/koyamori1.jpg"
+hometown = "Thornhill"
 image2 = "/img/koyamori2.jpg"
 image3 = "/img/koyamori3.jpg"
+instagram = "https://www.instagram.com/maruti_bitamin"
 logo = ""
-hometown = "Thornhill"
+shopurl = "http://koyamori.ca"
+title = "Koyamori"
 years = ["2019"]
-description = "Watercolour artist in Toronto who delves into making pins and apparel! "
 
 +++
