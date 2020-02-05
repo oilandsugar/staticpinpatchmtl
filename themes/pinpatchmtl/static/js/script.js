@@ -19,7 +19,7 @@ jQuery(function($) {
         get: "user",
         target: "instafeed",
         userId: "5794830080",
-        limit: "9",
+        limit: "8",
         accessToken: "5794830080.1677ed0.e4f7b9eefb4e405b9c19d7ffaa322f60",
         resolution: "standard_resolution",
         template:
