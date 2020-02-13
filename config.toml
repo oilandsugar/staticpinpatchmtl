@@ -73,7 +73,7 @@ facebook = "https://www.facebook.com/pinpatchmtl/"
 image = "/uploads/cover-image-1.jpg"
 instagram = "https://www.instagram.com/pinpatchmtl/"
 showbuypincta = false
-showinscriptionscta = true
+showinscriptionscta = false
 eventMode = true
 [permalinks]
 post = "/:section/:title/"
