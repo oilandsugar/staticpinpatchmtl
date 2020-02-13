@@ -15,8 +15,6 @@ The final selection of artists will be made based on the quality, diversity, and
 1\. You can offer more than pins and patches. But they must be highlighted on your table.  
 2\. Handmade pins and patches are authorized, but the priority will be for manufactured items.  
 3\. You can apply even if your pins and patches are not yet produced, but you need to ensure they will be there in time for the event.  
-4\. Tables cannot be shared. Only one selected artist per table. 
+4\. Tables cannot be shared. Only one selected artist per table.
 
-<div class="photo tilt-right" style="position:relative;top:40px;">
-<img src="/img/decade.png"/>
-</div>
+<div class="hidden photo tilt-right" style="position:relative;top:40px;"> <img src="/img/decade.png"/> </div>
