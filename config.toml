@@ -72,8 +72,8 @@ weight = 5
 facebook = "https://www.facebook.com/pinpatchmtl/"
 image = "/uploads/cover-image-1.jpg"
 instagram = "https://www.instagram.com/pinpatchmtl/"
-showbuypincta = true
-showinscriptionscta = false
-eventMode = false
+showbuypincta = false
+showinscriptionscta = true
+eventMode = true
 [permalinks]
 post = "/:section/:title/"

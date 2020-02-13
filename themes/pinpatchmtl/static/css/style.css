@@ -156,6 +156,10 @@ section {
 .aligncenter {
 }
 
+.hidden {
+  display:none!important;
+}
+
 @font-face {
     font-family: 'Aktiv Grotesk XBold';
     src: url('AktivGroteskTrial-XBold.woff2') format('woff2'),
