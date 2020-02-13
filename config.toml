@@ -25,9 +25,13 @@ name = "Pin Patch Mtl"
 url = "/"
 weight = 1
 [[languages.en.menu.main]]
+name = "Apply"
+url = "/apply/artists/"
+weight = 2
+[[languages.en.menu.main]]
 name = "Shop"
 url = "/shop"
-weight = 2
+weight = 3
 [[languages.en.menu.main]]
 name = "Artists"
 url = "/artists"
@@ -57,9 +61,13 @@ name = "Pin Patch Mtl"
 url = "/fr/"
 weight = 1
 [[languages.fr.menu.main]]
+name = "Appliquer"
+url = "/fr/apply/artists/"
+weight = 2
+[[languages.fr.menu.main]]
 name = "Boutique"
 url = "/fr/shop"
-weight = 2
+weight = 3
 [[languages.fr.menu.main]]
 name = "Artistes"
 url = "/fr/artists"
