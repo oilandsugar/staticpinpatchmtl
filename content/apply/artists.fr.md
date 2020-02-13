@@ -17,6 +17,4 @@ La sélection finale sera faite en fonction de la qualité, la diversité et la 
 3\. Vous pouvez appliquer même si vos épinglettes et patches ne sont pas encore produites, mais vous devez vous assurer de les obtenir à temps.  
 4\. Les tables ne peuvent pas être partagées. Un seul artiste par table.
 
-<div class="photo tilt-right" style="position:relative;top:40px;">
-<img src="/img/decade.png"/>
-</div>
+<div class="hidden photo tilt-right" style="position:relative;top:40px;"> <img src="/img/decade.png"/> </div>
