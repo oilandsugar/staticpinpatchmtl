@@ -1,11 +1,9 @@
 +++
-
-airtableForm = "https://airtable.com/embed/shrJfDKAbQ63x7Ncm"
-subtitle = "May 18, 2019 at the Decade Building, 6551 Durocher, Montreal"
-title = "Apply as an artist to the Spring 2019 edition"
+airtableForm = ""
+subtitle = "May 9th, 2020 at the Ausgang Plaza, 6524 Rue Saint-Hubert, Montreal"
+title = "Apply as an artist to the Spring 2020 edition"
 
 +++
-
 You need to have at least a 2 pins and/or patches to sell that you designed yourself in order to be selected, resellers are not accepted.
 
 Applications are free, the price of the tables will range between 55$ and 80$ depending on their size and features.
