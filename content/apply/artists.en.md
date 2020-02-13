@@ -17,4 +17,4 @@ The final selection of artists will be made based on the quality, diversity, and
 3\. You can apply even if your pins and patches are not yet produced, but you need to ensure they will be there in time for the event.  
 4\. Tables cannot be shared. Only one selected artist per table.
 
-<div class="photo tilt-right" style="position:relative;top:40px;"> <img src="/img/logo_BLK.jpg"/> </div>
+<div class="photo tilt-right" style="position:relative;top:40px;"> <img src="/img/Salle_Ausgang-3.jpg"/> </div>
