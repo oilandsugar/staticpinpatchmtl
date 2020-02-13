@@ -84,6 +84,7 @@
   </div>
 </section>
 
+{{ if .Site.Params.showArtists }}
 <section class="home-artists big-padding-bottom">
   <div class="wrap">
     <h2 class="blue text-center">{{ .Params.artistsTitle }}</h2>
@@ -102,6 +103,7 @@
     </div>
   </div>
 </section>
+{{ end }}
 
 <div class="big-padding-bottom display-none">
   <div class="wrap flex-row">

@@ -75,5 +75,6 @@ instagram = "https://www.instagram.com/pinpatchmtl/"
 showbuypincta = false
 showinscriptionscta = false
 eventMode = true
+showArtists = false
 [permalinks]
 post = "/:section/:title/"
