@@ -3,7 +3,7 @@
 {{ partial "mobilemenu" . }}
 
 <!-- Artist page content -->
-<div class="single-artist">
+<div class="single-artist" itemscope itemtype ="http://schema.org/Organization">
 
 <section class="content big-padding-top">
   <div class="big-wrap big-padding-top big-padding-bottom">
@@ -23,10 +23,10 @@
   <div class='wrap big-padding-bottom'>
     <div class="row">
       <div class="flex-2">
-        <h1 class="blue medium-padding-bottom">
+        <h1 class="blue medium-padding-bottom" itemprop="name">
           {{ .Title}}
         </h1>
-        <p class="from"><i class="fa fa-map-pin"></i>{{ .Params.hometown}}</p>
+        <p class="from" itemprop="address"><i class="fa fa-map-pin"></i>{{ .Params.hometown}}</p>
         {{ if gt (len .Params.years) 0 }}
           <p class="years">
             Participated at Pin Patch Mtl
@@ -37,14 +37,14 @@
             {{ end }}
           </p>
         {{ end }}
-        <p class="description">
+        <p class="description" itemprop="description">
           {{.Params.description}}
         </p>
         {{ .Content }}
       </div>
       <div class="flex-1 big-padding-left buttons">
-        <a class="button button-grey" href="{{ .Params.shopurl }}" target="_blank"><i class="fa fa-shopping-cart"></i>View shop</a>
-        <a class="button button-grey" href="{{ .Params.instagram }}" target="_blank"><i class="fa fa-instagram"></i>View instagram</a>
+        <a class="button button-grey" href="{{ .Params.shopurl }}" target="_blank" itemprop="sameAs"><i class="fa fa-shopping-cart"></i>View shop</a>
+        <a class="button button-grey" href="{{ .Params.instagram }}" target="_blank" itemprop="sameAs"><i class="fa fa-instagram"></i>View instagram</a>
       </div>
     </div>
   </div>
@@ -53,6 +53,5 @@
 </div>
 
 <!-- end Artist page content -->
-
 
 {{ partial "footer" . }}
