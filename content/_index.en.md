@@ -1,7 +1,7 @@
 +++
-ApplyCta = "Apply Now"
-ApplyLink = "/apply/artists/"
-ApplyTitle = "Artists applications open!"
+ApplyCta = ""
+ApplyLink = ""
+ApplyTitle = ""
 artistsCta = "See all artists of the 2019 edition"
 artistsTitle = "Meet the artists"
 description = ""
