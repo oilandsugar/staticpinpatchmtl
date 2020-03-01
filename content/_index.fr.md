@@ -1,7 +1,7 @@
 +++
-ApplyCta = ""
-ApplyLink = ""
-ApplyTitle = ""
+ApplyCta = "Appliquer"
+ApplyLink = "/fr/apply/artists/"
+ApplyTitle = "Appliquez comme artiste!"
 artistsCta = "Découvrez tous les artistes de l'édition 2019"
 artistsTitle = "Découvrez les artistes"
 description = ""
