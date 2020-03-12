@@ -1,6 +1,5 @@
 +++
 description = "Fred est une designer graphique curieuse qui a récemment découvert une passion pour la création de pins! \nFred is a curious graphic designer who recently got obsessed with creating enamel pins!"
-draft = true
 featured = "/img/fred_1.jpg"
 hometown = "Montréal"
 image2 = ""
