@@ -1,14 +1,14 @@
 +++
-description = "Yas Petit Poulet is a mixed-race queer artist based in Montreal.\nThey work on gender, sexuality & identity."
+description = "Fred est une designer graphique curieuse qui a récemment découvert une passion pour la création de pins! \nFred is a curious graphic designer who recently got obsessed with creating enamel pins!"
 draft = true
-featured = "/img/YasPetitPoulet_2.jpg"
+featured = "/img/fred_1.jpg"
 hometown = "Montréal"
-image2 = "/img/YasPetitPoulet_3.jpg"
-image3 = "/img/YasPetitPoulet_1.jpg"
-instagram = "https://www.instagram.com/yas.petit.poulet"
+image2 = ""
+image3 = ""
+instagram = "https://www.instagram.com/fred.lanthier"
 logo = ""
-shopurl = "https://www.yaspetitpoulet.com/shop"
-title = "Yas Petit Poulet"
+shopurl = "https://www.instagram.com/fred.lanthier/"
+title = "Fred Lanthier"
 years = []
 
 +++
