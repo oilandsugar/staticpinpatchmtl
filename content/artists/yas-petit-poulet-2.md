@@ -1,14 +1,14 @@
 +++
-description = "Yas Petit Poulet is a mixed-race queer artist based in Montreal.\nThey work on gender, sexuality & identity."
+description = "Windy & Wallflower is a collective of two queer artists who not only try to tell stories through their comics, books and novels but through the enamel pins they make as well!"
 draft = true
-featured = "/img/YasPetitPoulet_2.jpg"
+featured = "/img/willy_1.jpg"
 hometown = "Montréal"
-image2 = "/img/YasPetitPoulet_3.jpg"
-image3 = "/img/YasPetitPoulet_1.jpg"
-instagram = "https://www.instagram.com/yas.petit.poulet"
+image2 = "/img/willy_2.jpg"
+image3 = "/img/willy_3.jpg"
+instagram = "https://www.instagram.com/windywallflower"
 logo = ""
-shopurl = "https://www.yaspetitpoulet.com/shop"
-title = "Yas Petit Poulet"
+shopurl = "https://www.etsy.com/shop/windywallflower"
+title = "Windy & Wallflower"
 years = []
 
 +++
