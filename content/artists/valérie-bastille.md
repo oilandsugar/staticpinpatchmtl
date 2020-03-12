@@ -1,6 +1,5 @@
 +++
 description = "The Sucrose Collective is made of three artists from Montréal that are passionate about visual art! Promoting friendship and artsy behavior, we hope that our love for creativity will make you want to pick up a pencil!"
-draft = true
 featured = "/img/Valerie1.jpg"
 hometown = "Montreal"
 image2 = "/img/Valerie2.jpg"
