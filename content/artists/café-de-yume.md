@@ -1,14 +1,14 @@
 +++
-description = "Café de Yume (Café of Dreams) specializes in cute goodies!"
+description = "Kat is a Toronto-based illustrator with a background in architecture and urban design! She loves creating artwork and products themed around city life, nature, and other aspects of urban living.  "
 draft = true
-featured = "/img/cafe_1.jpg"
+featured = "/img/Urbsvidi_1.jpg"
 hometown = "Toronto"
-image2 = "/img/cafe_3.jpg"
-image3 = "/img/cafe_2.jpg"
-instagram = "https://www.instagram.com/celiaa.t"
+image2 = "/img/Urbsvidi_2.jpg"
+image3 = "/img/Urbsvidi_3.jpg"
+instagram = "https://www.instagram.com/urbsvidi"
 logo = ""
-shopurl = "www.cafedeyume.com"
-title = "Café de Yume"
+shopurl = "https://www.etsy.com/shop/urbsvidi"
+title = "Urbsvidi"
 years = []
 
 +++
