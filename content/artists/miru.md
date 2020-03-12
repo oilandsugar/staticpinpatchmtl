@@ -1,6 +1,5 @@
 +++
 description = "Café de Yume (Café of Dreams) specializes in cute goodies!"
-draft = true
 featured = "/img/cafe_1.jpg"
 hometown = "Toronto"
 image2 = "/img/cafe_3.jpg"
