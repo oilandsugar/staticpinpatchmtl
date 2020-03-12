@@ -1,14 +1,13 @@
 +++
-description = "The Foragers Club is a project in which Kimberly makes pins and patches and prints to channel a strong enthusiasm for nature and plants. Keenly interested in herbalism, Kimberly loves to design pins of some favorite herbal pals."
-draft = true
-featured = "/img/foragers1.jpg"
-hometown = "Toronto"
-image2 = "/img/foragers2.jpg"
-image3 = "/img/foragers3.jpg"
-instagram = "https://www.instagram.com/the.foragersclub"
+description = "Yas Petit Poulet is a mixed-race queer artist based in Montreal.\nThey work on gender, sexuality & identity."
+featured = "/img/YasPetitPoulet_2.jpg"
+hometown = "Montréal"
+image2 = "/img/YasPetitPoulet_3.jpg"
+image3 = "/img/YasPetitPoulet_1.jpg"
+instagram = "https://www.instagram.com/yas.petit.poulet"
 logo = ""
-shopurl = "http://theforagers.club"
-title = "The Foragers Club"
-years = ["2019"]
+shopurl = "https://www.yaspetitpoulet.com/shop"
+title = "Yas Petit Poulet"
+years = []
 
 +++
