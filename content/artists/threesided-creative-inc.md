@@ -1,14 +1,14 @@
 +++
-description = "Threesided Creative are a two-person team who loves to make fun, colourful and quirky original designs that take inspiration from pop culture and video games."
+description = "Curoie is an illustrator that designs enamel pins and apparel inspired from Japanese pop culture, and architecture."
 draft = true
-featured = "/img/three_1.jpg"
-hometown = "Oakville"
-image2 = "/img/three_2.jpg"
-image3 = "/img/three_3.jpg"
-instagram = "https://www.instagram.com/ninjacait"
+featured = "/img/curoie_3.jpg"
+hometown = "Markham"
+image2 = "/img/curoie_1.jpg"
+image3 = "/img/curoie_2.jpg"
+instagram = "https://www.instagram.com/curoie"
 logo = ""
-shopurl = "https://www.etsy.com/ca/shop/retrospecked"
-title = "Threesided Creative Inc."
+shopurl = "http://curoie.com/"
+title = "Curoie"
 years = []
 
 +++
