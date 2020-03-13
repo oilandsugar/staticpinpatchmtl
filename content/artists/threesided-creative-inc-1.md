@@ -1,6 +1,5 @@
 +++
 description = "Sugarbones is an artist & designer from Hamilton, Ontario! Through the use of pop culture, nostalgia, themes of empowerment, and humor, Sugarbones weaves a world of everything pink and powerful."
-draft = true
 featured = "/img/sugar_1.jpg"
 hometown = "Hamilton"
 image2 = "/img/sugar_2.jpg"
