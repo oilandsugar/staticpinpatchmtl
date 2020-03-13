@@ -1,5 +1,5 @@
 +++
-description = "Tiny Castle is a two-person team who loves to make fun, colourful and quirky original designs that take inspiration from pop culture and video games."
+description = "Tiny Castle Co. – Lifestyle Enhancement Accessories from Toronto, Canada."
 featured = "/img/tinycastle_1.jpg"
 hometown = "Toronto"
 image2 = "/img/tinycastle_2.jpg"
