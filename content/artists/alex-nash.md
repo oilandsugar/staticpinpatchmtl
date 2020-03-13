@@ -6,8 +6,8 @@ image2 = "/img/alexnash2.jpg"
 image3 = "/img/alexnash3.jpg"
 instagram = "https://www.instagram.com/nash.illustration"
 logo = ""
-shopurl = ""
-title = "Alex Nash"
+shopurl = "https://www.etsy.com/ca/shop/ThistleandAshDesigns"
+title = "Thistle & Ash"
 years = ["2019"]
 
 +++
