@@ -1,6 +1,5 @@
 +++
 description = "Brownrabbits make wholesome and dumb looking pins. They hope you will like them!"
-draft = true
 featured = "/img/brownrabbits_1.png"
 hometown = "Toronto"
 image2 = "/img/brownrabbits_2.png"
