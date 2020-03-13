@@ -1,14 +1,14 @@
 +++
-description = "Tiny Castle Co. – Lifestyle Enhancement Accessories from Toronto, Canada."
+description = "Brownrabbits make wholesome and dumb looking pins. They hope you will like them!"
 draft = true
-featured = "/img/tinycastle_1.jpg"
+featured = "/img/brownrabbits_1.png"
 hometown = "Toronto"
-image2 = "/img/tinycastle_2.jpg"
-image3 = "/img/tinycastle_3.jpg"
-instagram = "https://www.instagram.com/tinycastleco"
+image2 = "/img/brownrabbits_2.png"
+image3 = "/img/brownrabbits_3.png"
+instagram = "https://www.instagram.com/brownrabbitsart"
 logo = ""
-shopurl = "https://tinycastle.bigcartel.com/"
-title = "Tiny Castle"
+shopurl = "https://www.etsy.com/ca/shop/Brownrabbits"
+title = "Brownrabbits"
 years = []
 
 +++
