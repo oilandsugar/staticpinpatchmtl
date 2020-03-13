@@ -1,14 +1,14 @@
 +++
-description = "Yas Petit Poulet is a mixed-race queer artist based in Montreal.\nThey work on gender, sexuality & identity."
+description = "Threesided Creative are a two-person team who loves to make fun, colourful and quirky original designs that take inspiration from pop culture and video games."
 draft = true
-featured = "/img/YasPetitPoulet_2.jpg"
-hometown = "Montréal"
-image2 = "/img/YasPetitPoulet_3.jpg"
-image3 = "/img/YasPetitPoulet_1.jpg"
-instagram = "https://www.instagram.com/yas.petit.poulet"
+featured = "/img/three_1.jpg"
+hometown = "Oakville"
+image2 = "/img/three_2.jpg"
+image3 = "/img/three_3.jpg"
+instagram = "https://www.instagram.com/ninjacait"
 logo = ""
-shopurl = "https://www.yaspetitpoulet.com/shop"
-title = "Yas Petit Poulet"
+shopurl = "https://www.etsy.com/ca/shop/retrospecked"
+title = "Threesided Creative Inc."
 years = []
 
 +++
