@@ -1,14 +1,14 @@
 +++
-description = "Threesided Creative are a two-person team who loves to make fun, colourful and quirky original designs that take inspiration from pop culture and video games."
+description = "Sugarbones is an artist & designer from Hamilton, Ontario! Through the use of pop culture, nostalgia, themes of empowerment, and humor, Sugarbones weaves a world of everything pink and powerful."
 draft = true
-featured = "/img/three_1.jpg"
-hometown = "Oakville"
-image2 = "/img/three_2.jpg"
-image3 = "/img/three_3.jpg"
-instagram = "https://www.instagram.com/ninjacait"
+featured = "/img/sugar_1.jpg"
+hometown = "Hamilton"
+image2 = "/img/sugar_2.jpg"
+image3 = "/img/sugar_3.jpg"
+instagram = "https://www.instagram.com/sugarbone"
 logo = ""
-shopurl = "https://www.etsy.com/ca/shop/retrospecked"
-title = "Threesided Creative Inc."
+shopurl = "http://www.sugarbones.net"
+title = "Sugarbones"
 years = []
 
 +++
