@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/badaboomprintshop/"
 logo = ""
 shopurl = "https://badaboom-studio.com/"
 title = "Badaboöm Studio"
-years = ["2017", "2018", "2019"]
+years = ["2020", "2017", "2018", "2019"]
 
 +++

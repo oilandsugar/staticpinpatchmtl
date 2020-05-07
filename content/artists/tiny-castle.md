@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/brownrabbitsart"
 logo = ""
 shopurl = "https://www.etsy.com/ca/shop/Brownrabbits"
 title = "Brownrabbits"
-years = []
+years = ["2020"]
 
 +++
