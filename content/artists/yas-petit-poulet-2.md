@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/windywallflower"
 logo = ""
 shopurl = "https://www.etsy.com/shop/windywallflower"
 title = "Windy & Wallflower"
-years = []
+years = ["2020"]
 
 +++
