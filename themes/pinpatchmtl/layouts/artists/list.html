@@ -20,7 +20,7 @@
       <div class='big-wrap artists'>
         <div class="flex-row flex-wrap artist-container">
           {{ range .Site.Home.AllTranslations  }}
-            {{ range where .Pages "Type" "artists" }}
+            {{ range where .RegularPages "Type" "artists" }}
               {{ partial "artist_card_page.html" . }}
             {{ end }}
           {{end}}
