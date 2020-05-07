@@ -1,15 +1,13 @@
 +++
-
-title = "House of Pink Art"
-type = "artists"
-shopurl = "https://www.etsy.com/ca/shop/HouseofPinkArt"
-instagram = "https://www.instagram.com/houseofpinkart/"
+description = "House of Pink is the sickeningly sweet and alluringly dark brainchild of Kaitlin Annett. At House of Pink you’ll find an array of pins featuring occult motifs, monster girls, and soft witchy designs. "
 featured = "/img/houseofpink1.jpg"
+hometown = "Montreal"
 image2 = "/img/houseofpink2.jpg"
 image3 = "/img/houseofpink3.jpg"
+instagram = "https://www.instagram.com/houseofpinkart/"
 logo = ""
-hometown = "Montreal"
-years = ["2018", "2019"]
-description = "House of Pink is the sickeningly sweet and alluringly dark brainchild of Kaitlin Annett. At House of Pink you’ll find an array of pins featuring occult motifs, monster girls, and soft witchy designs. "
+shopurl = "https://www.etsy.com/ca/shop/HouseofPinkArt"
+title = "House of Pink Art"
+years = ["2020", "2018", "2019"]
 
 +++

@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/hoodrats.co/"
 logo = ""
 shopurl = "http://www.WeAreHoodRats.com"
 title = "Hood Rats"
-years = ["2018", "2019"]
+years = ["2020", "2018", "2019"]
 
 +++
