@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/_the22nd"
 logo = ""
 shopurl = "http://the22nd.tictail.com/"
 title = "The 22nd"
-years = ["2018", "2019"]
+years = ["2020", "2018", "2019"]
 
 +++

@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/sugarbone"
 logo = ""
 shopurl = "http://www.sugarbones.net"
 title = "Sugarbones"
-years = []
+years = ["2020"]
 
 +++
