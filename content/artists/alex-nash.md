@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/nash.illustration"
 logo = ""
 shopurl = "https://www.etsy.com/ca/shop/ThistleandAshDesigns"
 title = "Thistle & Ash"
-years = ["2019"]
+years = ["2020", "2019"]
 
 +++
