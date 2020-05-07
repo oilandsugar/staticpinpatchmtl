@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/no.gimmic"
 logo = ""
 shopurl = "https://www.nogimmic.com/"
 title = "No.Gimmic"
-years = []
+years = ["2020"]
 
 +++
