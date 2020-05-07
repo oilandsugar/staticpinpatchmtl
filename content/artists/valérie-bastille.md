@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/Sucrose.Collective/"
 logo = ""
 shopurl = "http://valeriebastille.storenvy.com/"
 title = "Sucrose Collective"
-years = ["2018", "2019"]
+years = ["2020"]
 
 +++

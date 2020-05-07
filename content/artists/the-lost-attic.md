@@ -1,15 +1,13 @@
 +++
-
-title = "The Lost Attic"
-type = "artists"
-instagram = "https://www.instagram.com/findthelostattic/"
+description = ""
 featured = "/img/Main_TheLostAttic.jpg"
+hometown = "Montréal"
 image2 = ""
 image3 = ""
+instagram = "https://www.instagram.com/findthelostattic/"
 logo = ""
-hometown = "Montréal"
 shopurl = "http://thelostattic.storenvy.com"
-years = ["2018"]
-description = ""
+title = "The Lost Attic"
+years = ["2020", "2018"]
 
 +++

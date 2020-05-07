@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/valeriebastille/"
 logo = ""
 shopurl = "http://valeriebastille.storenvy.com"
 title = "Valérie Bastille"
-years = ["2020", "2018", "2019"]
+years = ["2018", "2019"]
 
 +++
