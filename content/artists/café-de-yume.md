@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/urbsvidi"
 logo = ""
 shopurl = "https://www.etsy.com/shop/urbsvidi"
 title = "Urbsvidi"
-years = []
+years = ["2020"]
 
 +++
