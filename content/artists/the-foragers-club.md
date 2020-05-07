@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/yas.petit.poulet"
 logo = ""
 shopurl = "https://www.yaspetitpoulet.com/shop"
 title = "Yas Petit Poulet"
-years = []
+years = ["2020"]
 
 +++
