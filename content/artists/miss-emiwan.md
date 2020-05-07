@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/miru.a"
 logo = ""
 shopurl = "https://www.etsy.com/ca/shop/MiruBoutique"
 title = "Miru"
-years = []
+years = ["2020"]
 
 +++

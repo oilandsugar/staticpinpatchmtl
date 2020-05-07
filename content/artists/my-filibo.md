@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/myfilibo"
 logo = ""
 shopurl = "http://www.myfilibo.com"
 title = "My Filibo"
-years = []
+years = ["2020"]
 
 +++
