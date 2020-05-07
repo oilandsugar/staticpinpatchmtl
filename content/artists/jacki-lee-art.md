@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/secretplanetprintshop"
 logo = ""
 shopurl = "http://www.secretplanet.ca"
 title = "Secret Planet Print Shop"
-years = ["2019"]
+years = ["2020", "2019"]
 
 +++
