@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/maruti_bitamin"
 logo = ""
 shopurl = "http://koyamori.ca"
 title = "Koyamori"
-years = ["2019"]
+years = ["2020", "2019"]
 
 +++
