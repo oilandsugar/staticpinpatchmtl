@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/celestialfox.ca"
 logo = ""
 shopurl = "http://celestialfox.ca"
 title = "Celestial Fox"
-years = ["2019"]
+years = ["2020", "2019"]
 
 +++

@@ -8,6 +8,6 @@ instagram = "https://www.instagram.com/ambivalentlyyours/"
 logo = ""
 shopurl = "https://www.etsy.com/shop/ambivalentlyyours"
 title = "Ambivalently Yours"
-years = ["2017", "2018", "2019"]
+years = ["2020", "2017", "2018", "2019"]
 
 +++
