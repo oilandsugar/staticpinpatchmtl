@@ -1,0 +1,21 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory:  /
+    environment:
+      HUGO_BUILD_DIR: /public
+    steps:
+      - run: apt-get update && apt-get install -y --no-install-recommends git
+      - checkout
+      - run: curl -L https://github.com/bep/s3deploy/releases/download/v2.0.1/s3deploy_2.0.1_Linux-64bit.tar.gz | tar xvz
+      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
+      - deploy:
+          name: deploy
+          command: |
+            if [ "${CIRCLE_BRANCH}" = "master" ]; then
+              ./s3deploy -source=$HUGO_BUILD_DIR -region=us-east-1 -bucket=pinpatchmtl.com -path=/
+            else
+              echo "Not master branch, dry run only"
+            fi
