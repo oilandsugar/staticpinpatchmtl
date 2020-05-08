@@ -9,5 +9,6 @@ logo = ""
 shopurl = "https://www.etsy.com/ca/shop/ThistleandAshDesigns"
 title = "Thistle & Ash"
 years = ["2020", "2019"]
+type = "artists"
 
 +++
