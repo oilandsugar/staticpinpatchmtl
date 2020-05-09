@@ -6,7 +6,7 @@ image2 = "/img/houseofpink2.jpg"
 image3 = "/img/houseofpink3.jpg"
 instagram = "https://www.instagram.com/houseofpinkart/"
 logo = ""
-shopurl = "https://www.etsy.com/ca/shop/HouseofPinkArt"
+shopurl = "https://houseofpinkart.com/"
 title = "House of Pink Art"
 years = ["2020", "2018", "2019"]
 
