@@ -6,7 +6,7 @@ image2 = ""
 image3 = ""
 instagram = "https://www.instagram.com/fred.lanthier"
 logo = ""
-shopurl = "https://www.instagram.com/fred.lanthier/"
+shopurl = "https://www.etsy.com/ca/shop/fredlanthier"
 title = "Fred Lanthier"
 years = ["2020"]
 
