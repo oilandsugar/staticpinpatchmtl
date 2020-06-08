@@ -1,0 +1,260 @@
+<section class="content medium-grey-back preorder-pin big-padding-top big-padding-bottom">
+  <div id='product-component-1591653657951'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'maniere-noire.myshopify.com',
+      storefrontAccessToken: '4e56c0eb920f650d85b2909fb9c1ab78',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '4693632811093',
+        node: document.getElementById('product-component-1591653657951'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D%20CAD',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0",
+          "margin-bottom": "50px"
+        },
+        "text-align": "left"
+      },
+      "title": {
+        "font-size": "26px",
+        "color": "#ffffff"
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#0000ff"
+        },
+        "background-color": "#0000e2",
+        ":focus": {
+          "background-color": "#0000ff"
+        },
+        "border-radius": "4px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      },
+      "price": {
+        "font-size": "18px",
+        "color": "#ffffff"
+      },
+      "compareAt": {
+        "font-size": "15.299999999999999px",
+        "color": "#ffffff"
+      },
+      "unitPrice": {
+        "font-size": "15.299999999999999px",
+        "color": "#ffffff"
+      },
+      "description": {
+        "color": "#ffffff"
+      }
+    },
+    "layout": "horizontal",
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "description": true
+    },
+    "width": "100%",
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#0000ff"
+        },
+        "background-color": "#0000e2",
+        ":focus": {
+          "background-color": "#0000ff"
+        },
+        "border-radius": "4px"
+      },
+      "quantityInput": {
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px"
+      }
+    }
+  },
+  "cart": {
+    "styles": {
+      "button": {
+        "font-weight": "bold",
+        "font-size": "16px",
+        "padding-top": "16px",
+        "padding-bottom": "16px",
+        ":hover": {
+          "background-color": "#0000ff"
+        },
+        "background-color": "#0000e2",
+        ":focus": {
+          "background-color": "#0000ff"
+        },
+        "border-radius": "4px"
+      },
+      "title": {
+        "color": "#666984"
+      },
+      "header": {
+        "color": "#666984"
+      },
+      "lineItems": {
+        "color": "#666984"
+      },
+      "subtotalText": {
+        "color": "#666984"
+      },
+      "subtotal": {
+        "color": "#666984"
+      },
+      "notice": {
+        "color": "#666984"
+      },
+      "currency": {
+        "color": "#666984"
+      },
+      "close": {
+        "color": "#666984",
+        ":hover": {
+          "color": "#666984"
+        }
+      },
+      "empty": {
+        "color": "#666984"
+      },
+      "noteDescription": {
+        "color": "#666984"
+      },
+      "discountText": {
+        "color": "#666984"
+      },
+      "discountIcon": {
+        "fill": "#666984"
+      },
+      "discountAmount": {
+        "color": "#666984"
+      }
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-weight": "bold",
+        "background-color": "#0000e2",
+        ":hover": {
+          "background-color": "#0000ff"
+        },
+        ":focus": {
+          "background-color": "#0000ff"
+        }
+      },
+      "count": {
+        "font-size": "16px"
+      }
+    }
+  },
+  "lineItem": {
+    "styles": {
+      "variantTitle": {
+        "color": "#666984"
+      },
+      "title": {
+        "color": "#666984"
+      },
+      "price": {
+        "color": "#666984"
+      },
+      "fullPrice": {
+        "color": "#666984"
+      },
+      "discount": {
+        "color": "#666984"
+      },
+      "discountIcon": {
+        "fill": "#666984"
+      },
+      "quantity": {
+        "color": "#666984"
+      },
+      "quantityIncrement": {
+        "color": "#666984",
+        "border-color": "#666984"
+      },
+      "quantityDecrement": {
+        "color": "#666984",
+        "border-color": "#666984"
+      },
+      "quantityInput": {
+        "color": "#666984",
+        "border-color": "#666984"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
+    </section>
